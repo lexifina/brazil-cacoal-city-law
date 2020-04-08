@@ -1,0 +1,2 @@
+# LEI Nº 4.437/PMC/2020 AUTORIZA O PODER EXECUTIVO MUNICIPAL A FAZER CONCESSÃO DE DIREITO REAL DE USO DO IMÓVEL PÚBLICO LOCALIZADO NO LOTE URBANO, LOTE 854, QUADRA 50, SETOR 21, E DÁ OUTRAS PROVIDÊNCIAS.
+A PREFEITA DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ela sanciona a seguinte Lei:
