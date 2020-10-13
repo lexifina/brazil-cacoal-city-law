@@ -1,0 +1,1 @@
+# LEI N. 4.579/PMC/2020 DENOMINA AS VIAS PÚBLICAS LOCALIZADAS NO RESIDENCIAL PARK DOS BURITIS E DÁ OUTRAS PROVIDÊNCIAS A PREFEITA DE CACOAL EM EXERCÍCIO, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ela sanciona a seguinte Lei:
