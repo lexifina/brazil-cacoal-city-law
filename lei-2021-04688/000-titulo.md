@@ -1,0 +1,2 @@
+# LEI Nº 4.688/PMC/2021 ALTERA A LEI 4.665/PMC/2021 QUE CRIA INDENIZAÇÃO POR EXPOSIÇÃO AO NOVO CORONAVÍRUS AOS SERVIDORES QUE ESTEJAM LOTADOS NA UNIDADE DESTINADA AO COMBATE DO COVID-19.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e sanciona a seguinte Lei:
