@@ -1,0 +1,2 @@
+# LEI N. 4.758/PMC/2021 DENOMINA A ÁREA VERDE (RESERVA LEGAL ANEXA A PISTA DE CAMINHADA), LOCALIZADA NO BAIRRO JARDIM ELDORADO, COMO PARQUE MUNICIPAL VEREADOR CELSO ADAME.
+O PREFEITO MUNICIPAL DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a seguinte Lei:
