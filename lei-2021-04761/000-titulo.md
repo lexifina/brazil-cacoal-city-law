@@ -1,0 +1,2 @@
+# LEI N. 4.761/PMC/2021 REVOGA A LEI Nº 2.937/PMC/2012, REFORMULA O PROGRAMA DE VALORIZAÇÃO DAS ESCOLAS MUNICIPAIS DE CACOAL - PROVEMC, ORIENTA SUA IMPLANTAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICIPIO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a presente Lei:
