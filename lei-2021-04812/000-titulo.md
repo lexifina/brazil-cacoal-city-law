@@ -1,0 +1,2 @@
+# LEI N. 4.812/PMC/2021 ALTERA A LEI MUNICIPAL N. 3.956/PMC/2017 QUE DISPÕE SOBRE INCENTIVOS FISCAIS PARA INDÚSTRIAS INSTALADAS E QUE VIEREM A SE INSTALAR NO MUNICÍPIO DE CACOAL.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sancionou a seguinte Lei:
