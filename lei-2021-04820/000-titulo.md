@@ -1,0 +1,1 @@
+# LEI Nº 4.820/PMC/2021 ALTERA A LEI N. 2.735/PMC/2010 QUE DISPÕE SOBRE O PLANO DE CARGO, CARREIRA E REMUNERAÇÃO DOS SERVIDORES PÚBLICOS MUNICIPAIS E DÁ OUTRAS PROVIDÊNCIAS O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
