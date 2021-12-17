@@ -1,0 +1,3 @@
+# LEI Nº 4.938/PMC/2021 DISPÕE SOBRE REVOGAÇÃO DA LEI N.
+631/PMC/1995 - QUE AUTORIZOU O PODER EXECUTIVO MUNICIPAL A DOAR ÁREA À FASBEM - FUNDAÇÃO ASSISTENCIAL BATISTA DE ENSINO E MISERICÓRDIA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
