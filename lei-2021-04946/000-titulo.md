@@ -1,0 +1,1 @@
+# LEI N. 4.946/PMC/2021 AUTORIZA A CONCESSÃO DE SUBSÍDIO TARIFÁRIO AO TRANSPORTE PÚBLICO COLETIVO URBANO DE PASSAGEIROS NO MUNICÍPIO DE CACOAL E DÁ OUTRAS PROVIDÊNCIAS O PREFEITO DO MUNICÍPIO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo de Cacoal aprovou e ele sanciona a seguinte lei:
