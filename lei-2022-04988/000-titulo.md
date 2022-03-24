@@ -1,0 +1,3 @@
+# LEI Nº 4.988/PMC/2022 DISPÕE SOBRE REVOGAÇÃO DA LEI N.
+569/PMC/1995 - QUE AUTORIZOU O PODER EXECUTIVO MUNICIPAL A DOAR ÁREA À ASSOCIAÇÃO DOS BAIRROS BANDEIRANTES E VISTA ALEGRE E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
