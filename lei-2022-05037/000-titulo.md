@@ -1,0 +1,2 @@
+# LEI Nº 5.037/PMC/2022 DISPÕE SOBRE REFORMULAÇÃO ADMINISTRATIVA AO ORÇAMENTO VIGENTE POR MEIO DE TRANSFERÊNCIA, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
