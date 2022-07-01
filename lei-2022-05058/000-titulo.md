@@ -1,0 +1,2 @@
+# LEI N. 5.058/PMC/2022 ALTERA A LEI N. 4.946/PMC/2021, QUE AUTORIZA A CONCESSÃO DE SUBSÍDIO TARIFÁRIO AO TRANSPORTE PÚBLICO COLETIVO URBANO DE PASSAGEIROS NO MUNICÍPIO DE CACOAL, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a seguinte Lei:
