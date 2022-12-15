@@ -1,0 +1,2 @@
+# LEI N.5.143/PMC/2022 AUTORIZA O PODER EXECUTIVO DO MUNICÍPIO DE CACOAL A DOAR, COM BASE NO INTERESSE PÚBLICO, IMÓVEL AO GOVERNO DO ESTADO DE RONDÔNIA, PARA INSTALAÇÃO DO HOSPITAL REGIONAL DE CACOAL.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a seguinte Lei:
