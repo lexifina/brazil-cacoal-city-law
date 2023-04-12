@@ -1,0 +1,5 @@
+# LEI N. 5.170/PMC/2023.
+ALTERA O ART.
+8º DA LEI Nº.
+4.708/PMC/2021, QUE DISPÕE SOBRE A REGULARIZAÇÃO FUNDIÁRIA, DESMEMBRAMENTO DE LOTES EM CONDOMÍNIO EM CARÁTER EXCEPCIONAL, REGULARIZAÇÃO DE CONSTRUÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a seguinte Lei:
