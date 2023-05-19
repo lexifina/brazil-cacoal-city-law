@@ -1,0 +1,3 @@
+# LEI N. 5.197/PMC/2023 CONCEDE AO SR. DAVYS SLEMAN DE NEGREIROS O
+TÍTULO DE CIDADÃO BENEMÉRITO DA CIDADE DE CACOAL - RO.
+O PREFEITO MUNICIPAL DE CACOAL, faz saber que o Poder Legislativo Municipal aprovou e eu sanciono a seguinte Lei:
