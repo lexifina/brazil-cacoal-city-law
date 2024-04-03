@@ -1,0 +1,2 @@
+# LEI Nº 5.353/PMC/2024 DISPÕE SOBRE A REGULAMENTAÇÃO DO REPASSE DO INCENTIVO FINANCEIRO ADICIONAL AOS AGENTES COMUNITÁRIOS DE SAÚDE - ACS E AGENTE DE COMBATE A ENDEMIAS - ACE, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
