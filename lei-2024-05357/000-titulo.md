@@ -1,0 +1,2 @@
+# LEI N. 5.357/PMC/2024 INSTITUI GRATIFICAÇÃO DE INCENTIVO ESPECIAL AOS SERVIDORES EFETIVOS MUNICIPAIS,LOTADOS NA SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E TRABALHO, E, DÁ OUTRAS PROVIDÊNCIAS.
+OPREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
