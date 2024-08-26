@@ -1,0 +1,2 @@
+# LEI Nº 5.443/PMC/2024 ESTADO DE RONDÔNIA PREFEITURA DE CACOAL PROCURADORIA-GERAL DO MUNICÍPIO CONCEDE AO SENHOR JOÃO PICHEK O TÍTULO DE CIDADÃO BENEMÉRITO DE CACOAL/RO E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a seguinte Lei:
