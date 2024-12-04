@@ -1,0 +1,1 @@
+# LEI N. 5.483/PMC/2024 DISPÕE SOBRE A PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DISPOSTO NO ART. 10 DA LEI N° 4.094/PMC/18, E DÁ OUTRAS PROVIDÊNCIAS O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
