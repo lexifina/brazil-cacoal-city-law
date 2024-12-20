@@ -1,0 +1,2 @@
+# LEI N. 5.490/PMC/2024 PRIORIZAR A AQUISIÇÃO DE CAFÉ TORRADO EM GRÃO E CAFÉ TORRADO MOÍDO DA ESPÉCIE "CAFÉ ROBUSTA AMAZÔNICO" PROVENIENTES DA AGRICULTURA FAMILIAR E AFINS DO MUNICIPIO DE CACOAL, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
