@@ -1,0 +1,2 @@
+# LEI N. 5.514/PMC/2025 DISPÕE SOBRE A DESAFETAÇÃO E UNIFICAÇÃO DO LOTE 395, DA QUADRA 16, SETOR 11 E ALTERA A LEI 2.420/PMC/2009 QUE APROVA O LOTEAMENTO SANTO ANTÔNIO COMO ZONEAMENTO DE USO MISTO E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ele sanciona a seguinte lei:
