@@ -1,0 +1,2 @@
+# LEI N. 5.573/PMC/2025 DISPÕE SOBRE A REGULARIZAÇÃO DO REGIME JURÍDICO DOS AGENTES COMUNITÁRIOS DE SAÚDE (ACS) E AGENTES DE COMBATE ÀS ENDEMIAS (ACE) DO MUNICÍPIO DE CACOAL REAFIRMA SUA NATUREZA ESTATUTÁRIA, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
