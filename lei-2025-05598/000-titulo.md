@@ -1,0 +1,3 @@
+# LEI N. 5.598/PMC/2025.
+DISPÕE SOBRE CONCESSÃO DE DIREITO REAL DE USO DO IMÓVEL PÚBLICO DENOMINADO LOTE 14-D, QUADRA 14, SETOR INDUSTRIAL, COM ÁREA DE 3.000M², INSCRITO NO 2º REGISTRO DE IMÓVEIS DE CACOAL SOB A MATRÍCULA N. 11.913 E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
