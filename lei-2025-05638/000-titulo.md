@@ -1,0 +1,2 @@
+# LEI Nº 5.638/PMC/2025 INCLUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE CACOAL O CONGRESSO DE JOVENS COM VISÃO MISSIONÁRIA DA ASSEMBLEIA DE DEUS (CEJOVIM), E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
