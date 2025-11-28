@@ -1,0 +1,2 @@
+# LEI N.º 5.692/PMC/2025 DISPÕE SOBRE A ALTERAÇÃO DE NOMENCLATURA DO CARGO DE VIGILANTE, PREVISTO NA LEI N.º 2.735/PMC/2010, LEI N.º 2.543/PMC/2009 E DEMAIS LEIS, PARA GUARDA CIVIL PATRIMONIAL MUNICIPAL, E DÁ OUTRAS PROVIDENCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
