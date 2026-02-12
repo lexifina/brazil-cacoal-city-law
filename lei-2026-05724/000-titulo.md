@@ -1,0 +1,3 @@
+# LEI N° 5.724/PMC/2026.
+DISPÕE SOBRE A IMPLANTAÇÃO DO SERVIÇO MÓVEL DE URGÊNCIA SAMU 192 E CENTRAL DE REGULAÇÃO DAS URGÊNCIAS - CRU, NO ÂMBITO DO MUNICÍPIO DE CACOAL/RO, VINCULADO A SECRETARIA MUNICIPAL DE SAÚDE SEMUSA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo do Município de Cacoal aprovou e ele sanciona a seguinte Lei:
