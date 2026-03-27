@@ -1,0 +1,2 @@
+# LEI Nº 5.749/PMC/2026 ALTERA A LEI MUNICIPAL N° 2.735/PMC/2010, QUE DISPÕE SOBRE O PLANO DE CARGOS, CARREIRAS E REMUNERAÇÃO DOS SERVIDORES PÚBLICOS MUNICIPAIS DE CACOAL, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DE CACOAL, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ele sanciona a seguinte Lei:
