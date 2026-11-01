@@ -1,0 +1,9 @@
+{
+  "path": "br-ro-cacoal",
+  "code": "BR-RO-CACOAL",
+  "name": "Cacoal (city)",
+  "level": "municipality",
+  "parent": "br-ro",
+  "repo": "https://github.com/lexifina/brazil-cacoal-city-law",
+  "build": "built: the law of Cacoal from the Câmara Municipal's SAPL"
+}

@@ -1,0 +1,61 @@
+{
+ "country": "BR-RO-CACOAL",
+ "acts": [
+  {
+   "slug": "lei-2026-05842",
+   "short": "Lei 5842/2026",
+   "title": "Lei nº 5.842, de 22 de setembro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3686",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3686/lei_no_5.842-pmc-2026.pdf",
+     "sha256": "84e362977c33a46ce9c29191bd4fdf8e7bf5908989eedab4a52bd7d7b68100cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05840",
+   "short": "Lei 5840/2026",
+   "title": "Lei nº 5.840, de 14 de setembro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3684",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3684/lei_no_5.840-pmc-2026.pdf",
+     "sha256": "98b6a1f5b3ab3fdca0510ec3ff27f683806f5299fdac7e4d04bafc87835ce165"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05804",
+   "short": "Lei 5804/2026",
+   "title": "Lei nº 5.804, de 10 de junho de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3646",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3646/lei_no_5.804-pmc-2026.pdf",
+     "sha256": "671e87835d71c05ee4845fb970021778fce0bc2261eb9200ddc6fdbccffb5648"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05802",
+   "short": "Lei 5802/2026",
+   "title": "Lei nº 5.802, de 10 de junho de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3644",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3644/lei_no_5.802-pmc-2026.pdf",
+     "sha256": "89e7d8e8db62abcf23de8ee6f0d5c2300809b14909272cde3d2c5407994d4bc9"
+    }
+   ]
+  }
+ ]
+}
