@@ -2884,6 +2884,1210 @@
      "sha256": "0ab234232e2265a0ef3244a209938bcffc518d69946c250fdce3729094ff0e76"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-05497",
+   "short": "Lei 5497/2024",
+   "title": "Lei nº 5.497, de 18 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3494",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3494/leis-5497-2024.pdf",
+     "sha256": "5cbc17797f4671e3f3b08afdb199f16fcf44f4748e32a1fd85282015cf042cb5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05489",
+   "short": "Lei 5489/2024",
+   "title": "Lei nº 5.489, de 9 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3301",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3301/lei_5.489_-_pmc_2024_-_reformulacao_adm_por_meio_de_remanejamento_r_170.45157_semagri.pdf",
+     "sha256": "fe23b9f66aeaad20d98ac0f674633a19fd6b761cb0b6bd11e13d607143f76741"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05488",
+   "short": "Lei 5488/2024",
+   "title": "Lei nº 5.488, de 9 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3357",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3357/lei_5.488_-_pmc_2024_-_reformulacao_adm_por_meio_de_remanejamento_r_680.00000_fms.pdf",
+     "sha256": "f8b509b46027dfbdb422900745ed765d66f3be407c85b3be8faf256fb142236b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05487",
+   "short": "Lei 5487/2024",
+   "title": "Lei nº 5.487, de 6 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3256",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3256/lei_n._5487_-_plo_n._188_2024.pdf",
+     "sha256": "7b614751f49ad1581250f2833cb643550e6ade0ea6714a080b2502f554fa007b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05486",
+   "short": "Lei 5486/2024",
+   "title": "Lei nº 5.486, de 6 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3255",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3255/lei_n._5486_-_plo_n._190_2024.pdf",
+     "sha256": "c19e85537f065668a166b6ba3d21d2e4ea2887d89c3971b035a2bcf4b7bea244"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05485",
+   "short": "Lei 5485/2024",
+   "title": "Lei nº 5.485, de 5 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3258",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3258/lei_n._5485_-_plo_n._178_2024.pdf",
+     "sha256": "65aad42e6d558296cc582172ff918c0e50962e82c1bb243c3156fb153b48494d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05484",
+   "short": "Lei 5484/2024",
+   "title": "Lei nº 5.484, de 4 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3249",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3249/lei_n._5484_-_plo_n._164_2024.pdf",
+     "sha256": "4142c1136a3b29854337c3c04448ef61df389ba40ca65538857f9d27f42ce947"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05483",
+   "short": "Lei 5483/2024",
+   "title": "Lei nº 5.483, de 4 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3356",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3356/lei_5.483_-_pmc_2024_-_prorrogacao_prazo_parque_universitario_atualizado.pdf",
+     "sha256": "6d13a9b45bf1b15d31fd0bea4b4e4ed3026ffe625e439ebcf8c00be94672863b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05482",
+   "short": "Lei 5482/2024",
+   "title": "Lei nº 5.482, de 4 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3247",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3247/lei_n._5482_-_plo_n._160_2024.pdf",
+     "sha256": "72364241dfd9c62aeb3e6602f1e5a9036ae378719be5e8082b896cffec458dce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05481",
+   "short": "Lei 5481/2024",
+   "title": "Lei nº 5.481, de 3 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3246",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3246/lei_n._5481_-__plo_n._159_2024.pdf",
+     "sha256": "66c1d94a9e51ee57ac829adf24e9714950d51812506ecb09e69588fc7534adac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05480",
+   "short": "Lei 5480/2024",
+   "title": "Lei nº 5.480, de 3 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3248",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3248/lei_n._5480_-_plo_n._158_2024.pdf",
+     "sha256": "8e7ab4d22d69a55d39967ff615307c29fb4b4ed89ab1a8aefd5bfdd24bcbf04c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05478",
+   "short": "Lei 5478/2024",
+   "title": "Lei nº 5.478, de 28 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3253",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3253/lei_n._5478_-_plo_n._183_2024.pdf",
+     "sha256": "2689f513337dee0be9c9457e4bc8d6ee002d398e856e99095c66f89ad7deb04a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05476",
+   "short": "Lei 5476/2024",
+   "title": "Lei nº 5.476, de 28 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3257",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3257/lei_n._5476_-_plo_n._181_2024.pdf",
+     "sha256": "1e57918efb859e4fd85fc873a5b461bf3d7cdab39f65eeaaed0f0a81983c5b55"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05475",
+   "short": "Lei 5475/2024",
+   "title": "Lei nº 5.475, de 28 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3305",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3305/lei_5.475_-pmc_2024_abertura_de_credito_suplementar_r_2.400.00000_semad_e_outros_folha.pdf",
+     "sha256": "b0648bbe9b05ffa6aff9c1f8241d5b330bcc693657561fd90d2e5297dc65773c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05474",
+   "short": "Lei 5474/2024",
+   "title": "Lei nº 5.474, de 28 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3254",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3254/lei_n._5.474_-__plo_n._176_2024.pdf",
+     "sha256": "2da8384fe50325dfbe092a0517481caf72929b871783a75374d133a333f0e172"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05473",
+   "short": "Lei 5473/2024",
+   "title": "Lei nº 5.473, de 27 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3251",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3251/lei_n._5473_-_plo_n._168_2024.pdf",
+     "sha256": "f9cc8765ece2e36e308d38acd7b69a3b072e34f62a31ce2e52851ab4cdf25e8c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05472",
+   "short": "Lei 5472/2024",
+   "title": "Lei nº 5.472, de 27 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3343",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3343/lei_5.472_-_pmc_2024_-_abertura_de_credito_adicional_suplementar_r_354.12172_semed.pdf",
+     "sha256": "186bfe1519793c10226ffa52cf61f50515386839673d6579ad50d6be7dbef51e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05471",
+   "short": "Lei 5471/2024",
+   "title": "Lei nº 5.471, de 27 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3342",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3342/lei_5.471_-_pmc_2024_-_abertura_de_credito_adicional_suplementar_r_84.00000_semast.pdf",
+     "sha256": "ddb187e523ff88a2079a3c81ceb0ac86d61946bd7386726ca6a2abe63a8d04cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05469",
+   "short": "Lei 5469/2024",
+   "title": "Lei nº 5.469, de 13 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3245",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3245/lei_n._5469_-__plo_n._157_2024.pdf",
+     "sha256": "471b451469b3e6e563dd8fd9aa96312ba8a993d848c611db2984a9e7d09de99e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05468",
+   "short": "Lei 5468/2024",
+   "title": "Lei nº 5.468, de 12 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3298",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3298/lei_5.468_-_pmc_2024_-_abertura_de_credito_adicional_suplementar_r_210.00000_fms.pdf",
+     "sha256": "6dacf5bdb13d4303104f52e0eae3e32f08e2176dcf9d1447d458b94d714abeae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05467",
+   "short": "Lei 5467/2024",
+   "title": "Lei nº 5.467, de 12 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3297",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3297/lei_5.467_-_pmc_2024_-_abertura_de_credito_adicional_suplementar_r_400.00000_fms.pdf",
+     "sha256": "2c043a45d9724f81e26c76bdf2b7a080be8d0d310cc5daf139c58e08d8811e46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05466",
+   "short": "Lei 5466/2024",
+   "title": "Lei nº 5.466, de 6 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3296",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3296/lei_5.466_-_pmc__2024_-_abertura_de_credito_adicional_suplementar_r_2.160.14000_semad.pdf",
+     "sha256": "d7cf70f57ec252e1e3ff624d69eccf3d80fe9c3a0e394f0b72f19542ae1985d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05465",
+   "short": "Lei 5465/2024",
+   "title": "Lei nº 5.465, de 6 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3355",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3355/lei_5.465_-_2024_-.pdf",
+     "sha256": "6d47cd9cd4e22a0184c7c6e7cd710bfa68f8289bf131063d198cb4e7015d25c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05464",
+   "short": "Lei 5464/2024",
+   "title": "Lei nº 5.464, de 6 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3341",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3341/lei_5.464-pmc-2024_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "2de81e44c82da87a3eda48f136792dc52aafa3995bec859d8a4bdaba55dae536"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05463",
+   "short": "Lei 5463/2024",
+   "title": "Lei nº 5.463, de 6 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3300",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3300/lei_5.463_-_pmc_2024_-_abertura_de_credito_adicional_suplementar_r_793.02216_fms.pdf",
+     "sha256": "18e388e125ddeb43d8e77032ef26a39493abe7baffee52b78562eef0e216386f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05462",
+   "short": "Lei 5462/2024",
+   "title": "Lei nº 5.462, de 6 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3299",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3299/lei_5.462_-_pmc_2024_-_abertura_de_credito_adicional_suplementar_r_1.141.00000_semosp.pdf",
+     "sha256": "389e6e63d2ace5f073e5a5c147da673a0d3196091212c48446b617206b2e5be9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05461",
+   "short": "Lei 5461/2024",
+   "title": "Lei nº 5.461, de 5 de novembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3340",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3340/lei_5.461-pmc-2024_institui_o_programa_de_equoterapia_como_metodo_terapeutico_de_tratamento_para_reabilitacao.pdf",
+     "sha256": "ceb54da94f14e7a7bad97e909c57c74eb1dd188abc6bf258bf858cda96e498f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05459",
+   "short": "Lei 5459/2024",
+   "title": "Lei nº 5.459, de 18 de outubro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3292",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3292/lei_5.459-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias.pdf",
+     "sha256": "fa8cbf24b2299e159e4b3d4aa0bf642e7480a97895459a9fe00e0dedcc776c2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05458",
+   "short": "Lei 5458/2024",
+   "title": "Lei nº 5.458, de 18 de outubro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3291",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3291/lei__5.458-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "846f20e4bbfebf8e6602b1108998ccbf28474e3c4b55ab9712fa3cdf342f330e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05457",
+   "short": "Lei 5457/2024",
+   "title": "Lei nº 5.457, de 18 de outubro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3290",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3290/lei__5.457-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias.pdf",
+     "sha256": "9d778f6f68ffb412f6eb7547c3af1d08b43931a9b772597d8672573e6c7d4c8c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05456",
+   "short": "Lei 5456/2024",
+   "title": "Lei nº 5.456, de 18 de outubro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3289",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3289/lei__5.456_pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "a439323f06cb55950a8675be2f27422c3e76110b92dc39661e76504de01fce74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05455",
+   "short": "Lei 5455/2024",
+   "title": "Lei nº 5.455, de 18 de outubro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3354",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3354/lei_5.455_-_2024_-.pdf",
+     "sha256": "0db3497ba7c88074cbeb6734ea39d4fa85da57fabcc791ec3409386c0171a91c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05454",
+   "short": "Lei 5454/2024",
+   "title": "Lei nº 5.454, de 16 de outubro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3353",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3353/lei_5.454-pmc-2024_altera_a_lei_n._3.825pmc2017_que_autoriza_o_poder_executivo_municipal_celebrar_termo_de_cooperacao_com_fundo_penitenciario__fupen_do_estado_de_ro.pdf",
+     "sha256": "628f9b8b5c69f9900cc875e701bca2fca42dd35003b42bf7e8b19b49be47cc4e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05453",
+   "short": "Lei 5453/2024",
+   "title": "Lei nº 5.453, de 27 de setembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3288",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3288/lei__5.453-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "1631bf8e6c5b0304bf5fd44851664d55e4a8d3b6a3afd1f356d3de8b1e2e10dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05452",
+   "short": "Lei 5452/2024",
+   "title": "Lei nº 5.452, de 24 de setembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3237",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3237/lei_n._5.452_-_plo_n._140_2024.pdf",
+     "sha256": "82efcbbdb3abd2dcf3a2cd32aca5166b4f67ba3f872aa970faf2d7fbd69d529f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05451",
+   "short": "Lei 5451/2024",
+   "title": "Lei nº 5.451, de 19 de setembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3339",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3339/lei__5.451-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "2d7444e7829bc0da6035ba4aa6af1a819bdb4d64a63a857503cc6c3906ab6a4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05450",
+   "short": "Lei 5450/2024",
+   "title": "Lei nº 5.450, de 19 de setembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3338",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3338/lei__5.450-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "e841aab64fa3cafc73bbcae7d1dda26270361de7eac4421fa14332228d2e6ddf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05449",
+   "short": "Lei 5449/2024",
+   "title": "Lei nº 5.449, de 17 de setembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3352",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3352/lei_5.449-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "27cef488bf5c4e3b54c5fab7ffd9e423565ab942044d9caf4eb6e40a360ee71e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05448",
+   "short": "Lei 5448/2024",
+   "title": "Lei nº 5.448, de 5 de setembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3224",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3224/lei_n.o5448_-_plo_n._144_2024.pdf",
+     "sha256": "5acd47e11780a89b9e23320ab1f0f87bcb262695a9af87b8278820a5789fdbc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05446",
+   "short": "Lei 5446/2024",
+   "title": "Lei nº 5.446, de 28 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3222",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3222/lei_no_5.446_-_plo_n._137_2024.pdf",
+     "sha256": "4a17f49e01f463f215eb4b133620bb365f2777051d9d534e1decf5ce5bed00a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05445",
+   "short": "Lei 5445/2024",
+   "title": "Lei nº 5.445, de 26 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3221",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3221/lei_no_5.445_-_plo_n_123_2024.pdf",
+     "sha256": "b8744d650b11da5304f4a9e6c84c75925f0bb9177751a7d3098b6b46c2c578a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05444",
+   "short": "Lei 5444/2024",
+   "title": "Lei nº 5.444, de 26 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3220",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3220/lei_no_5.444_-_plo_n._122_2024.pdf",
+     "sha256": "406344c53b91b9b565e4b0f2da8a3453394f9ef167fcc83c50106c37864d740c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05443",
+   "short": "Lei 5443/2024",
+   "title": "Lei nº 5.443, de 26 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3219",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3219/lei_no_5.443_-_plo_n._136_2024.pdf",
+     "sha256": "265c0564274d14f6d222bdfbd799a0b33999b5bf530326a16ed171b873dac3d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05441",
+   "short": "Lei 5441/2024",
+   "title": "Lei nº 5.441, de 15 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3351",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3351/lei_5.441_-_2024_-.pdf",
+     "sha256": "4f03987f5dd8dff78a6b7ed7ee32aca6996edb8ee6a6ec84cfd25b96710faade"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05440",
+   "short": "Lei 5440/2024",
+   "title": "Lei nº 5.440, de 15 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3337",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3337/lei__5.440-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "2fbdf357da11abd5c025fb9af740dc7ec374a5b1dfb03fc87f6c37b57102eda7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05439",
+   "short": "Lei 5439/2024",
+   "title": "Lei nº 5.439, de 15 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3336",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3336/lei_5.439-pmc-2024_dispoe_sobre_abertura_de_credito_especial_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "089ab1c1ccb991da7ff387b953e6c78be7a110767e721dff0a6d9fe087417d26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05438",
+   "short": "Lei 5438/2024",
+   "title": "Lei nº 5.438, de 15 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3295",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3295/lei__5.438-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias.pdf",
+     "sha256": "002aeaf408f73fce43e7043a33766070140c1dc9c00305447914b5474ac69530"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05436",
+   "short": "Lei 5436/2024",
+   "title": "Lei nº 5.436, de 15 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3214",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3214/lei_n._5436-_plo_n._128_2024.pdf",
+     "sha256": "7189194b5289050e046a6cd248933a2dda4209ab0f636520a5635dc369dc1a26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05435",
+   "short": "Lei 5435/2024",
+   "title": "Lei nº 5.435, de 8 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3294",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3294/lei_5.435-pmc-2024_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "b12f953b97f02a262d127536b1f52b97ddbc2f1d5cb3b3a723aed011bf14ccc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05434",
+   "short": "Lei 5434/2024",
+   "title": "Lei nº 5.434, de 8 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3350",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3350/lei__5.434-pmc-2024-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "ed8057212f3faee286de85615342880da7688491bd7887e8a991245672d65c98"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05433",
+   "short": "Lei 5433/2024",
+   "title": "Lei nº 5.433, de 8 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3293",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3293/lei__5.433-pmc-2024-_dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias.pdf",
+     "sha256": "87d78c8862064bbc94ea7197aa44725fb51a053e615696ee67e642e209fcd2c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05430",
+   "short": "Lei 5430/2024",
+   "title": "Lei nº 5.430, de 8 de agosto de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3348",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3348/lei_5.430_-_pmc__-2024.pdf",
+     "sha256": "26f5afe80a4ee7ad77163a64ae13acef4d5000c14316f1569a0d394b41042940"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05429",
+   "short": "Lei 5429/2024",
+   "title": "Lei nº 5.429, de 15 de julho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3211",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3211/lei_n._5429_-_plo_n._01_2024.pdf",
+     "sha256": "e3da571ad435cf3026b70b32af59555cdbf3386b94f95745b3362a07fc791fc5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05427",
+   "short": "Lei 5427/2024",
+   "title": "Lei nº 5.427, de 8 de julho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3232",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3232/lei_no_5.427-_plo_n._96_2024.pdf",
+     "sha256": "6029fadaab7f4d726b68b74bae49c3e73228b1fa1a551f46e7ba6960b2b1dd9c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05426",
+   "short": "Lei 5426/2024",
+   "title": "Lei nº 5.426, de 1 de julho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3492",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3492/lei-5426-2024-.pdf",
+     "sha256": "b9e9a3a5e96cc305e2551b05675bb8e8be7940588d5a136683cc307548d23d0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05425",
+   "short": "Lei 5425/2024",
+   "title": "Lei nº 5.425, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3204",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3204/lei_n._5425_-_plo_n._121_2024.pdf",
+     "sha256": "3b0e51f1e5cbb3551a0110069fe782fa61afb9cec9b5eefdaea07fc09f59d135"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05424",
+   "short": "Lei 5424/2024",
+   "title": "Lei nº 5.424, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3203",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3203/lei_n._5424_-_plo_n._120_2024.pdf",
+     "sha256": "a5ceb8e28c5067363c54fe17e35deb6ea65cf6f0e58f3a65ae4fc7d8458e1583"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05423",
+   "short": "Lei 5423/2024",
+   "title": "Lei nº 5.423, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3202",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3202/lei_n._5423_-_plo_n._117_2024.pdf",
+     "sha256": "5baab61c25383f9e95e106d04c54889ae6140c4fa653231563f1053434f98e24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05422",
+   "short": "Lei 5422/2024",
+   "title": "Lei nº 5.422, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3347",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3347/lei_5.422-pmc_-_2024.pdf",
+     "sha256": "3e67e0a5326a3d8ac2d757f8d3e36e3103f4fa2802a7691dc5dee3f86d4c08d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05421",
+   "short": "Lei 5421/2024",
+   "title": "Lei nº 5.421, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3285",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3285/lei__5.421-pmc-2024-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "aceaae9cb7ee97419bc32a5312f01214ec524d605414002712d641e7a06b25a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05420",
+   "short": "Lei 5420/2024",
+   "title": "Lei nº 5.420, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3201",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3201/lei_n._5420_-_plo_n._113_2024.pdf",
+     "sha256": "ce99f14566ef8452913b6fe43bcf808f41879d62eb542e47f0edc8804b7bef9b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05419",
+   "short": "Lei 5419/2024",
+   "title": "Lei nº 5.419, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3200",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3200/lei_n._5419_-_plo_n._111_2024.pdf",
+     "sha256": "72c3196cc15a3981bfa529bfdd03c1b0247c9f5a1371aabf07a2902cf0eb4cc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05418",
+   "short": "Lei 5418/2024",
+   "title": "Lei nº 5.418, de 26 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3199",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3199/lei_n._5418_-_plo_n._112_2024.pdf",
+     "sha256": "8054e42674e315b6adbe364b87624b2716b3949c0369cfb523843d1d901e1664"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05417",
+   "short": "Lei 5417/2024",
+   "title": "Lei nº 5.417, de 25 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3197",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3197/lei_n._5417_-_plo_n._119_2024-.pdf",
+     "sha256": "cc80c708dbee3a6c1846c30630f516edeab87ece6d108577e1a0c7776dc6e248"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05416",
+   "short": "Lei 5416/2024",
+   "title": "Lei nº 5.416, de 25 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3196",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3196/lei_n._5416_-_plo_n._118_2024-.pdf",
+     "sha256": "4145cfeede10c3a918e10c2bf53c015660750ad5b9edaa0123fe623d37ebda18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05414",
+   "short": "Lei 5414/2024",
+   "title": "Lei nº 5.414, de 21 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3194",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 29,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3194/lei_n._5414_-_plo_n._97_2024.pdf",
+     "sha256": "70db3a3896c871bc5e86011b546ee04f0bb5312a64a0a4e15858114274d3e9bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05415",
+   "short": "Lei 5415/2024",
+   "title": "Lei nº 5.415, de 20 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3195",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3195/lei_n._5415_-_plo_n._107_2024.pdf",
+     "sha256": "539082b8209045ddd2e2ac4ff250d0e7a8192aa2aa306c60ba83f08512b6c509"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05413",
+   "short": "Lei 5413/2024",
+   "title": "Lei nº 5.413, de 20 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3193",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3193/lei_n._5413_-_plo_n._105_2024.pdf",
+     "sha256": "b36ee426e9d9609bef1783de4991dffbe6063478badd27226050a0004959841c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05412",
+   "short": "Lei 5412/2024",
+   "title": "Lei nº 5.412, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3192",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3192/lei_n._5.412_-_plo_n._109_2024.pdf",
+     "sha256": "735c02c5c5668e6038e1fe3d6b59784f06e055512f4446f004f626204c4883ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05411",
+   "short": "Lei 5411/2024",
+   "title": "Lei nº 5.411, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3191",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3191/lei_n._5.411_-_plo_n._108_2024.pdf",
+     "sha256": "88cf781a5fc1e05bf7c9f8ebc210b3e9c2b4082a99139b3af22a9051d8278e84"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05410",
+   "short": "Lei 5410/2024",
+   "title": "Lei nº 5.410, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3205",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3205/lei_n._5410_-_plo_n._44_2024.pdf",
+     "sha256": "9c2df00367d19e952b0b1dccc8f7497d10d67c16069f8a6655983ac68d73a110"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05409",
+   "short": "Lei 5409/2024",
+   "title": "Lei nº 5.409, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3190",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3190/lei_n._5.409_-_plo_n._106_2024.pdf",
+     "sha256": "2fd663c92de4e8560304c10ad6a0e4d76d2cec9c8ad3d0c3e34f12a04b3d822e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05408",
+   "short": "Lei 5408/2024",
+   "title": "Lei nº 5.408, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3189",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3189/lei_n._5.408_-_plo_n._104_2024.pdf",
+     "sha256": "e6b82abad2875caed844207a7b3e922374cdb878f5d8070f6cb68799e89058fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05407",
+   "short": "Lei 5407/2024",
+   "title": "Lei nº 5.407, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3188",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3188/lei_n._5.407_-_plo_n._102_2024.pdf",
+     "sha256": "25fd40b4dca588c16b5c1f33bd4565cecaf8237bb6e61ee8f9ef63b3e0e4ba5f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05406",
+   "short": "Lei 5406/2024",
+   "title": "Lei nº 5.406, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3207",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3207/lei_n._5.406_-_plo_n._84_2024.pdf",
+     "sha256": "40a33cbb7b8fbaefeef4188e6c1a8302399d88680657a5f6bbef6d4fac72e04c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05405",
+   "short": "Lei 5405/2024",
+   "title": "Lei nº 5.405, de 19 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3186",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3186/lei_n._5.405_-_plo_n._95_2024.pdf",
+     "sha256": "760760106abe8a336336f99a314f3fd87460c2e43079f09f3ef6c5acb16bb7e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05402",
+   "short": "Lei 5402/2024",
+   "title": "Lei nº 5.402, de 17 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3198",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3198/lei_n._5402_-_plo_n._73_2024.pdf",
+     "sha256": "3a81027dede5a7b335e0b48f8358ce97a46037eeaf49fc85e8102383f1b0046b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05404",
+   "short": "Lei 5404/2024",
+   "title": "Lei nº 5.404, de 14 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3185",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3185/lei_n._5404_-_plo_n._90_2024.pdf",
+     "sha256": "798853e4c3a3f6485dbcd4d55c0a53966233851f0be637fac39ccdec3f5e10fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05403",
+   "short": "Lei 5403/2024",
+   "title": "Lei nº 5.403, de 14 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3184",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3184/lei_n._5403_-_plo_n._89_2024.pdf",
+     "sha256": "2b6087ec3a99343862c3be9af585cf225f25935885bc0e902d0c9ce60c6b189b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05401",
+   "short": "Lei 5401/2024",
+   "title": "Lei nº 5.401, de 13 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3183",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3183/lei_n._5401_-_plo_n._99_2024.pdf",
+     "sha256": "7f106e31a19d755b3391e5b3dc0e21c188b034ece15db1a822d48bab2173f67e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05400",
+   "short": "Lei 5400/2024",
+   "title": "Lei nº 5.400, de 13 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3182",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3182/lei_n._5400_-_plo_n._98_2024.pdf",
+     "sha256": "34388d808737466c0337b45d34dcf8dd480ef179b3122f3cef9c988775663a56"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05399",
+   "short": "Lei 5399/2024",
+   "title": "Lei nº 5.399, de 13 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3181",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3181/lei_n._5399_-_plo_n._101_2024.pdf",
+     "sha256": "7ef41842f5daed823f997e525eaef2c490cb647c92c33c0152bb3fd60c1e474d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05398",
+   "short": "Lei 5398/2024",
+   "title": "Lei nº 5.398, de 13 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3180",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3180/lei_n._5398_-_plo_n._100_2024.pdf",
+     "sha256": "6cd71a1a1d27c007120455f12e95fc9c6ce81a448740e2fed23639fa9da205f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05397",
+   "short": "Lei 5397/2024",
+   "title": "Lei nº 5.397, de 12 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3179",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3179/lei_n._5.397_-_plo_n._93_2024.pdf",
+     "sha256": "440180f47b5ab8ab71a9fb9d1a5531189a08e00355a6b092ed049046b9e2fd98"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05396",
+   "short": "Lei 5396/2024",
+   "title": "Lei nº 5.396, de 12 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3178",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3178/lei_n._5.396_-_plo_n._92_2024.pdf",
+     "sha256": "e31fb3ee4811522ae973f5c389c2891d3406d2810c3838f1e5829a1b07086cc9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05395",
+   "short": "Lei 5395/2024",
+   "title": "Lei nº 5.395, de 11 de junho de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3177",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3177/lei_n._5.395_-_plo_n._87_2024.pdf",
+     "sha256": "e1fb676dd0b1f1f7d1347c1ca81ed5299214c05d94c25fe43d7c11d9605df7fa"
+    }
+   ]
   }
  ]
 }
