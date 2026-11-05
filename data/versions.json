@@ -56,6 +56,2834 @@
      "sha256": "89e7d8e8db62abcf23de8ee6f0d5c2300809b14909272cde3d2c5407994d4bc9"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-05787",
+   "short": "Lei 5787/2026",
+   "title": "Lei nº 5.787, de 28 de maio de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3630",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3630/lei_no_5.787-pmc-2026.pdf",
+     "sha256": "d630671720f76caf283c2bcc39cfb33be7a371116474deee06675fabbe33018b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05769",
+   "short": "Lei 5769/2026",
+   "title": "Lei nº 5.769, de 30 de abril de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3605",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3605/lei_no_5.769-pmc-2026.pdf",
+     "sha256": "db810fc73133e80d42eb5c00a144a4dc2d2bcfa492a34ec0210b7867724bd268"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05758",
+   "short": "Lei 5758/2026",
+   "title": "Lei nº 5.758, de 10 de abril de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3594",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3594/lei_no_5.758-pmc-2026.pdf",
+     "sha256": "31c7315dc957022f9a198b7c5b47b3c72366eb1dc760741e047d357f8b711e04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05757",
+   "short": "Lei 5757/2026",
+   "title": "Lei nº 5.757, de 9 de abril de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3593",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3593/lei_no_5.757-pmc-2026.pdf",
+     "sha256": "a861138bc9b2a0686896032757452d3c64b28c2d10c00b367cc6a79add7e4e9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05754",
+   "short": "Lei 5754/2026",
+   "title": "Lei nº 5.754, de 9 de abril de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3590",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3590/lei_no_5.754-pmc-2026.pdf",
+     "sha256": "fe7e703cb4bcb4bbf6444d568a50518a19ef7e1294a0e552d0abb5c641f09ee1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05753",
+   "short": "Lei 5753/2026",
+   "title": "Lei nº 5.753, de 31 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3554",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3554/lei_5.753-26_-_altera_a_lei_n._2.157pmc2007_que_dispoe_sobre_a_estrutura_organizacional_da_camara_municipal_de_cacoal_e_da_outras_providencias.pdf",
+     "sha256": "f191f3deadc2b31221844ab5abf44d70e4e3bda230359b39e84ab42489b530d7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05751",
+   "short": "Lei 5751/2026",
+   "title": "Lei nº 5.751, de 31 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3587",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3587/lei_no_5.751-pmc-2026.pdf",
+     "sha256": "c6ad2d01a184b1257c4c01d6d8f9aa1c5bb2ed3d843dd45a3413ff71f83c9934"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05750",
+   "short": "Lei 5750/2026",
+   "title": "Lei nº 5.750, de 24 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3586",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3586/lei_no_5.750-pmc-2026.pdf",
+     "sha256": "94e5ae953df9f142e579d5bef4ce3e2ca3676b2b9a65446a77672ffe0fb4661b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05749",
+   "short": "Lei 5749/2026",
+   "title": "Lei nº 5.749, de 24 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3585",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3585/lei_no_5.749-pmc-2026.pdf",
+     "sha256": "84c5caf3460360e00e5c5d77d843c607cfeea8f48c32f4859f6d5d6ac53c4511"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05747",
+   "short": "Lei 5747/2026",
+   "title": "Lei nº 5.747, de 24 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3583",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3583/lei_no_5.747-pmc-2026.pdf",
+     "sha256": "2ffdd797cee502cb6f9a060535b53172153091aad252230a2d1615c69d1a8bed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05746",
+   "short": "Lei 5746/2026",
+   "title": "Lei nº 5.746, de 24 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3580",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3580/lei_no_5.746-pmc-2026.pdf",
+     "sha256": "220fdf0752d72e720222402f5da0b216d08dada9a48e770b6de80b0f725cd361"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05745",
+   "short": "Lei 5745/2026",
+   "title": "Lei nº 5.745, de 24 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3612",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3612/lei_no_5.745-pmc-2026.pdf",
+     "sha256": "3d509faf9c4a2714d7f58ccb1b144653f0bcdf2fcf962743063c7a24c6b20b6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05744",
+   "short": "Lei 5744/2026",
+   "title": "Lei nº 5.744, de 24 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3613",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3613/lei_no_5.744-pmc-2026.pdf",
+     "sha256": "2e64d7e65e1f02e9f55d12a9d275fb40a0ff6e039cb24d96033c9c02ccf2fc11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05743",
+   "short": "Lei 5743/2026",
+   "title": "Lei nº 5.743, de 20 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3611",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3611/lei_no_5.743-pmc-2026.pdf",
+     "sha256": "fec204faae09ead5fc6b11f21613d3d23cd5a0b6c6a3de145aa3e622a62794ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05742",
+   "short": "Lei 5742/2026",
+   "title": "Lei nº 5.742, de 17 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3579",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3579/lei_no_5.742-pmc-2026.pdf",
+     "sha256": "6a72a61041d6811b835a214e7ef4e1f2bf88b52855030a7dd294f6f783dfe2fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05741",
+   "short": "Lei 5741/2026",
+   "title": "Lei nº 5.741, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3610",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3610/lei_no_5.741-pmc-2026.pdf",
+     "sha256": "f4a8c4c996161d1788089dd5b4f78566736ab46b291b5246e5d05616651d2c52"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05740",
+   "short": "Lei 5740/2026",
+   "title": "Lei nº 5.740, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3582",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3582/lei_no_5.740-pmc-2026.pdf",
+     "sha256": "325f70a28e8bf74f89d79c69d3da92a64f7f07afbb1251627bf78f8e32fbab62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05739",
+   "short": "Lei 5739/2026",
+   "title": "Lei nº 5.739, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3581",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3581/lei_no_5.739-pmc-2026.pdf",
+     "sha256": "a176ec1953b22053e516be9362ff93d0b8dc757056c7c185e9f0564d3c193f1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05738",
+   "short": "Lei 5738/2026",
+   "title": "Lei nº 5.738, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3578",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3578/lei_no_5.738-pmc-2026.pdf",
+     "sha256": "1448ec91772de4f648d521c08e753440206ce3795719857ad2c0697a9f92ad1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05737",
+   "short": "Lei 5737/2026",
+   "title": "Lei nº 5.737, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3609",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3609/lei_no_5.737-pmc-2026.pdf",
+     "sha256": "5c1e36bcefdcd578c82f70fd04216db634de6cd9cba715e940fa1c1cc90f84ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05736",
+   "short": "Lei 5736/2026",
+   "title": "Lei nº 5.736, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3577",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3577/lei_no_5.736-pmc-2026.pdf",
+     "sha256": "1657da950e7b9ab3d0cd2fb30fa48875b7e6d871693c6eabcc9f05ea168c0d78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05735",
+   "short": "Lei 5735/2026",
+   "title": "Lei nº 5.735, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3576",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3576/lei_no_5.735-pmc-2026.pdf",
+     "sha256": "8dfa9be0028950dbaefa0ffbcc8bac9edd98e9a179d1d095664ae987d3349029"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05734",
+   "short": "Lei 5734/2026",
+   "title": "Lei nº 5.734, de 16 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3575",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3575/lei_no_5.734-pmc-2026.pdf",
+     "sha256": "8c68887e70ea35111b84b010796e5bda7c8c93bea3e864491f702bffaf98b8e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05733",
+   "short": "Lei 5733/2026",
+   "title": "Lei nº 5.733, de 10 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3574",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3574/lei_no_5.733-pmc-2026.pdf",
+     "sha256": "a261590a31865f67da30596a744ef5891a1f43960e5d176a30f97e0692e24e2c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05732",
+   "short": "Lei 5732/2026",
+   "title": "Lei nº 5.732, de 3 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3573",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3573/lei_no_5.732-pmc-2026.pdf",
+     "sha256": "9398e9f4b1edfd2df5eeb6bf52e8dc685e96cc91faf95b274edfc42702543a0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05731",
+   "short": "Lei 5731/2026",
+   "title": "Lei nº 5.731, de 3 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3572",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3572/lei_no_5.731-pmc-2026.pdf",
+     "sha256": "895df904d0abd1f3e628ba704384e562b760d89391c88347a87b23ac884eefa3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05730",
+   "short": "Lei 5730/2026",
+   "title": "Lei nº 5.730, de 3 de março de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3571",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3571/lei_no_5.730-pmc-2026.pdf",
+     "sha256": "7085359c7531bd819b88368764f098836ea0dc57e07e0513e7dfdd7a28b8749e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05728",
+   "short": "Lei 5728/2026",
+   "title": "Lei nº 5.728, de 26 de fevereiro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3569",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3569/lei_no_5.728-pmc-2026.pdf",
+     "sha256": "4a758c63e9404197c76970263351197896865e6f27e806915ae055291535ff6c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05727",
+   "short": "Lei 5727/2026",
+   "title": "Lei nº 5.727, de 26 de fevereiro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3568",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3568/lei_no_5.727-pmc-2026.pdf",
+     "sha256": "743885c9ac3c7526930e64e9e0a2195f9808c52b2d5c2b8860c2dfd8ca3f9f71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05725",
+   "short": "Lei 5725/2026",
+   "title": "Lei nº 5.725, de 25 de fevereiro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3564",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3564/lei_no_5.725-pmc-2026.pdf",
+     "sha256": "2f54432c79c536e193d3e6f1753e195f3e1bfbb49e62fa1bfe12a9caa3e8d300"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05724",
+   "short": "Lei 5724/2026",
+   "title": "Lei nº 5.724, de 10 de fevereiro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3563",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 19,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3563/lei_no_5.724-pmc-2026.pdf",
+     "sha256": "2d6c47817e4a86668b48df10d9d15e72ca29d48d2ae9bef7277fb6e2c98ea849"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05723",
+   "short": "Lei 5723/2026",
+   "title": "Lei nº 5.723, de 10 de fevereiro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3562",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3562/lei_no_5.723-pmc-2026.pdf",
+     "sha256": "d41a1897d9108a68102cceae18fcd5294c476b17798ed084c6dff67e87677b3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05721",
+   "short": "Lei 5721/2026",
+   "title": "Lei nº 5.721, de 21 de janeiro de 2026",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3558",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 37,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2026/3558/lei_no_5.721-pmc-2026.pdf",
+     "sha256": "53ac2f6327b384ee1ab3826316f74ebcda59710039885c71ebc1ac7022c8bdd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05718",
+   "short": "Lei 5718/2025",
+   "title": "Lei nº 5.718, de 30 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3545",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3545/publicado_dioc-_lei_5.718_-_25_1.pdf",
+     "sha256": "bbab26af4d22d6bf9c9e5c841a6ea4922b455958d6ed7f82884897ad92b47362"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05715",
+   "short": "Lei 5715/2025",
+   "title": "Lei nº 5.715, de 23 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3543",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3543/publicado_dioc-_lei_5.715_-_25.pdf",
+     "sha256": "485ef5604269db88ec95643d1ca6a1cc2599ed7d3bf38bc0afd65d32ce74857a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05714",
+   "short": "Lei 5714/2025",
+   "title": "Lei nº 5.714, de 23 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3542",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3542/publicado_dioc-_lei_5.714_-_25.pdf",
+     "sha256": "360d0aa3e26c6b060d5322dc560f12e9c44435f54caaab2b67332a66e46b22e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05712",
+   "short": "Lei 5712/2025",
+   "title": "Lei nº 5.712, de 18 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3534",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3534/publicado_dioc-_lei_5.712_-_25.pdf",
+     "sha256": "8ce00b77bf5d4856d154fe19725f1496c1714706e8607518bd48a31a76b7e865"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05711",
+   "short": "Lei 5711/2025",
+   "title": "Lei nº 5.711, de 18 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3533",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3533/publicado_dioc-_lei_5.711_-_25.pdf",
+     "sha256": "a4c71ac2498646b1110f264abae864887c25d59fcfe32ab537a923c9ca524c4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05709",
+   "short": "Lei 5709/2025",
+   "title": "Lei nº 5.709, de 10 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3531",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3531/publicado_dioc-_lei_5.709_-_25.pdf",
+     "sha256": "236c0ca75f3c25faf6f380a806525f0b848a957344f54f3ebb6a313e53968d50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05708",
+   "short": "Lei 5708/2025",
+   "title": "Lei nº 5.708, de 10 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3530",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3530/publicado_dioc-_lei_5.708_-_25.pdf",
+     "sha256": "b5508f0fd813f98a8d3b904ba5d93bf90501fd039bca2ed17f4e5f27c04d7566"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05707",
+   "short": "Lei 5707/2025",
+   "title": "Lei nº 5.707, de 10 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3529",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3529/publicado_dioc-_lei_5.707_-25_1.pdf",
+     "sha256": "8f0785d7148a78cf634a99707dda1766e4e10eb66df20094af48c291c513ce1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05706",
+   "short": "Lei 5706/2025",
+   "title": "Lei nº 5.706, de 4 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3528",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3528/publicado_dioc-_lei_5.706_-_25_-_2.pdf",
+     "sha256": "eb699bbfcfe7339e79e631d075f9c32caece9f658c5dce9caa8da7981adc8db7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05705",
+   "short": "Lei 5705/2025",
+   "title": "Lei nº 5.705, de 3 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3527",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3527/publicado_dioc-_lei_5.705_-25.pdf",
+     "sha256": "8fd29aeb0290547bef9e3f3f879590532dd03d4fc7b92d6451baa9327cf6601d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05704",
+   "short": "Lei 5704/2025",
+   "title": "Lei nº 5.704, de 3 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3526",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3526/publicado_dioc-_lei_5.704_-25.pdf",
+     "sha256": "48034ae5f0c4bf5979e0a961ae4b36a0b77ffa75b71b0430fc2ece584fa2d9cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05703",
+   "short": "Lei 5703/2025",
+   "title": "Lei nº 5.703, de 3 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3525",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3525/publicado_dioc-_lei_5.703_-_25.pdf",
+     "sha256": "546b6c14ae01bfd3d82886171620f610106dc2d43f48c4398641d9deafd66404"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05702",
+   "short": "Lei 5702/2025",
+   "title": "Lei nº 5.702, de 3 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3524",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3524/publicado_dioc-_lei_5.702_-_25_1.pdf",
+     "sha256": "5e47274e897c8f0d7a69aa842f583daf7c8683e99436a3fe5f91f3b71d302e27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05701",
+   "short": "Lei 5701/2025",
+   "title": "Lei nº 5.701, de 3 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3523",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3523/publicado_dioc-_lei_5.701_-_25.pdf",
+     "sha256": "f6ca7132548c2707caa2c0e58aead51f2ecb2f35041b512dbd8be27d6ebc898e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05700",
+   "short": "Lei 5700/2025",
+   "title": "Lei nº 5.700, de 2 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3522",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 16,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3522/publicado_dioc-_lei_5.700_-_25_1.pdf",
+     "sha256": "a322599f1e7af2fd3a7a9fb9876a0bee07da0dd3257e9ee3d3c9bc87713dad4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05698",
+   "short": "Lei 5698/2025",
+   "title": "Lei nº 5.698, de 1 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3520",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3520/publicado_dioc-_lei_5.698_-_25.pdf",
+     "sha256": "56d7a16e78c5e3106925758dd9f5594dcf01e4e75ac2df1949f41d20b5bed732"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05697",
+   "short": "Lei 5697/2025",
+   "title": "Lei nº 5.697, de 1 de dezembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3519",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3519/publicado_dioc-_lei_5.697_-25.pdf",
+     "sha256": "505e9008928a93a3f7a705ddc3a882714b70ca1c01c37dab0fd2b8a85abdecbc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05695",
+   "short": "Lei 5695/2025",
+   "title": "Lei nº 5.695, de 24 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3517",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3517/publicado_dioc-_lei_5.695_-_25.pdf",
+     "sha256": "1c5c3145af126b33cc99024c2d440f6ec580f823d25fbd9dd7a004fa3f856262"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05694",
+   "short": "Lei 5694/2025",
+   "title": "Lei nº 5.694, de 24 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3516",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3516/publiacado_dioc-_lei_5.694_-_25_1.pdf",
+     "sha256": "ebd8dff4a835602e06d22fe36d8bc134b9044b1a6f709c50d40012d4703de575"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05692",
+   "short": "Lei 5692/2025",
+   "title": "Lei nº 5.692, de 24 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3514",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3514/publicado_dioc-_lei_5.692_-_25.pdf",
+     "sha256": "da73ba832186bf9f75d417170d7a451a4fc324ebbd1d4c115b53441087d73310"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05691",
+   "short": "Lei 5691/2025",
+   "title": "Lei nº 5.691, de 24 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3536",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3536/lei_n._5.691_-pmc-_2025.pdf",
+     "sha256": "5193e92823aa0d0103da19238732a031790d5540aca7e743d4dd2a28eab14092"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05690",
+   "short": "Lei 5690/2025",
+   "title": "Lei nº 5.690, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3510",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3510/5690.pdf",
+     "sha256": "c107d7906489efc00db89308596b4d8750d29a0da77ed84b33a37cf52eca7eb3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05689",
+   "short": "Lei 5689/2025",
+   "title": "Lei nº 5.689, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3509",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3509/5689.pdf",
+     "sha256": "33196a92ed8764af353da4be54d7dfcc25dbf3fd7f2fe07fc040416276f1d493"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05688",
+   "short": "Lei 5688/2025",
+   "title": "Lei nº 5.688, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3508",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3508/publicado_dioc-_lei_5.688_-_25.pdf",
+     "sha256": "2fa323267c87f9f3a138d84724a33607c61ce817f3ae7641142bb87cd25d9e72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05687",
+   "short": "Lei 5687/2025",
+   "title": "Lei nº 5.687, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3507",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3507/publicado_dioc-_lei_5.687_-_25.pdf",
+     "sha256": "be305941c224d36c049e9432b6801dff049986bd6ac052515e3d0b5c4d04068c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05686",
+   "short": "Lei 5686/2025",
+   "title": "Lei nº 5.686, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3506",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3506/5686.pdf",
+     "sha256": "4ff69895291f1403d44dbefc27e0dcdaafe756e74d7cbc11fab9b780b4174f25"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05685",
+   "short": "Lei 5685/2025",
+   "title": "Lei nº 5.685, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3505",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3505/publicado_dioc-_lei_5.685_-_25.pdf",
+     "sha256": "545d90d9b68e113b2eb4f790a9290d8d1976f665b2d33b72e0cc8e54c8fbafdf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05684",
+   "short": "Lei 5684/2025",
+   "title": "Lei nº 5.684, de 12 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3504",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3504/publicado_dioc-_lei_5.684_-_25.pdf",
+     "sha256": "87093f2e34b68e0d9ac1b879f87886e641071cbc787a95a84a12526ef294251e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05683",
+   "short": "Lei 5683/2025",
+   "title": "Lei nº 5.683, de 7 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3503",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3503/publicado_dioc-_lei_5.683_-_25.pdf",
+     "sha256": "ee0dc188df3885b282f8fa8b0940389ac3572a055e70a7bb5d048d60573889e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05682",
+   "short": "Lei 5682/2025",
+   "title": "Lei nº 5.682, de 4 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3502",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3502/publicado_dioc-_lei_5.682_-_25.pdf",
+     "sha256": "a54e3163de3d7a3b68e7992824365d04a88c13732411fecc0dfd2ea8261e9e00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05681",
+   "short": "Lei 5681/2025",
+   "title": "Lei nº 5.681, de 4 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3501",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3501/publicado_dioc-_lei_5.681_-_25.pdf",
+     "sha256": "dcef71d76a86388fe6157af96ba81e64ae456e3c1bcfd2ba823fc0dd7c9e45aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05679",
+   "short": "Lei 5679/2025",
+   "title": "Lei nº 5.679, de 4 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3489",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3489/publicado_dioc-_lei_5.679_-_25.pdf",
+     "sha256": "d73a75c42ffb6f94c5e0d52f8ce0f88d69d2a46e8958a1fea05742149d6f1e0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05678",
+   "short": "Lei 5678/2025",
+   "title": "Lei nº 5.678, de 4 de novembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3488",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3488/lei_no_5.678.pdf",
+     "sha256": "94fc0fb77b85d7b1be72c802bad06b02439eff40d39e3c9b44741e4ba87ef4db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05677",
+   "short": "Lei 5677/2025",
+   "title": "Lei nº 5.677, de 23 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3487",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3487/lei_5.677_-_25_-_dispoe_sobre_a_inclusao_da_festa_do_trabalhador_no_calendario_oficial_de_eventos_do_municipio_de_cacoal.pdf",
+     "sha256": "c658c19a48be03a420b19646abff81ce9339148241919861a4e6222bc216c510"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05675",
+   "short": "Lei 5675/2025",
+   "title": "Lei nº 5.675, de 22 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3485",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3485/lei_5.675_-_2025.pdf",
+     "sha256": "c145ccfe71887bba756348192314ba737712c214e2c48255ad102780ea1b784c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05674",
+   "short": "Lei 5674/2025",
+   "title": "Lei nº 5.674, de 21 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3484",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3484/lei_5.674_-_25_-_abertura_de_credito_suplementar_r_1.044.00000_semad_pgm_semosp.pdf",
+     "sha256": "457ea42a64b338143cd0e3dc348bd5a187445cbd13b333d1963dbf0735eebf43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05673",
+   "short": "Lei 5673/2025",
+   "title": "Lei nº 5.673, de 20 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3483",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3483/lei_5.673_-_25_-_dispoe_sobre_a_obrigatoriedade_da_realizacao_de_exames_para_deteccao_da_displasia_do_desenvolvimento_dos_quadris_-_ddq.pdf",
+     "sha256": "efc8edc371bfbb00f33009d4f914eb3e11fe2e1c91a723a9ef9c638aa4de16eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05672",
+   "short": "Lei 5672/2025",
+   "title": "Lei nº 5.672, de 20 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3482",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 18,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3482/lei_5.672_-_25_-_institui_o_projeto_adote_sua_cidade_no_ambito_do_municipio_de_cacoal.pdf",
+     "sha256": "9e87d8695aedc84ce902f875294d60bcc957132a8bb12851552fbee879e7e4ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05671",
+   "short": "Lei 5671/2025",
+   "title": "Lei nº 5.671, de 17 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3481",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3481/lei_5.671_-_25_-abertura_de_credito_suplementar_r_76.50000_semc.pdf",
+     "sha256": "b777e854ed6c776a3e5f3537e2b92c6ca129db89213752ba4651290e8cd73db6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05668",
+   "short": "Lei 5668/2025",
+   "title": "Lei nº 5.668, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3478",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3478/lei_5.668_-_25_-_altera_a_2.543_criacao_de_cargo_coordenador_tecnico_e_altera_numero_de_vagas_assessor_tecnico_de_engenharia_-_semplan_semad.pdf",
+     "sha256": "5020fe03c132ba7843b2c324d3b5006429476b9da20c9f7cfb7b93d9df27c5ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05667",
+   "short": "Lei 5667/2025",
+   "title": "Lei nº 5.667, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3477",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3477/lei_5.667_-_25_-_abertura_de_credito_suplementar_r_100.00000_fms.pdf",
+     "sha256": "47545c3ef7972869f3846533f8742a2fc2b158fd74a8ee9ccdb438c4b3693632"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05666",
+   "short": "Lei 5666/2025",
+   "title": "Lei nº 5.666, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3476",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3476/lei_5.666_-_25_-_abertura_de_credito_suplementar_r_43.44350_fms.pdf",
+     "sha256": "44cbed8b07119b4354593dd0a4fe840dd6dc7d63faa2a3156eaae5e033eee497"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05665",
+   "short": "Lei 5665/2025",
+   "title": "Lei nº 5.665, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3475",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3475/lei_5.665_-_2025_-_institui_a_semana_municipal_de_prevencao_e_combate_ao_diabetes_no_calendario_oficial_do_municipio.pdf",
+     "sha256": "474bcf5c3fb23440d583172aa5f1c5eebad3a9166ad625db90b32cc5dc3a4e74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05664",
+   "short": "Lei 5664/2025",
+   "title": "Lei nº 5.664, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3474",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3474/lei_5.664_-_2025_-_declara_de_utilidade_publica_a_associacao_argls_phoenix.pdf",
+     "sha256": "1dd5edc6ae8f82c6dddb2f87d8252eb4c494aa1af557027f541878ae534c14dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05663",
+   "short": "Lei 5663/2025",
+   "title": "Lei nº 5.663, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3473",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3473/lei_5.663_-_2025_-_declara_de_utilidade_publica_a_associacao_das_senhoras_de_rotarinaos_-_asr.pdf",
+     "sha256": "2ab1fc136c421ae7e0d42d28e03647c745c1cc3619377e39edb64bf48d8034ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05661",
+   "short": "Lei 5661/2025",
+   "title": "Lei nº 5.661, de 15 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3471",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3471/lei_n._5.661_-pmc-_2025.pdf",
+     "sha256": "5f13c3ad27996e1b7239b910087af816d615ddc49f0ffe47089271d32664ae17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05660",
+   "short": "Lei 5660/2025",
+   "title": "Lei nº 5.660, de 9 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3470",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3470/lei_5.660_-_25_-_dispoe_sobre_utilizacao_das_calcadas_por_bares_lanchonetes_em_carater_excepcional.pdf",
+     "sha256": "15acf5e550c606a6f8a6a60de276dc5933cff35e63236acc2fa84fe3ba710e14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05658",
+   "short": "Lei 5658/2025",
+   "title": "Lei nº 5.658, de 9 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3537",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3537/lei_n._5.658_-pmc-_2025.pdf",
+     "sha256": "f03101430604140f924f799e9603839044149c9c292ea9e58b29615e07458ef1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05656",
+   "short": "Lei 5656/2025",
+   "title": "Lei nº 5.656, de 2 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3467",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3467/lei_5.656_-_25_-__abertura_de_credito_suplementar_r_315.37655_semed.pdf",
+     "sha256": "f25b00ff28f57f9de19c8dfa6499e91c8e874f53c0f8ea1d5fb6cbf5fee6d73a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05655",
+   "short": "Lei 5655/2025",
+   "title": "Lei nº 5.655, de 2 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3466",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3466/lei__5.655_-_25_-_altera_a_lei_2.735_-_criacao_cargos_semusa_obstetras_e_outros_1.pdf",
+     "sha256": "499605326258ac06101c36b25540953f46a79c5248b6016b351ec334a27a8da6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05654",
+   "short": "Lei 5654/2025",
+   "title": "Lei nº 5.654, de 2 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3465",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3465/lei_5.654_-_25_-_abertura_de_credito_suplementar_r_280.00000_fms.pdf",
+     "sha256": "6416e23c4e4dca793d4acafccefff70eade93c994e1a63dd4b24e672772a71dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05653",
+   "short": "Lei 5653/2025",
+   "title": "Lei nº 5.653, de 2 de outubro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3464",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3464/lei_5.653_-_25_-_altera_a_lei_5.612.pdf",
+     "sha256": "98bb894fde2d33149d021abee90a7ca7a6e5e3c2fb856d88408403852bccc468"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05650",
+   "short": "Lei 5650/2025",
+   "title": "Lei nº 5.650, de 17 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3462",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3462/lei_5.650_-_25_-_altera_a_lei_2.735_licenca_doenca_de_pessoa_da_familia.pdf",
+     "sha256": "3c88a74e6e04a18e82316980f81dcc141491f037a380a08b4f772cf61d7fc841"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05648",
+   "short": "Lei 5648/2025",
+   "title": "Lei nº 5.648, de 17 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3460",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3460/lei_5.648_-_25_-_abertura_de_credito_suplementar_r_4.000.00000_fms.pdf",
+     "sha256": "1855ab557574436348b8628867db770bab39355674394daa610e15b70552f877"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05647",
+   "short": "Lei 5647/2025",
+   "title": "Lei nº 5.647, de 17 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3459",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3459/lei_5.647_-_25_-_abertura_de_credito_suplementar_r_182.00000_amec.pdf",
+     "sha256": "c507daf8bbc4b3c23511fe192c165d1be3010e96ce339b5fc7c779ef6124769f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05646",
+   "short": "Lei 5646/2025",
+   "title": "Lei nº 5.646, de 17 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3458",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3458/lei_5.646_-_25_-_abertura_de_credito_suplementar_r_100.00000_semfaz.pdf",
+     "sha256": "f1b76b7e352b09e09f2cb406e5d33150876874afb29bb56828c230e31f37fccb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05645",
+   "short": "Lei 5645/2025",
+   "title": "Lei nº 5.645, de 17 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3457",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3457/lei_5.645_-_25_-_abertura_de_credito_suplementar_r_485.45747_semed.pdf",
+     "sha256": "b32fbd816eaedbd6fbb104c5b503adf7179dcf7026856564dccf685ee48c122b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05643",
+   "short": "Lei 5643/2025",
+   "title": "Lei nº 5.643, de 10 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3455",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3455/lei_5.643_-_25_-_abertura_de_credito_suplementar_r_69.99707_semc.pdf",
+     "sha256": "ec7e6cccac2a329c7a943950d9ba525c52927d52759d5baf0921ab24744845d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05642",
+   "short": "Lei 5642/2025",
+   "title": "Lei nº 5.642, de 10 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3454",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3454/lei_5.642_-_25_-_abertura_de_credito_suplementar_r_134.00000_semagri.pdf",
+     "sha256": "382a86438f367dda6918331fee2762b3325cd9e53bebcbf0695bdc9d8e329117"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05640",
+   "short": "Lei 5640/2025",
+   "title": "Lei nº 5.640, de 9 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3452",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3452/lei_5.640_-_25_-_altera_o_artigo_1_da_lei_1.481_pmc_03_que_dispoe_sobre_consgnacao_em_folha_de_pagamento.pdf",
+     "sha256": "04a856edd6a561b09769ac3e0b8424069de6c5e39729fb680e8a57b2dda28f54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05638",
+   "short": "Lei 5638/2025",
+   "title": "Lei nº 5.638, de 9 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3450",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3450/lei_5.638_-_25_-_inclui_no_calendario_oficial_de_eventos_do_municipio_de_cacoal.pdf",
+     "sha256": "2c755697793665bc72cc01fbef1064d90a40a308f3599ede04ca9bc3ca031ce2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05639",
+   "short": "Lei 5639/2025",
+   "title": "Lei nº 5.639, de 8 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3451",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3451/lei_5.639_-_25_-_dispoe_sobre_atribuicoes_da_funcao_gratificada_de_ouvidoria_geral.pdf",
+     "sha256": "a99822d8b11bd21f16f6a51a924b1933ed37d98567a17813d2c72d671d3bf6c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05637",
+   "short": "Lei 5637/2025",
+   "title": "Lei nº 5.637, de 8 de setembro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3416",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3416/lei_5.637.pdf",
+     "sha256": "ee036a98c3bfff30573bb398bfa4358957eeb5da382e1487ee0dc57409bd5eaa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05636",
+   "short": "Lei 5636/2025",
+   "title": "Lei nº 5.636, de 27 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3449",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3449/lei_5.636_-_25_-_abertura_de_credito_suplementar_r_620.00000_pgm.pdf",
+     "sha256": "73f4d1a1277557124d70b170773f51d7c5790a24c89586a0ebf6099de65f8973"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05635",
+   "short": "Lei 5635/2025",
+   "title": "Lei nº 5.635, de 27 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3447",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3447/lei_5.635_-_25_-_abertura_de_credito_especial_r_3.480.06743_fundeb.pdf",
+     "sha256": "7e622dd85c50a1e702a3dd067ec6c6c89d58bb4827a78671d61f185638bbda30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05634",
+   "short": "Lei 5634/2025",
+   "title": "Lei nº 5.634, de 27 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3446",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3446/lei_5.634_-_25_-_abertura_de_credito_suplementar_r_1.624.00000_fundeb.pdf",
+     "sha256": "dfc3e9dc40e419f3990487de57596262f9df3ddb78eef814e3acecd677fe82d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05633",
+   "short": "Lei 5633/2025",
+   "title": "Lei nº 5.633, de 27 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3445",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3445/lei_5.633_-_25_-_abertura_de_credito_adicional_suplementar__r_4.890.00000_fundeb.pdf",
+     "sha256": "a0f5dedc5f62bef2aa3c05b06768751b61f2896ade7ed50017121169abbeb874"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05632",
+   "short": "Lei 5632/2025",
+   "title": "Lei nº 5.632, de 27 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3444",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3444/lei_5.632_-_25_-_abertura_de_credito_suplementar_r_2.684.62345_semed.pdf",
+     "sha256": "4a677ee7f46d721e45e08c14897f4ce603c79f9dad7e0c89013c403bc139a305"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05631",
+   "short": "Lei 5631/2025",
+   "title": "Lei nº 5.631, de 21 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3443",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3443/lei_5.631_-_25_-_altera_a_lei_2.735_-_vagas_pedagogos_semed.pdf",
+     "sha256": "a7e6d82eae0e868e4ce5698c68c68d20443a7ec21e5d2d7d374d614ed6019ca5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05630",
+   "short": "Lei 5630/2025",
+   "title": "Lei nº 5.630, de 21 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3442",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3442/lei_n._5.630-pmc-2025.pdf",
+     "sha256": "6e429fd9de4413743bdbc76e8dfa8c10eab800f2fd3fc741a8e3482d47d2bedc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05626",
+   "short": "Lei 5626/2025",
+   "title": "Lei nº 5.626, de 21 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3438",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3438/lei_5.626_-_25_-_renuncia_de_valores_inferior_a_meia_ufc.pdf",
+     "sha256": "d61b9d9a387c2ffb2bc6e57cf9fc80bc90b255ea46372825256e7be74c565139"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05625",
+   "short": "Lei 5625/2025",
+   "title": "Lei nº 5.625, de 21 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3437",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3437/lei_5.625_-_25_-_alteracao_da_lei_4_835_pmc_2021.pdf",
+     "sha256": "caf64ce66155adcdab552497b9e84b93a4ba313953d44e17dd73639443d6d8e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05629",
+   "short": "Lei 5629/2025",
+   "title": "Lei nº 5.629, de 20 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3441",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3441/lei_5.629_-_25_-_abertura_de_credito_especial_r_93.94565_semma_e_semc.pdf",
+     "sha256": "d4dddfdbf799ae85d9935a63b17cfefa8a26b8ad6fc269b024719117ff4b9abd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05628",
+   "short": "Lei 5628/2025",
+   "title": "Lei nº 5.628, de 20 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3440",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3440/lei_5.628_-_25_-_abertura_de_credito_especial_r_20.00000_amec.pdf",
+     "sha256": "b7a9006e4f776b9111ba4e2ebc11f1438955d2eadfe523b2c72504bbac843ba6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05624",
+   "short": "Lei 5624/2025",
+   "title": "Lei nº 5.624, de 20 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3436",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3436/lei_5.624_-_25_-_alteracao_da_lei_3.025_2012_residencial_greenville_iv.pdf",
+     "sha256": "563db69a1d21d0ee31be59ea24bb1fea7e58185abb161e6abdd008c4cf4f894f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05623",
+   "short": "Lei 5623/2025",
+   "title": "Lei nº 5.623, de 20 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3435",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3435/lei_5.623_-_25_-_prorroga_o_prazo_de_vigencia_lei_2.189_2007_-__comodato_da_creche_terezinha_geneci_de_oliveira_-_teca.pdf",
+     "sha256": "a3b272bc2aa68e9e40ef49a373422a2e2775ae1f34d08d181b338ac9cede8d0f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05622",
+   "short": "Lei 5622/2025",
+   "title": "Lei nº 5.622, de 20 de agosto de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3434",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3434/lei_5.622_-_25_-_institucionalizacao_do_viveiro_municipal.pdf",
+     "sha256": "034e3947765abfd4400a0bd81537a0c60c1ead7b1c7dafd625da7d53dafd788c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05615",
+   "short": "Lei 5615/2025",
+   "title": "Lei nº 5.615, de 21 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3427",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3427/lei_n._5.615.pdf",
+     "sha256": "e40b57d4f1ca0efcec3a32c6bac31680251f3c6469e21d9e5f804283a28382bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05613",
+   "short": "Lei 5613/2025",
+   "title": "Lei nº 5.613, de 10 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3425",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3425/lei_n._5.613.pdf",
+     "sha256": "fbdcfb624b9d931c6f52141326ec18f6bc29dda99827cd9043a30d9a364e3036"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05612",
+   "short": "Lei 5612/2025",
+   "title": "Lei nº 5.612, de 10 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3424",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3424/lei_n._5.612.pdf",
+     "sha256": "be34abe2f31e4f925d26fd802e56d3526b41d14d44c71012be3edf2f431c7447"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05610",
+   "short": "Lei 5610/2025",
+   "title": "Lei nº 5.610, de 8 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3422",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3422/lei_n._5.610.pdf",
+     "sha256": "c155fe2c78d7feebbcf0d48d6b7f9d255014ec432c926acbdd0b3a3f21537977"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05607",
+   "short": "Lei 5607/2025",
+   "title": "Lei nº 5.607, de 8 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3421",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3421/lei_no_5.607.pdf",
+     "sha256": "a5970b9da53a507fca7b0cc676de68fceb74e2c972d53814daac42e55009ddf0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05606",
+   "short": "Lei 5606/2025",
+   "title": "Lei nº 5.606, de 8 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3420",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3420/lei_no_5.606.pdf",
+     "sha256": "6b545ef39a9ee9310edfd57071241cda03badef737c5574e2bf3df8165907a2d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05603",
+   "short": "Lei 5603/2025",
+   "title": "Lei nº 5.603, de 7 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3418",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3418/lei_5.603_-_25_-__obrigatoriedade_da_realizacao_do_teste_da_orelhinha_maternidades_de_cacoal.pdf",
+     "sha256": "43b43165ed0bce79f6e83942c0823c51ebcd39807f7e7e2edfd4959c2a8e0d79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05602",
+   "short": "Lei 5602/2025",
+   "title": "Lei nº 5.602, de 7 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3417",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3417/lei_n._5.602.pdf",
+     "sha256": "83dd3ec30462af7f7aceb104fd781e2b9babc05034673af93bb8ccdeea9bbe35"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05600",
+   "short": "Lei 5600/2025",
+   "title": "Lei nº 5.600, de 2 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3410",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3410/lei_5.600_-_25_dia_do_pioneiro..pdf",
+     "sha256": "8a8d0211f07a5847f7327a7127e7c50d99b3dd8a54cc29587acf82d03b5e5f85"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05599",
+   "short": "Lei 5599/2025",
+   "title": "Lei nº 5.599, de 2 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3409",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3409/lei_5.599_-_25_-_declara_de_utilidade_publica_aassociacao_filhos_de_rondonia_-_afro.pdf",
+     "sha256": "bded3915b1e525746e6771d050d24ed64fdf64f13156f58d088b88b0f614fdc2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05598",
+   "short": "Lei 5598/2025",
+   "title": "Lei nº 5.598, de 2 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3408",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 11,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3408/lei_5.598_-_25_-_concesssao_de_direito_real_de_uso_lote_14-d.pdf",
+     "sha256": "976b50ad5e97b46c27dcbf7f2f488d16822a45b054b22c741aaeae9aa7e41bc9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05597",
+   "short": "Lei 5597/2025",
+   "title": "Lei nº 5.597, de 2 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3407",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 61,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3407/lei_5.597_-_25_-institui_o_processo_adm_de_responsabilizacao_-_par.pdf",
+     "sha256": "9d2b9f9328ff2294719e33f9489a173f776b545d6e393cfd72bd4e374c6da6c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05596",
+   "short": "Lei 5596/2025",
+   "title": "Lei nº 5.596, de 1 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3406",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3406/lei_5.596_-_25_-_abertura_de_credito_suplementar_r_450.00000_semdec.pdf",
+     "sha256": "1b2c3cc4e754a66e9377ab4c9b332494841b133fc7faf478744393450dfdbabf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05595",
+   "short": "Lei 5595/2025",
+   "title": "Lei nº 5.595, de 1 de julho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3412",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3412/lei_no_5.595.pdf",
+     "sha256": "ab5dedcf5783251d2ebd6d8288a92a6d02abbe33574e2af989c7b7d56c267e4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05594",
+   "short": "Lei 5594/2025",
+   "title": "Lei nº 5.594, de 25 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3405",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3405/lei_5.594_-_25_-_abertura_de_credito_suplementar_r_208.00000_semast.pdf",
+     "sha256": "bc8f48cfd7a46004393828f9cf832bfc0384913e9bb3458b733ae1fde4d73950"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05589",
+   "short": "Lei 5589/2025",
+   "title": "Lei nº 5.589, de 18 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3400",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3400/lei_n._5.589_-pmc-_2025.pdf",
+     "sha256": "3e283ef4641f243e9578b02b16e770ad09cbdb61906f3f505a7669b5ee98b35b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05587",
+   "short": "Lei 5587/2025",
+   "title": "Lei nº 5.587, de 18 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3398",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3398/lei_5.587_-_25_-_declara_de_utilidade_publica_a_associacao_esportiva_riozinho_-_asser.pdf",
+     "sha256": "fef513900c0bbe8a2905c8f41c360feba6ce6d2a9bbd7e02a75880a7e52501ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05590",
+   "short": "Lei 5590/2025",
+   "title": "Lei nº 5.590, de 17 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3401",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3401/lei_5.590_-_25_-revoga_as_leis_3600_a_3605_com_base_na_lei_3.538_pmc_2025.pdf",
+     "sha256": "8fbb2df00beb338e646309d8078e5ea381bd18478665de46297545bccc298416"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05585",
+   "short": "Lei 5585/2025",
+   "title": "Lei nº 5.585, de 16 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3396",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3396/lei_no_5.585.pdf",
+     "sha256": "b9cd0ad4b5a42a3251a8f39542871fc670abf2254d860a08d4bcfeb11b4cd904"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05578",
+   "short": "Lei 5578/2025",
+   "title": "Lei nº 5.578, de 11 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3389",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3389/lei_no_5.578.pdf",
+     "sha256": "d39111cc5fd8034b69935164f03c22fe052d6fe4979a0e9b85da49c4e7695058"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05577",
+   "short": "Lei 5577/2025",
+   "title": "Lei nº 5.577, de 11 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3388",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3388/lei_5.577_-_dia_do_faca_bonito.pdf",
+     "sha256": "1c64ad7bfbb888948f1f575c9c7b751f49a9a3fc86c37f09a1343ecc0724b6c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05576",
+   "short": "Lei 5576/2025",
+   "title": "Lei nº 5.576, de 11 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3387",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3387/lei_no_5.576.pdf",
+     "sha256": "dff860b2a5d2c55b3c55c98f0c8bc5cf641a26ac60c271999b4beee61f84a8cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05575",
+   "short": "Lei 5575/2025",
+   "title": "Lei nº 5.575, de 5 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3386",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3386/lei_no_5.575.pdf",
+     "sha256": "35646a96fa9c7437313a462c6654cb10b051f346b035fbfb65ddb06efab484c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05574",
+   "short": "Lei 5574/2025",
+   "title": "Lei nº 5.574, de 2 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3385",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3385/lei_n._5.574.pdf",
+     "sha256": "b262a153b22c7eb9aa32838cbc5cd7bd5488ed9f012e9a591484c4b7a060c0e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05573",
+   "short": "Lei 5573/2025",
+   "title": "Lei nº 5.573, de 2 de junho de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3384",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3384/lei_n._5.573.pdf",
+     "sha256": "85a935c22a936f734e6e160031f6a9ff8f74799b92e9d209f7ffa8da359900a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05572",
+   "short": "Lei 5572/2025",
+   "title": "Lei nº 5.572, de 27 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3411",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3411/lei_no_5.572.pdf",
+     "sha256": "5944b3898888b3dacf6e0b15ea775eac544026b190ac222d783424b7aa8bb05b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05571",
+   "short": "Lei 5571/2025",
+   "title": "Lei nº 5.571, de 27 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3383",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3383/lei_5.571_-_24_-_abertura_de_credito_suplementar_r_2.800.00000_fms.pdf",
+     "sha256": "7713954403846cf8bd6603bdbd46a9454342107411f665785381e7c5ab8209eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05570",
+   "short": "Lei 5570/2025",
+   "title": "Lei nº 5.570, de 27 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3382",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3382/lei_no_5.570-pmc-2025.pdf",
+     "sha256": "9c3fa960c2520a5c1a3cd20d4554c59ae57292950cca8b4f68f71c5beb959e32"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05569",
+   "short": "Lei 5569/2025",
+   "title": "Lei nº 5.569, de 27 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3381",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3381/lei_5.569_-_25_-_abertura_de_credito_suplementar_r_1.000.00000_fms.pdf",
+     "sha256": "1572dc997f43d8a71bca0692939ec47a505e4043a151051f87c7792cdd9523d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05568",
+   "short": "Lei 5568/2025",
+   "title": "Lei nº 5.568, de 20 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3380",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3380/lei_5.568_-_25__abertura_de_credito_r_103.81795_amec.pdf",
+     "sha256": "cef3a0b130c3886b8e2fc40279d8f5ec5e2bfe01748586d58fa52d464ac42a9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05567",
+   "short": "Lei 5567/2025",
+   "title": "Lei nº 5.567, de 20 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3379",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3379/lei_5.567_-25__abertura_de_credito_suplementarr_1.629.80828_fmas.pdf",
+     "sha256": "c12ebf56f2a3468f3e877b1460ebc9e6e0b144243602b348cf5f04b7d0b5a47e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05566",
+   "short": "Lei 5566/2025",
+   "title": "Lei nº 5.566, de 20 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3378",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3378/lei_5.566_-25__abertura_de_credito_suplementar_r_420.29778.pdf",
+     "sha256": "2b75646b3fa2cc808ddd1ca4a8ee9b402f6ede1b0dd3a6fdf7968b3b96e6f684"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05563",
+   "short": "Lei 5563/2025",
+   "title": "Lei nº 5.563, de 20 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3375",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3375/lei_5.563_-_25_-_regularizacao_fundiaria_desmembramento_de_lotes_em_condominio_em_carater_excepcional.pdf",
+     "sha256": "46dbcad1797423bbc2c183fc7087412be34194935865af064bb980f4b984c4d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05562",
+   "short": "Lei 5562/2025",
+   "title": "Lei nº 5.562, de 20 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3374",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3374/lei_n._5.562_-pmc-_2025.pdf",
+     "sha256": "2530d8e9d3cc2f898c33d0fe7540fca95f55aacfbf3bc73a21f80e501075b438"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05560",
+   "short": "Lei 5560/2025",
+   "title": "Lei nº 5.560, de 12 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3372",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3372/lei_5.560-25_-_acs_e_ace_seletivo_semusa__retificado.pdf",
+     "sha256": "87e57350785d01fcc6537a86cf27f0aafdfaabd9e9825ab52447ea7d9d2fcacf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05559",
+   "short": "Lei 5559/2025",
+   "title": "Lei nº 5.559, de 8 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3369",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3369/lei_5.559_-_25_-_dispoe_sobre_o_reconhecimento_e_valorizaa_a_o_da_cultura_pomerana_em_cacoal_-_assinada.pdf",
+     "sha256": "66b2032bb3518bd5e16838b5b053c812f252736f5ef0f3672982959a26a1d550"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05558",
+   "short": "Lei 5558/2025",
+   "title": "Lei nº 5.558, de 8 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3368",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3368/lei_5.558_-_25_-_inclusa_o_da_pomer_west_fest_-_festa_da_linguia_a_pomerana_no_calendario_oficial_de_eventos_-_assinada.pdf",
+     "sha256": "d1b6319a696f0bea7174a324da38df3244f5a47e8aff192de463988ec8e9e29b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05557",
+   "short": "Lei 5557/2025",
+   "title": "Lei nº 5.557, de 8 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3367",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3367/leis_sancionadas_5557.pdf",
+     "sha256": "0dc59a44519f70e97c3ad14bfd5077167a13168fc802a19bfa005b4f4cdcdf0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05556",
+   "short": "Lei 5556/2025",
+   "title": "Lei nº 5.556, de 8 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3371",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 15,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3371/lei_5.556-25_-_altera_a_lei_3.481_pmc_2015_2.543_pmc_2009_e_2.735_pmc_2010_-__semosp_semagri_e_outros_assinada.pdf",
+     "sha256": "3f2d12ea1db1c2f374a095b311e2333100bcd9870638f649568f544db8e065db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05555",
+   "short": "Lei 5555/2025",
+   "title": "Lei nº 5.555, de 5 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3366",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3366/lei_5.555_-_25_-_remuneraa_a_o_dos_conselheiros_tutelares_-_subsidio.pdf",
+     "sha256": "6f4f93f8883127ede70403b7c12b77636d373137ef15eb63acb26803dc76d216"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05553",
+   "short": "Lei 5553/2025",
+   "title": "Lei nº 5.553, de 5 de maio de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3364",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3364/lei_5.553_-_25_-_institui_o_mes_de_concientizaa_a_o_do_voto_a_partir_dos_16_anos.pdf",
+     "sha256": "80227791a266e9fbb51424d7f4efce117fe774e603b2086b656870f5732d79ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05551",
+   "short": "Lei 5551/2025",
+   "title": "Lei nº 5.551, de 30 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3329",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3329/lei_5.551_-25__abertura_de_credito_suplementar_r_100.00000_semc.pdf",
+     "sha256": "e7885f948d93b4a4cfb1a24073ac2f83a69796cdb634647e317450d407fac9a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05550",
+   "short": "Lei 5550/2025",
+   "title": "Lei nº 5.550, de 30 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3328",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3328/lei_5.550_-_25_-_abertura_de_credito_suplementar_r_200.00000_semast.pdf",
+     "sha256": "0b7e7e3527230740edeb3c9a907812c1cf257b9c9623f87a6834d9f0772702c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05549",
+   "short": "Lei 5549/2025",
+   "title": "Lei nº 5.549, de 30 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3327",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3327/lei_5.549-_pmc-_2025_-_abertura_de_credito_suplementar_r_166.75000_semast.pdf",
+     "sha256": "7697913b88734757b21d22d59cf17e50b6a2a643ed695ecc96ec516efbda2f79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05548",
+   "short": "Lei 5548/2025",
+   "title": "Lei nº 5.548, de 28 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3326",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3326/lei_no_5.548_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "58700b93ef653b8e9964c267641c0d2ccabeb7bf7f833ac914d41bdf05ba5ef5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05547",
+   "short": "Lei 5547/2025",
+   "title": "Lei nº 5.547, de 28 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3325",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3325/lei_no_5.547_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "8e3b28048d8570382a60413e2bfc1f85b999ea023b7f0fc6c0873bca68c9e2eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05546",
+   "short": "Lei 5546/2025",
+   "title": "Lei nº 5.546, de 28 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3324",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3324/lei_no_5.546_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "3d560bf10a050a1dfaf934e9cb472d40cfbb3c60b1cd17f967e90e7550dfbf7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05545",
+   "short": "Lei 5545/2025",
+   "title": "Lei nº 5.545, de 28 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3323",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3323/lei_no_5.545_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "dabb1715dfc61a6554b4f539ff12babbbb6c9704eede4ad89895da8372c4687c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05544",
+   "short": "Lei 5544/2025",
+   "title": "Lei nº 5.544, de 28 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3322",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3322/lei_no_5.544_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "52729fecd2733010b0d882f13fe72c243e0eee5428849ba0b31a9ef5addef5f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05543",
+   "short": "Lei 5543/2025",
+   "title": "Lei nº 5.543, de 14 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3321",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3321/lei_no_5.543_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "942daf3bef0046372363392a197d6817ed6b4af749775f22c42fc14074b76558"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05542",
+   "short": "Lei 5542/2025",
+   "title": "Lei nº 5.542, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3320",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3320/lei_no_5.542_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "e7e7b8ca207bf77b64f90aa9dffac26a7ceadbb8cb86c6bc71a9d30762d41431"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05541",
+   "short": "Lei 5541/2025",
+   "title": "Lei nº 5.541, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3319",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3319/lei_no_5.541_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "10161634a4a1a7649688d2a4f69221e26103e46b77cc2d1376771c3886d7993f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05540",
+   "short": "Lei 5540/2025",
+   "title": "Lei nº 5.540, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3318",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3318/lei_no_5.540_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "23d175698610d23a24cdeb56495bfe1ed59825526c1771150fb4fd35c777d77d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05539",
+   "short": "Lei 5539/2025",
+   "title": "Lei nº 5.539, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3317",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3317/lei_no_5.539_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "c9c806472ba756de773270259d865be06f0b369659864f2251648268c3f937d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05538",
+   "short": "Lei 5538/2025",
+   "title": "Lei nº 5.538, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3316",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3316/lei_no_5.538_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "9e530f5526f8c59aa6e6ae6e56e5df48bf62e9718459c8fc957ca924ad1f5360"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05537",
+   "short": "Lei 5537/2025",
+   "title": "Lei nº 5.537, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3315",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3315/lei_no_5.537_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "1afbcce1a2ab5724853f8da8de62a4230249ee5980f46c2f4ae4ff6826c68c95"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05536",
+   "short": "Lei 5536/2025",
+   "title": "Lei nº 5.536, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3314",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3314/lei_no_5.536_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "cfc7d053645971bc3947fb93b86afa49904c65d3a9058c51d312d6ba394b8bf3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05535",
+   "short": "Lei 5535/2025",
+   "title": "Lei nº 5.535, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3313",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3313/lei_no_5.535_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "a78482087a029155381bdf70fbf3d342b55cf8f5e9eff90ba4ebf26df61cb09d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05534",
+   "short": "Lei 5534/2025",
+   "title": "Lei nº 5.534, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3312",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3312/lei_no_5.534_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "460bdc5ec6c2ae5b4fb1ac359bfcedfb9be2326df0aa78be41bc9710bfc0802c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05533",
+   "short": "Lei 5533/2025",
+   "title": "Lei nº 5.533, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3311",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3311/lei_no_5.533_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "0dba950a26e27d1ffdc4a497be0e351ecd33b1e371fcf48250afa6aad7373e27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05532",
+   "short": "Lei 5532/2025",
+   "title": "Lei nº 5.532, de 8 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3310",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3310/lei_no_5.532_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "d071d23ac98b8f39bfb01691e2c3b24ef2a1fa5a3a170a4c7b69e2299ad094c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05531",
+   "short": "Lei 5531/2025",
+   "title": "Lei nº 5.531, de 1 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3309",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3309/lei_no_5.531_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "93f038f7969a524363bf1f0f90e059dc81c9653587eff465440a5a01b8c0abab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05530",
+   "short": "Lei 5530/2025",
+   "title": "Lei nº 5.530, de 1 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3308",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3308/lei_no_5.530_pmc_2025_dispoe_sobre_abertura_de_credito.pdf",
+     "sha256": "0ac50ae5cbaec5a2036ae3bcccdedaea63908bd1af8ac6710418ed79dd305235"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05528",
+   "short": "Lei 5528/2025",
+   "title": "Lei nº 5.528, de 1 de abril de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3306",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3306/lei_n._5.528__pmc_2025_dispoe_sobre_a_prorrogacao_do.pdf",
+     "sha256": "21a1197241d015e476c64df6c7a46c3e5ee56e68ed9fa377412811ec474b3b0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05526",
+   "short": "Lei 5526/2025",
+   "title": "Lei nº 5.526, de 27 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3269",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3269/lei_n._5.526-pmc-2025-altera_lei_n._5.313-pmc-2024_que_dispoe_sobre_o_desenvolvimento_urbano_no_municipio_de_cacoal_instituindo_o_novo_zoneamento_uso_e_ocupacao_do_solo_e_da_outras_providencias.pdf",
+     "sha256": "b7ecf2e3d28b530542a5fd6c8998b6d4caedc3988c58bbfff262600a315211f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05525",
+   "short": "Lei 5525/2025",
+   "title": "Lei nº 5.525, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3284",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3284/lei_no_5.525-pmc-2025-dispoe_sobre_abertura_de_credito_especial_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "8e37c502116974681c6950b310455020b93f216e890851ec827985b7b8092e68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05524",
+   "short": "Lei 5524/2025",
+   "title": "Lei nº 5.524, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3283",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3283/lei_no_5.524-pmc-2025-dispoe_sobre_abertura_de_credito_especial_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "fff590116e517c5eb609ae0e1fb968193bcc30fcc76e85d1e3c17cadd35f62e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05523",
+   "short": "Lei 5523/2025",
+   "title": "Lei nº 5.523, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3282",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3282/lei_no_5.523-pmc-2025-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "7e1609968f2aefd382e78406063ae393a5eb202330c1bb4ea75435fac9429df5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05522",
+   "short": "Lei 5522/2025",
+   "title": "Lei nº 5.522, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3281",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3281/lei_no_5.522-pmc-2025-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "ce7a4d2e879cf9e110ea6c12e827e24c65850bd3853226cb34b11cedf58abcd3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05521",
+   "short": "Lei 5521/2025",
+   "title": "Lei nº 5.521, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3280",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3280/lei_no_5.521-pmc-2025-altera_e_inclui_dispositivos_na_lei_n._5.203pmc2023_e_da_outras_providencias..pdf",
+     "sha256": "df04a6b835ae6d5d54ebdf05aebe683ab6cc7b95f4cd375b8d7cef78d8d24bbb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05520",
+   "short": "Lei 5520/2025",
+   "title": "Lei nº 5.520, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3279",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3279/lei_no_5.520-pmc-2025-dispoe_sobre_reformulacao_administrativa_ao_orcamento_vigente_por_meio_de_remanejamento_e_da_outras_providencias..pdf",
+     "sha256": "4855a869722756305f87a10c3a87068b31816ee8ef8bd3d48e05440243aea497"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05519",
+   "short": "Lei 5519/2025",
+   "title": "Lei nº 5.519, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3278",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3278/lei_no_5.519-pmc-2025-dispoe_sobre_abertura_de_credito_especial_ao_orcamento_vigente_e_da_outras_providencias.pdf",
+     "sha256": "327bae3b61dd916f0fa6c0224bdadea7736eed266ebb368eb9bfecd3fdcac748"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05518",
+   "short": "Lei 5518/2025",
+   "title": "Lei nº 5.518, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3277",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3277/lei_no_5.518-pmc-2025-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "897df254634f9344c8d5029148626fe97bc90f5f3871c2a32928e3030ccc8337"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05517",
+   "short": "Lei 5517/2025",
+   "title": "Lei nº 5.517, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3276",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3276/lei_no_5.517-pmc-2025-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "4307cf20fdf640ab52d010ba43cf85b0a912189f41ce6108d05142884e96875e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05516",
+   "short": "Lei 5516/2025",
+   "title": "Lei nº 5.516, de 19 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3275",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3275/lei_no_5.516-pmc-2025-concede_a_elcirone_moreira_deiro_o_titulo_de_cidadao_honorario_de_cacoal-ro_e_da_outras_providencias.pdf",
+     "sha256": "765b82ec9862905d3be39713f7c816febe5c356dfe874b02b400d935a00c13a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05515",
+   "short": "Lei 5515/2025",
+   "title": "Lei nº 5.515, de 18 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3268",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 14,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3268/lei_n._5.515-pmc-2025.pdf",
+     "sha256": "1dfb7d0efb2e836a3e34b4a67f4b852574127ae483ce73ea45e0cecdc5d10a08"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05514",
+   "short": "Lei 5514/2025",
+   "title": "Lei nº 5.514, de 18 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3267",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3267/lei_n._5.514.pdf",
+     "sha256": "fc6bac67472e7a496064172543cf656340485bbaa7d355ff3371a3b0886214cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05513",
+   "short": "Lei 5513/2025",
+   "title": "Lei nº 5.513, de 18 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3413",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3413/lei_n._5.513-pmc-2025.pdf",
+     "sha256": "bbdef3e8adf339ca562a8f98a23ec65add5b3b1e5e79ad2bd9fcacdb7b1c338a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05512",
+   "short": "Lei 5512/2025",
+   "title": "Lei nº 5.512, de 7 de março de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3274",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3274/lei_no_5.512-pmc-2025-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "2a7323578841578e5d9d12547b2f91684502d47e7abad4aecd22c936194b4e40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05510",
+   "short": "Lei 5510/2025",
+   "title": "Lei nº 5.510, de 17 de fevereiro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3273",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3273/lei_no_5.510-pmc-2025-dispoe_sobre_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "410ca64c8f8769ed3ec5aef3bdbd3444b1c06765a93446fb9315505182e5fbd5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05509",
+   "short": "Lei 5509/2025",
+   "title": "Lei nº 5.509, de 17 de fevereiro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3272",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3272/lei_no_5.509-pmc-2025-dispoe_sobre_abertura_de_credito_especial_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "b8fba4bf575226df80bad1141e5e4cbc8a7494e7c85430f190ea530fa39d3bf2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05508",
+   "short": "Lei 5508/2025",
+   "title": "Lei nº 5.508, de 30 de janeiro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3265",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 12,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3265/lei_n._5.508.pdf",
+     "sha256": "24456d765907317d611d13bc597107e72d76b213b5568a5ef133e079bb041d78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05507",
+   "short": "Lei 5507/2025",
+   "title": "Lei nº 5.507, de 30 de janeiro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3259",
+   "versions": [
+    {
+     "from": "2025-11-30",
+     "units": 9,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3259/leis-5507-2025-.pdf",
+     "sha256": "3dfa91b1bb33cfe8775a971f4b5b5c06a1f29c291f9787ee5c65eed943d0c0aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05505",
+   "short": "Lei 5505/2025",
+   "title": "Lei nº 5.505, de 30 de janeiro de 2025",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3271",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3271/lei_no_5.505-pmc-2025-dispoe_sobre_abertura_de_credito_especial_ao_orcamento_vigente_e_da_outras_providencias..pdf",
+     "sha256": "87b00dc53302cb48dc329efefc75836f2cc3dbc46ac5ffb0b9bb47cf62abd03d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05503",
+   "short": "Lei 5503/2024",
+   "title": "Lei nº 5.503, de 27 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3499",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3499/leis-5503-2024.pdf",
+     "sha256": "ff08fc078a8489ff9babe5a6a72c09ecc8d835be38cf8f981d3cdbdc8c8ae117"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05502",
+   "short": "Lei 5502/2024",
+   "title": "Lei nº 5.502, de 27 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3498",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 26,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3498/leis-5502-2024.pdf",
+     "sha256": "74810251225828183a64a3d2a5706881b44fb876b142d0fe1939bf62cae95009"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05501",
+   "short": "Lei 5501/2024",
+   "title": "Lei nº 5.501, de 27 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3497",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3497/leis-5501-2024.pdf",
+     "sha256": "84df660efa11cf08ddf208501847dd7840de901582d1817ceb155a2a29c904e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05499",
+   "short": "Lei 5499/2024",
+   "title": "Lei nº 5.499, de 20 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3496",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3496/leis-5499-2024.pdf",
+     "sha256": "3bd889bf5b9e7419e72b13c4ba8e0290a62d4ea60494bade2a47db3f539fe027"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05492",
+   "short": "Lei 5492/2024",
+   "title": "Lei nº 5.492, de 20 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3303",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3303/lei_5.492_-__pmc_2024_-concede_ao_senhor_francesco_vialetto_o_titulo_de_cidadao_honorario_de_cacoal.pdf",
+     "sha256": "49404be5228f5e5bc0e690126addfe9fed7d8c116a639ff95ec6c2ab926bb209"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05491",
+   "short": "Lei 5491/2024",
+   "title": "Lei nº 5.491, de 20 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3302",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3302/lei_5.491_-pmc_2024_-_artista_da_casa.pdf",
+     "sha256": "cd401165135733c23c74e85822f4d9e619522b14e1067aaa236af1dfc72e8703"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05490",
+   "short": "Lei 5490/2024",
+   "title": "Lei nº 5.490, de 20 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3358",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3358/lei_5.490_-_pmc_2024_-_priorizar_a_aquisicao_de_cafe_torrado_em_grao_e_moido_da_especie_cafe_robusta_amazonico.pdf",
+     "sha256": "a4c10e9cfb01ac7b40a5c8515896a0b1fc1a9e5671aa732b855ad2b53daccf25"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05498",
+   "short": "Lei 5498/2024",
+   "title": "Lei nº 5.498, de 18 de dezembro de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3495",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3495/lei_no_5.498-pmc-2024.pdf",
+     "sha256": "0ab234232e2265a0ef3244a209938bcffc518d69946c250fdce3729094ff0e76"
+    }
+   ]
   }
  ]
 }
