@@ -12516,6 +12516,496 @@
      "sha256": "ba8e0e21b88e3ddfe31e59b9a45093f114cd489f3ece575d0d3dbabb3c8a9842"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-04428",
+   "short": "Lei 4428/2020",
+   "title": "Lei nº 4.428, de 13 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/370",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/370/lei_4.428-20_altera_a_lei_n_2.735-10_promulgada.pdf",
+     "sha256": "bbd20860246911dd7dd6fb522a9009a81dd667b9a5b21e5981376eb9ec9bd1b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04462",
+   "short": "Lei 4462/2020",
+   "title": "Lei nº 4.462, de 12 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2108",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2108/lei_4.462-pmc-20_abertura_de_credito_adicional_suplementar_-_r_500.00000_fms.pdf",
+     "sha256": "1aa6842df10338e41622626f7f25e93eb5cbee48c248dfc1328ad740f96d6055"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04461",
+   "short": "Lei 4461/2020",
+   "title": "Lei nº 4.461, de 12 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2105",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2105/lei_4.461-pmc-20_abertura_de_credito_adicional_suplementar_-_r_195.38021_fms.pdf",
+     "sha256": "106e4ae428351b1370fb1e37284d32c3fa200b3646f0396b1eaa4a4ce201a9b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04460",
+   "short": "Lei 4460/2020",
+   "title": "Lei nº 4.460, de 12 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2101",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2101/lei_4.460-pmc-20_abertura_de_credito_adicional_-_r_300.00000_fms.pdf",
+     "sha256": "c9c606d5de2315fb5e79d181aed5e1e8404c9380ce4e0a4aa1dd52e30c521ce4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04459",
+   "short": "Lei 4459/2020",
+   "title": "Lei nº 4.459, de 12 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2099",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2099/lei_4.459-pmc-20_abertura_de_credito_adicional_especial_-_r_224.97962_fmas.pdf",
+     "sha256": "191785dc924ca5494a6c7ac7a476ece15118deacf94e8c623ea33a0de6ad5e9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04458",
+   "short": "Lei 4458/2020",
+   "title": "Lei nº 4.458, de 12 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2098",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2098/lei_4.458-pmc-20_abertura_de_credito_adicional_suplementar_-_r_469.00000_fmas.pdf",
+     "sha256": "88fe606f12c41bcfd2f49625d7d56db53a6a2e85fad7e27e0ce65ed81c08435b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04457",
+   "short": "Lei 4457/2020",
+   "title": "Lei nº 4.457, de 12 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2097",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2097/lei_4.457-pmc-20_abertura_de_credito_adicional_especial_-_r_40.00000_fmia.pdf",
+     "sha256": "a0687b9065efd0bfe653395ebe28bf5cc4292e54e7fabe25c3405fcd4f14ca83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04456",
+   "short": "Lei 4456/2020",
+   "title": "Lei nº 4.456, de 5 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2096",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2096/lei_4.456-pmc-20_reformulacao_administrativa_por_meio_de_transposicao_-_r_7.63306_fms.pdf",
+     "sha256": "88d67d408ceb166ced6946941aa360e88c8829afd0519db7fb4fc58c4a1bb911"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04454",
+   "short": "Lei 4454/2020",
+   "title": "Lei nº 4.454, de 5 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2095",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2095/lei_4.454-pmc-20_abertura_de_credito_adicional_suplementar_-_r256.35216_fms.pdf",
+     "sha256": "fd6667bc1855bfbbc9cc30244983ad04944b171dd2e37fd16f50f0a629f0bbeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04453",
+   "short": "Lei 4453/2020",
+   "title": "Lei nº 4.453, de 5 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2094",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2094/lei_4.453-pmc-20_reformulacao_administrativa_por_meio_de_transposicao_-_r15.92400_saae.pdf",
+     "sha256": "c7106e758292f37a459facb2edc08a973f3ef6f0462620b15ff4976eba65190e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04452",
+   "short": "Lei 4452/2020",
+   "title": "Lei nº 4.452, de 5 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/470",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/470/lei_4.452-pmc-20_abertura_de_credito_adicional_suplementar_r_r43.74600__saaec.pdf",
+     "sha256": "5ba62c31cc333a3586538e8b4d6811cf2dedb51d4e9cbd04fa8170bd21d78499"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04451",
+   "short": "Lei 4451/2020",
+   "title": "Lei nº 4.451, de 5 de maio de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2093",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2093/lei_4.451-pmc-20_abertura_de_credito_adicional_suplementar_-_r_46.73506_semosp.pdf",
+     "sha256": "e7a4207ff9291a8a181519b5d5b4cdc8ada245dd1fbb2c0e603a8637b4fd012e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04445",
+   "short": "Lei 4445/2020",
+   "title": "Lei nº 4.445, de 27 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/367",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/367/lei_4.445-pmc-20_abertura_de_credito_adicional_suplementar_-_r_3.330.91300_saae.pdf",
+     "sha256": "a9b9a5bae9efd695a9e4ea68feea165565d02713ec5ead0cf10d7214df6c9fef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04446",
+   "short": "Lei 4446/2020",
+   "title": "Lei nº 4.446, de 20 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/361",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/361/lei_4.446-pmc-20_institui_o_dia_12_de_maio_dia_municipal_da_fibromialgia_filas_preferenciais_e_vagas_de_estacionamento_preferencial.pdf",
+     "sha256": "5ec23c5a7dda0d9e8ea08246565b9286a27bc57d5e0027ccee6c2aedbfb3f796"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04444",
+   "short": "Lei 4444/2020",
+   "title": "Lei nº 4.444, de 20 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2092",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2092/lei_4.444-pmc-20_abertura_de_credito_adicional_especial_ao_orcamento_-_r_425.65908_fms.pdf",
+     "sha256": "0ce387848b93cd10190d842d65af59cea9165d9cb24b42ee96e340b58942b654"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04443",
+   "short": "Lei 4443/2020",
+   "title": "Lei nº 4.443, de 20 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2077",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2077/lei_4.443-pmc-20_prorroga_o_prazo_para_pagamento_da_licenca_de_funcionamento.pdf",
+     "sha256": "131851e6e7ff819ef256ebedcfc87870562404d15630ec89060e77c0d07caf3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04442",
+   "short": "Lei 4442/2020",
+   "title": "Lei nº 4.442, de 20 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2068",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2068/lei_4.442-pmc-20_institui_o_dia_e_a_semana_da_agricultura_familiar_no_municipio_de_cacoal.pdf",
+     "sha256": "2d17568d42c74dd870034b8349d06c47e79853697adbba6100a2609a1cd2bd90"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04441",
+   "short": "Lei 4441/2020",
+   "title": "Lei nº 4.441, de 20 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2065",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2065/lei_4.441-pmc-20_criacao_do_banco_de_oculos_e_materiais_ortopedicos.pdf",
+     "sha256": "78e1dbdafb272b2606f5fb2a62476508df9abfa402181fcd7c13ad4e1ad3e49b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04440",
+   "short": "Lei 4440/2020",
+   "title": "Lei nº 4.440, de 20 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2059",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2059/lei_4.440-pmc-20_denomina_quadra_poliespotiva_eduardo_kiper.pdf",
+     "sha256": "a0bda4379833117cce5cdbe99a6f3fee4060b0c926914158500ebb34106e7907"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04439",
+   "short": "Lei 4439/2020",
+   "title": "Lei nº 4.439, de 14 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2058",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2058/lei_4.439-pmc-20_abertura_de_credito_adicional_especial_-_r_308.97100_semast.pdf",
+     "sha256": "ff381a1456bf140c6f2e0fe7cc13106ae55ad3c561ef653b19acbccf427f821e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04438",
+   "short": "Lei 4438/2020",
+   "title": "Lei nº 4.438, de 14 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/471",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/471/lei_4.438-pmc-20_abertura_de_credito_adicional_suplementar_r_550.00000_fms.pdf",
+     "sha256": "c48796901a2fdfee7e46edfa0b2bb1e495df5fc1f21c70ea855bacec10688370"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04436",
+   "short": "Lei 4436/2020",
+   "title": "Lei nº 4.436, de 6 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2056",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2056/lei_4.436-pmc-20_abertura_de_credito_adicional_suplementar_-_r_5.000.00000_semosp.pdf",
+     "sha256": "aacdd86da36b4bd4aca147387eef9245e62ffd920c51d45b742ec0248d23f910"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04435",
+   "short": "Lei 4435/2020",
+   "title": "Lei nº 4.435, de 6 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2055",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2055/lei_4.435-pmc-20_abertura_de_credito_adicional_especial_-_r_218.98408_semed.pdf",
+     "sha256": "3942b7a58c947661cdd62eefba5d7e923b4416973714f7a9b47712f119735be3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04434",
+   "short": "Lei 4434/2020",
+   "title": "Lei nº 4.434, de 6 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2054",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2054/lei_4.434-pmc-20_reformulacao_administrativa_por_meio_de_transposicao_-_r_75.63045.pdf",
+     "sha256": "558c4d43af36d31556fa1132706339778529f41deee4ac790688d7d2731b5b5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04433",
+   "short": "Lei 4433/2020",
+   "title": "Lei nº 4.433, de 6 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2053",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2053/lei_4.433-pmc-20_reformulacao_adminitrativa_por_meio_de_transferencia_-_r_10.00000.pdf",
+     "sha256": "16cdbf1bf1eb4f5ab90c6dd350fcc59614a875d2b26a29b5cd09cd775395d864"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04437",
+   "short": "Lei 4437/2020",
+   "title": "Lei nº 4.437, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2057",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 11,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2057/lei_4.437-pmc-20_concessao_de_direito_real_de_uso_de_imovel_publico_-_apac.pdf",
+     "sha256": "ffdc9ffe3e26f6db4a87fe750a18ad7a60dff0625262e0cb749bf97261cebb91"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04432",
+   "short": "Lei 4432/2020",
+   "title": "Lei nº 4.432, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2043",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2043/lei_4.432-pmc-20_prorroga_os_prazos_de_concessao_de_anistia_e_cria_o_programa_de_recuperacao_fiscal.pdf",
+     "sha256": "e18dbb81583d73f9e50ce7114c12788dc64a0a2b98d21776660a4fdb8629fef2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04431",
+   "short": "Lei 4431/2020",
+   "title": "Lei nº 4.431, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1062",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/1062/lei_4.431-pmc-20_altera_a_lei_no_2.554-09_-_iptu-parcelamento-desconto.pdf",
+     "sha256": "45cfbf85fa17bfee4445a17c4089541c03d38fc4d55f529693e1482edab626d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04430",
+   "short": "Lei 4430/2020",
+   "title": "Lei nº 4.430, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2042",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/2042/lei_4.430-pmc-20_abertura_de_credito_adicional_suplementar_-_r_1.000.00000_semed.pdf",
+     "sha256": "85633643582325f092fd7270fc68434b5f650e6d90d4a409c53ad988fc2be028"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04427",
+   "short": "Lei 4427/2020",
+   "title": "Lei nº 4.427, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/369",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/369/lei_4.427-pmc-20_abertura_de_credito_adicional_suplementar_-_r_127.61985_amec.pdf",
+     "sha256": "0854d784d940396baee67a901510271f9ce377d778f372ccbf8ccd81ae793995"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04426",
+   "short": "Lei 4426/2020",
+   "title": "Lei nº 4.426, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/368",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/368/lei_4.426-pmc-20_reformulacao_administrativa_por_meio_de_transposicao_-_r16.79400_amec.pdf",
+     "sha256": "854b080ac4fb41976a1b8e12b8e9dd3c4d7153ea8bdc54c6ffe62780fbd661bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04425",
+   "short": "Lei 4425/2020",
+   "title": "Lei nº 4.425, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/366",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/366/lei_4.425-pmc-20_abertura_de_credito_adicional_suplementar_-_r_140.00000_saae.pdf",
+     "sha256": "340919625330b1f5e329ea5ae75d5526ae98a4f971ea679793a2d42e7f5c3976"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04424",
+   "short": "Lei 4424/2020",
+   "title": "Lei nº 4.424, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/364",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/364/lei_4.424-pmc-20_abertura_de_credito_adicional_especial_-_r_100.00000_saae.pdf",
+     "sha256": "09fb04a535e4a67afcc368c69b2895a388b0a13c6f5f4b5bef0223d07b9502b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04423",
+   "short": "Lei 4423/2020",
+   "title": "Lei nº 4.423, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/363",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/363/lei_4.423-pmc-20_abertura_de_credito_adicional_especial_-_r_24.00000_saae.pdf",
+     "sha256": "1cee568395191b8eecf0a1e40715058a9ad04f4d4d8f7197537d9a7ea19dc612"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04422",
+   "short": "Lei 4422/2020",
+   "title": "Lei nº 4.422, de 2 de abril de 2020",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/360",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2020/360/lei_4.422-pmc-20_regularizacao_fundiaria_desmembramento_de_lotes_em_condominio_e_regularizacao_de_construcao.pdf",
+     "sha256": "8e94c2860f9ae28c18ed4f4f311b2dc90a542aad9656f52721e71c36aac78b37"
+    }
+   ]
   }
  ]
 }
