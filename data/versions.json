@@ -10738,6 +10738,566 @@
      "sha256": "05e6a2f4c0c7a1880380a00240ad58ccb527b78fb1acd93e6ccc77d97190d43f"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-04777",
+   "short": "Lei 4777/2021",
+   "title": "Lei nº 4.777, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/182",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/182/lei_4.777-pmc-21_reformulacao_-_transposicao_-_r_371.00000_semed.pdf",
+     "sha256": "1d5e1d046f58b4987d318a41e5fc52c2513e2b3a154a988b0615821f81da2fcc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04776",
+   "short": "Lei 4776/2021",
+   "title": "Lei nº 4.776, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/181",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/181/lei_4.776-pmc-21_declara_de_utilidade_publica_o_rotary_club_de_cacoal_marechal_rondon_-_vereador_joao_paulo_pichek.pdf",
+     "sha256": "d63fc0fc6815ef6d7a7a54ae88d32df7ce99f6cc35d0dbc2b9339c25721d76c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04775",
+   "short": "Lei 4775/2021",
+   "title": "Lei nº 4.775, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/180",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/180/lei_4.775-pmc-21_altera_lei_n._2.554_ctm_-_inclusao_do_diretor_da_divisao_de_tributacao_e_insencao_do_iptu.pdf",
+     "sha256": "0b7e820be5c2a9ac5ddef20f9864c88e10b81e88f67ab0a55c997d9ea59a4cf7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04774",
+   "short": "Lei 4774/2021",
+   "title": "Lei nº 4.774, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/179",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/179/lei_4.774-pmc-21_altera_a_lei_n._2.543-2009__estrutura_politico-administrativa_e_organizacional_-_estradas_vicinais.pdf",
+     "sha256": "d113af13c9ab7edbf1b4fa828c9b1d4a5696d9bc87141f427d16a26f30fc7930"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04773",
+   "short": "Lei 4773/2021",
+   "title": "Lei nº 4.773, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/178",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/178/lei_4.773-pmc-21_altera_a_lei_n._4.730-2021_-_consignacao_em_folha.pdf",
+     "sha256": "42e48d00a40c17f29dc36b11135039e260d894ffe743984344f0f2a34e56bd4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04772",
+   "short": "Lei 4772/2021",
+   "title": "Lei nº 4.772, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/177",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/177/lei_4.772-pmc-21_altera_a_lei_n._3.861-2017_que_autoriza_o_municipio_a_nao_ajuizar_acoes_ou_execucoes_fiscais_e_autoriza_a_concessao_de_remissao_e_isencao.pdf",
+     "sha256": "6b5c1d64def94496ecb5145cf3065bb65f94faf0f04ab60bd3a5cb8fd7b6e44c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04771",
+   "short": "Lei 4771/2021",
+   "title": "Lei nº 4.771, de 30 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/176",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/176/lei_4.771-pmc-21_altera_a_lei_n._4.689-2021_-_loteamento_residencial_zumack.pdf",
+     "sha256": "dbd733359e9d30db3a46f56052e5e55ebaf0cae66c3d2dfdf680b5c8ac19bb14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04770",
+   "short": "Lei 4770/2021",
+   "title": "Lei nº 4.770, de 22 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/175",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/175/lei_4.770-pmc-21_institui_o_dia_municipal_do_cafe_e_do_cacau_no_municipio_de_cacoal-ro.pdf",
+     "sha256": "8f0899c11e152d843bbbb6a239bb6005ac09b8edf6ef3758224a5e344d531975"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04769",
+   "short": "Lei 4769/2021",
+   "title": "Lei nº 4.769, de 22 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/174",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/174/lei_4.769-pmc-21_abertura_de_credito_suplementar_-_r_565.08000_fms.pdf",
+     "sha256": "08287911f7aeaf253512fe98e74ceeca4637b68c73f6194bd4c22e0ee38cce9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04768",
+   "short": "Lei 4768/2021",
+   "title": "Lei nº 4.768, de 22 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/173",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/173/lei_4.768-pmc-21_reformulacao_-_transferencia_-_r_10.00000_semed.pdf",
+     "sha256": "241be4c08842218383ca0487242d83fd7b5635080ad35b76675010f6f7eae91a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04767",
+   "short": "Lei 4767/2021",
+   "title": "Lei nº 4.767, de 22 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/172",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/172/lei_4.767-pmc-21_reformulacao_-_transferencia_-_r_6.00000_semfaz.pdf",
+     "sha256": "56c6b0679028094b3be2c07550282b8c506414c57df6b10c611aa19ab9ae7eba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04766",
+   "short": "Lei 4766/2021",
+   "title": "Lei nº 4.766, de 22 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/171",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/171/lei_4.766-pmc-21_reformulacao_-_transposicao_-_r_60.00000_semict.pdf",
+     "sha256": "0394d735477e6236e922ac65ee068f8c04a4097476dd0cb37259755802fb54b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04765",
+   "short": "Lei 4765/2021",
+   "title": "Lei nº 4.765, de 22 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/170",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/170/lei_4.765-pmc-21_denomina_o_plenarinho_desta_casa_de_leis_como_plenarinho_natin_folli.pdf",
+     "sha256": "fe7b7d367ca816832cea8d8f6a6b970ce0291b77e1f427ca9598baef3fe59771"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04763",
+   "short": "Lei 4763/2021",
+   "title": "Lei nº 4.763, de 15 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/168",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/168/lei_4.763-pmc-21_reformulacao_por_meio_de_remanejamento_-_r_75.00000_semagri.pdf",
+     "sha256": "70aa35926b3bb892dcac147f8608ce5b3a98f58a4a56a64b7e4fa3d271f75c6d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04762",
+   "short": "Lei 4762/2021",
+   "title": "Lei nº 4.762, de 15 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/167",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/167/lei_4.762-pmc-21_reformulacao_por_meio_de_transposicao_-_r_1.650.00000_semed.pdf",
+     "sha256": "49522c762b42aff4f4d1d408a8b0950b20dc972ae88727b53759918c935323a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04761",
+   "short": "Lei 4761/2021",
+   "title": "Lei nº 4.761, de 15 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/166",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 16,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/166/lei_4.761-pmc-21_revoga_a_lei_n._2.937-pmc-2012_reformula_o_programa_de_valorizacao_das_escolas_municipais_-_provemc_orienta_sua_implantacao.pdf",
+     "sha256": "07e726ad6167cc48ee376d85ba0bdadd9a01c92a2637aab17c878d458a569faa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04760",
+   "short": "Lei 4760/2021",
+   "title": "Lei nº 4.760, de 15 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/165",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/165/lei_4.760-pmc-21_reformulacao_-_tranferencia_-_r_5.00000_fms.pdf",
+     "sha256": "353789900bf8b169e1a0cc5c3838ec997df9d34d5a9f391dfc9b1a84dbae5b4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04759",
+   "short": "Lei 4759/2021",
+   "title": "Lei nº 4.759, de 15 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/164",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/164/lei_4.759-pmc-21_declara_de_utilidade_publica_a_umam_-_uniao_municipal_de_associacao_de_moradores_de_cacoal.pdf",
+     "sha256": "eadd76c95a4fd2d0a2cc0dfc5a0188445e95a6e8e667ff5318e35a053921135a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04758",
+   "short": "Lei 4758/2021",
+   "title": "Lei nº 4.758, de 15 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/163",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/163/lei_4.758-pmc-21_denominacao_pista_de_caminhada_em_homenagem_ao_celso_adame.pdf",
+     "sha256": "c4a24349e2672be76d9b78f6ab22894c4617b2934728e5f14fa8ab44a519a9c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04756",
+   "short": "Lei 4756/2021",
+   "title": "Lei nº 4.756, de 8 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/161",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/161/lei_4.756-pmc-21_altera_a_lei_n._4.344-2019_-_reestruturacao_do_conselho_municipal_de_turismo_comtur.pdf",
+     "sha256": "addf788e5a7bb58efa74afa4c0968f7d80f6d67cdeb83637e497018a4cdd7135"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04754",
+   "short": "Lei 4754/2021",
+   "title": "Lei nº 4.754, de 8 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/159",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/159/lei_4.754-pmc-21_baixa_de_bens_moveis_inserviveis_ao_patrimonio_publico.pdf",
+     "sha256": "db3b262009c183bb35bd7d0fe59b4aa54b8b7db907fe033f4b344ef4d723512b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04753",
+   "short": "Lei 4753/2021",
+   "title": "Lei nº 4.753, de 2 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/158",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/158/lei_4.753-pmc-21_reformulacao_-_remanejamento_-_r_450.00000_funccal.pdf",
+     "sha256": "75e70df02d49ce913ad35db38aa717ae00f557769c94513ee39d0f75e75ef027"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04752",
+   "short": "Lei 4752/2021",
+   "title": "Lei nº 4.752, de 2 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/157",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/157/lei_4.752-pmc-21_abertura_de_credito_suplementar_-_r_2.185.40779_semplan_e_outros.pdf",
+     "sha256": "73d2fa369876030ddc1444d8b3fddc0de49ec9a379e79dd7cab4fce286192379"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04751",
+   "short": "Lei 4751/2021",
+   "title": "Lei nº 4.751, de 2 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/156",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/156/lei_4.751-pmc-21_altera_a_lei_n._2543-09_-_atribuicoes_da_farmacias.pdf",
+     "sha256": "404fb982547df201acebc012f315ba84f31017032c5b4c21aea6b4af4d5071df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04750",
+   "short": "Lei 4750/2021",
+   "title": "Lei nº 4.750, de 2 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/155",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/155/lei_4.750-pmc-21_disponibilidade_do_codigo_qr_em_todas_as_placas_de_obras_publicas.pdf",
+     "sha256": "8eb9d5a24b92283720a0d3275580ebb4ba30cf0c968c30aa4f9b9af49c41237c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04749",
+   "short": "Lei 4749/2021",
+   "title": "Lei nº 4.749, de 2 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/154",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/154/lei_4.749-pmc-21_abertura_de_credito_suplementar_-_r_155.90000_fundema.pdf",
+     "sha256": "9c290b21347d8f072782615454df923c2dd6370d567196aad87b7ac682d7e244"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04748",
+   "short": "Lei 4748/2021",
+   "title": "Lei nº 4.748, de 2 de junho de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/153",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/153/lei_4.748-pmc-21_denomina_o_bosque_localizado_no_bairro_morada_do_bosque.pdf",
+     "sha256": "1abf3f04eac3f4eea4b132aec87e284f44ff4712a5bb18abc333716917284af6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04747",
+   "short": "Lei 4747/2021",
+   "title": "Lei nº 4.747, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/152",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/152/lei_4.747-pmc-21_reformulacao_administrativa_por_meio_de_transferencia_r__r_100.00000_fms.pdf",
+     "sha256": "d65b69e4a5e121add6cd469b9e8c9a5e2c56a6d2785bdfb8468011b32dcb1a4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04746",
+   "short": "Lei 4746/2021",
+   "title": "Lei nº 4.746, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/151",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/151/lei_4.746-pmc-21_abertura_de_cradito_adicional_suplementar_r_184.34683_fms.pdf",
+     "sha256": "81514e2de467d82280306f4dde643a91142b817aa880136e0dd1c41457e1ba72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04745",
+   "short": "Lei 4745/2021",
+   "title": "Lei nº 4.745, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/150",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/150/lei_4.745-pmc-21_abertura_de_credito_adiciona_r_140.00000_fmas.pdf",
+     "sha256": "0cee4a2a1a055572662133e146e56796398216776128b7c2a378573fb5b491b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04744",
+   "short": "Lei 4744/2021",
+   "title": "Lei nº 4.744, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/149",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/149/lei_4.744-pmc-21_aberura_de_credito_adicional_especial_r_95.00000_fmas.pdf",
+     "sha256": "53557d071be32c15fe124f7d5f351e722fd5003f9714ef66c21aa7b5836fa86b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04743",
+   "short": "Lei 4743/2021",
+   "title": "Lei nº 4.743, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/148",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/148/lei_4.743-pmc-21_abertura_de_credito_adicional_suplementar_r_218.03463__fmas.pdf",
+     "sha256": "2927aff326e209344080afa3f128e8ad0f33fbb4a1aeff3b9ee285b0a45b7889"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04741",
+   "short": "Lei 4741/2021",
+   "title": "Lei nº 4.741, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/146",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/146/lei_4.741-pmc-21_abertura_de_credito_adicional_siplementar_r_424.00791.pdf",
+     "sha256": "71033747e3f391fd86c21e1bfb9fd4d9e99782acc837e52b6703dad3372c073b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04740",
+   "short": "Lei 4740/2021",
+   "title": "Lei nº 4.740, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/145",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/145/lei_4.740-pmc-21_reformulacao_administrativa_por_meio_de_transposicao_r_6984004_semosp.pdf",
+     "sha256": "6c96a7acea9384a15b910b805902822f80632b7111bca127538ed941d9734ec9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04739",
+   "short": "Lei 4739/2021",
+   "title": "Lei nº 4.739, de 25 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/144",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/144/lei_4.739-pmc-21_abertura_de_credito_adicional_suplementar_r_308.97100_semast.pdf",
+     "sha256": "48624601d1fa49d4841ed1c673dcc8c46b641054450c027388e48ce71190cf0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04738",
+   "short": "Lei 4738/2021",
+   "title": "Lei nº 4.738, de 19 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/143",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/143/lei_4.738-pmc-21_altera_a_lei_no_4.654-pmc-2020_e_a_lei_no_4.651-pmc-2020_-_denominacao_centros_municipais_de_educacao_infantil.pdf",
+     "sha256": "a896b152ec6f4643b1a3c1d65e266af5eda5b65ec21f9b4b93cff0f9b44e8185"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04736",
+   "short": "Lei 4736/2021",
+   "title": "Lei nº 4.736, de 19 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/141",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/141/lei_4.736-pmc-21_institui_a_carteira_do_artesao_e_do_artista.pdf",
+     "sha256": "a97eb71a742eac55ecd00ee5b12e751050b1ec445890dbbc62c4e14834d8fe0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04734",
+   "short": "Lei 4734/2021",
+   "title": "Lei nº 4.734, de 19 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/139",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/139/lei_4.734-pmc-21_altera_a_lei_no_3.241-13_licenca_de_operacao.pdf",
+     "sha256": "5d205bd968b990e2b00e6e0bbbd0ca7953f4036f4fa6f952c9b82eb748dcaefa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04731",
+   "short": "Lei 4731/2021",
+   "title": "Lei nº 4.731, de 11 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/136",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/136/lei_4.731-pmc-21_reformulacao_administrativa_por_meio_de_transposicao_-_r_46.62310_amec.pdf",
+     "sha256": "b7d400d3a99b9c30e50a8a76cf10ba27c23fcc4500f7e514c7689041492b8ce0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04730",
+   "short": "Lei 4730/2021",
+   "title": "Lei nº 4.730, de 11 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/135",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/135/lei_4.730-pmc-21_altera_a_lei_no_1.481_dispoe_sobre_consignacao_em_folha.pdf",
+     "sha256": "453b1a90b6d1c2f1026cdcfd69531ea2eb933d71eb04323dbda4cb1a7f868c66"
+    }
+   ]
   }
  ]
 }
