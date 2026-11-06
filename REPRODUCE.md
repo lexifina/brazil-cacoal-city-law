@@ -21,6 +21,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Cacoal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.cacoal.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Cacoal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.cacoal.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Cacoal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.cacoal.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Cacoal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.cacoal.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Cacoal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.cacoal.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Cacoal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.cacoal.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Cacoal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.cacoal.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Cacoal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.cacoal.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -502,20 +503,66 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2022-05131` | Lei nº 5.131, de 17 de novembro de 2022 | 1 | 2022-11-18 to 2022-11-18 |
 | `lei-2022-05130` | Lei nº 5.130, de 17 de novembro de 2022 | 1 | 2022-11-18 to 2022-11-18 |
 | `lei-2022-05129` | Lei nº 5.129, de 17 de novembro de 2022 | 1 | 2022-11-18 to 2022-11-18 |
+| `lei-2022-05127` | Lei nº 5.127, de 3 de novembro de 2022 | 1 | 2022-11-07 to 2022-11-07 |
+| `lei-2022-05125` | Lei nº 5.125, de 3 de novembro de 2022 | 1 | 2022-11-07 to 2022-11-07 |
+| `lei-2022-05124` | Lei nº 5.124, de 3 de novembro de 2022 | 1 | 2022-11-07 to 2022-11-07 |
+| `lei-2022-05123` | Lei nº 5.123, de 3 de novembro de 2022 | 1 | 2022-11-07 to 2022-11-07 |
+| `lei-2022-05122` | Lei nº 5.122, de 3 de novembro de 2022 | 1 | 2022-11-07 to 2022-11-07 |
+| `lei-2022-05121` | Lei nº 5.121, de 3 de novembro de 2022 | 1 | 2022-11-07 to 2022-11-07 |
+| `lei-2022-05120` | Lei nº 5.120, de 13 de outubro de 2022 | 1 | 2022-10-19 to 2022-10-19 |
+| `lei-2022-05119` | Lei nº 5.119, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05118` | Lei nº 5.118, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05117` | Lei nº 5.117, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05116` | Lei nº 5.116, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05115` | Lei nº 5.115, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05114` | Lei nº 5.114, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05113` | Lei nº 5.113, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05112` | Lei nº 5.112, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05111` | Lei nº 5.111, de 13 de outubro de 2022 | 1 | 2022-10-17 to 2022-10-17 |
+| `lei-2022-05109` | Lei nº 5.109, de 10 de outubro de 2022 | 1 | 2022-10-13 to 2022-10-13 |
+| `lei-2022-05108` | Lei nº 5.108, de 10 de outubro de 2022 | 1 | 2022-10-13 to 2022-10-13 |
+| `lei-2022-05107` | Lei nº 5.107, de 4 de outubro de 2022 | 1 | 2022-10-05 to 2022-10-05 |
+| `lei-2022-05106` | Lei nº 5.106, de 4 de outubro de 2022 | 1 | 2022-10-05 to 2022-10-05 |
+| `lei-2022-05105` | Lei nº 5.105, de 30 de setembro de 2022 | 1 | 2022-10-03 to 2022-10-03 |
+| `lei-2022-05104` | Lei nº 5.104, de 15 de setembro de 2022 | 1 | 2022-09-20 to 2022-09-20 |
+| `lei-2022-05103` | Lei nº 5.103, de 14 de setembro de 2022 | 1 | 2022-09-15 to 2022-09-15 |
+| `lei-2022-05102` | Lei nº 5.102, de 14 de setembro de 2022 | 1 | 2022-09-15 to 2022-09-15 |
+| `lei-2022-05101` | Lei nº 5.101, de 14 de setembro de 2022 | 1 | 2022-09-15 to 2022-09-15 |
+| `lei-2022-05098` | Lei nº 5.098, de 6 de setembro de 2022 | 1 | 2022-09-08 to 2022-09-08 |
+| `lei-2022-05097` | Lei nº 5.097, de 6 de setembro de 2022 | 1 | 2022-09-09 to 2022-09-09 |
+| `lei-2022-05096` | Lei nº 5.096, de 5 de setembro de 2022 | 1 | 2022-09-06 to 2022-09-06 |
+| `lei-2022-05095` | Lei nº 5.095, de 23 de agosto de 2022 | 1 | 2022-08-24 to 2022-08-24 |
+| `lei-2022-05094` | Lei nº 5.094, de 23 de agosto de 2022 | 1 | 2022-08-24 to 2022-08-24 |
+| `lei-2022-05093` | Lei nº 5.093, de 23 de agosto de 2022 | 1 | 2022-08-24 to 2022-08-24 |
+| `lei-2022-05092` | Lei nº 5.092, de 23 de agosto de 2022 | 1 | 2022-08-24 to 2022-08-24 |
+| `lei-2022-05091` | Lei nº 5.091, de 23 de agosto de 2022 | 1 | 2022-08-24 to 2022-08-24 |
+| `lei-2022-05090` | Lei nº 5.090, de 23 de agosto de 2022 | 1 | 2022-08-24 to 2022-08-24 |
+| `lei-2022-05089` | Lei nº 5.089, de 23 de agosto de 2022 | 1 | 2022-08-25 to 2022-08-25 |
+| `lei-2022-05088` | Lei nº 5.088, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05087` | Lei nº 5.087, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05086` | Lei nº 5.086, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05085` | Lei nº 5.085, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05084` | Lei nº 5.084, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05083` | Lei nº 5.083, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05082` | Lei nº 5.082, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05081` | Lei nº 5.081, de 17 de agosto de 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `lei-2022-05080` | Lei nº 5.080, de 22 de julho de 2022 | 1 | 2022-07-27 to 2022-07-27 |
+| `lei-2022-05079` | Lei nº 5.079, de 22 de julho de 2022 | 1 | 2022-07-27 to 2022-07-27 |
+| `lei-2022-05078` | Lei nº 5.078, de 22 de julho de 2022 | 1 | 2022-07-27 to 2022-07-27 |
 
-The build made 474 commits:
+The build made 520 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 474 | first version of an act |
+| 520 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 474 laws in the record.
-- 948 tags.
+- 520 laws in the record.
+- 1040 tags.
 
 ## Dates
 
@@ -527,7 +574,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d7c1ea98ada919fe016e9af460ce9f92fdbbd5e722e991862746da55df049fc8` (2061767 bytes).
+- Corpus: sha256 `ce13874903191ae0e9b02c7765e292e568a696d968be454b0ae1cd7eb93ecaae` (2204679 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -584,6 +631,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -594,6 +644,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.

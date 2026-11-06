@@ -6636,6 +6636,650 @@
      "sha256": "659185a0e97256f93e9a56abfa344e304ddfafffd4faedfc719d6ca60d843394"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05127",
+   "short": "Lei 5127/2022",
+   "title": "Lei nº 5.127, de 3 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2342",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2342/lei_5.127-pmc-22_abertura_de_credito_adicional_suplementar.pdf",
+     "sha256": "403ead520c526b4574481e178b38efdbbb0b1c374221f7c5567c6925c17dfe4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05125",
+   "short": "Lei 5125/2022",
+   "title": "Lei nº 5.125, de 3 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2340",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2340/lei_5.125-pmc-22_abertura_de_credito_especial.pdf",
+     "sha256": "b9ee440e0cfc2b337892f93adafca44205045de4e1f920a5e75eb703ca3857e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05124",
+   "short": "Lei 5124/2022",
+   "title": "Lei nº 5.124, de 3 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2339",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2339/lei_5.124-pmc-22_reformulacao_administrativa_ao_orcamento_vigente_por_transposicao.pdf",
+     "sha256": "e65cf7b001eeba695c08ed0f7f5656dcfac816e04df572b7cf64d2f4475ef9d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05123",
+   "short": "Lei 5123/2022",
+   "title": "Lei nº 5.123, de 3 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2338",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2338/lei_5.123-pmc-22_abertura_de_credito_adicional_suplementar.pdf",
+     "sha256": "b2d07657351074d6d99e98aa19ba16fd2f29f085194e0c624870a04aadbb04a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05122",
+   "short": "Lei 5122/2022",
+   "title": "Lei nº 5.122, de 3 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2337",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2337/lei_5.122-pmc-22_abertura_de_credito_especial.pdf",
+     "sha256": "e7ecb86a901d195f0e3f6c42e20a6980638f1454ed7f6bb4f8cdc873283b1f3f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05121",
+   "short": "Lei 5121/2022",
+   "title": "Lei nº 5.121, de 3 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2336",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2336/lei_5.121-pmc-22_abertura_de_credito_adicional_suplementar.pdf",
+     "sha256": "d890587acb371810d953226d0b867942e1d4c723221b5b510417ab59b3d95349"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05120",
+   "short": "Lei 5120/2022",
+   "title": "Lei nº 5.120, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2324",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2324/lei_5.120-pmc-22_declara_de_utilidade_publica_a_associacao_casa_de_apoio_nova_esperanca.pdf",
+     "sha256": "99e52a35ba96d4f5e7cdf37e8c65a1762b14be740f02dc0817895c7be62bf71c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05119",
+   "short": "Lei 5119/2022",
+   "title": "Lei nº 5.119, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2314",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2314/lei_5.119-pmc-22_abertura_de_credito_suplementar_-_r_498.26366_semed.pdf",
+     "sha256": "2d72973e7211c0699377e70e5a8be176b5eb6803f0ce1125214fb4bba58617f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05118",
+   "short": "Lei 5118/2022",
+   "title": "Lei nº 5.118, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2315",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2315/lei_5.118-pmc-22_altera_a_lei_n._2.272-08_dispoe_sobre_o_conselho_municipal_de_saude.pdf",
+     "sha256": "33cb1edb7a234c666c596ce4492aefba2b5b9ad4c8d4ddf73d13136f83d2541a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05117",
+   "short": "Lei 5117/2022",
+   "title": "Lei nº 5.117, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2316",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2316/lei_5.117-pmc-22_reformulacao_-_transposicao_-_r_556.74675_semosp.pdf",
+     "sha256": "4f5bb51d79b6aa938be7c951320bf83a0947509418647856d90b80e0924afd66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05116",
+   "short": "Lei 5116/2022",
+   "title": "Lei nº 5.116, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2317",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2317/lei_5.116-pmc-22_abertura_de_credito_suplementar_-_r_253.00000_fms.pdf",
+     "sha256": "7d468a450c4c06f7d971ac5774b19e812bb50f6de2990f7301547c2e1ab10094"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05115",
+   "short": "Lei 5115/2022",
+   "title": "Lei nº 5.115, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2318",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2318/lei_5.115-pmc-22_abertura_de_credito_suplementar_-_r_598.20112_fms.pdf",
+     "sha256": "3c014f5139af102c1d5e2030e65e6c8df61d34121dd8c716b7b141d19d9baf4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05114",
+   "short": "Lei 5114/2022",
+   "title": "Lei nº 5.114, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2319",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2319/lei_5.114-pmc-22_altera_a_lei_n._2.735-10_denominacao_conselho_assistente_social.pdf",
+     "sha256": "850dcd3f67265bab8784b3bc4cb858a73bf68de49f5bdc5e1c4e079afe8c5f51"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05113",
+   "short": "Lei 5113/2022",
+   "title": "Lei nº 5.113, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2320",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2320/lei_5.113-pmc-22_reformulacao_-_transposicao_-_r_38.40760_semed.pdf",
+     "sha256": "03a967ec9614168279097218618d06d0590a8ecc9ebdac8d3f4c22f8c9e4b7ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05112",
+   "short": "Lei 5112/2022",
+   "title": "Lei nº 5.112, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2321",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2321/lei_5.112-pmc-22_abertura_de_credito_suplementar_-_r_350.00000_semed.pdf",
+     "sha256": "6cea7bb7f24d6ed878ae3f0d3978506f91d1dadcf25bc300da38d16ec7c6562b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05111",
+   "short": "Lei 5111/2022",
+   "title": "Lei nº 5.111, de 13 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2322",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2322/lei_5.111-pmc-22_altera_a_lei_n._4.835-pmc-21_jovens_genios.pdf",
+     "sha256": "67733fe684e187aa351c6b90bf9220d934f207025501c3c261192697039b909f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05109",
+   "short": "Lei 5109/2022",
+   "title": "Lei nº 5.109, de 10 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2313",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2313/lei_5.109-pmc-22_declara_utilidade_publica_a_associacao_dos_esportes_equinos_de_cacoal.pdf",
+     "sha256": "58090d45c725eac4e89742e989bfe3cac83ae1a24b44364e79fce9975b97d95c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05108",
+   "short": "Lei 5108/2022",
+   "title": "Lei nº 5.108, de 10 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2312",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2312/lei_5.108-pmc-22_denomina_a_ponte_do_rio_pirarara_como_ponte_mario_alves_teixeira.pdf",
+     "sha256": "596c0bb102c9927fe2feaca3254369cc5cf81b6521d6a933c5cae51734414b94"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05107",
+   "short": "Lei 5107/2022",
+   "title": "Lei nº 5.107, de 4 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2307",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2307/lei_5.107-pmc-22_abertura_de_credito_suplementar_-_r_800.00000_semed.pdf",
+     "sha256": "cd2a0381c92c00d3b085fdf407128bf2c087d3f15c63914fa6669b5d5b7a4c56"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05106",
+   "short": "Lei 5106/2022",
+   "title": "Lei nº 5.106, de 4 de outubro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2306",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2306/lei_5.106-pmc-22_abertura_de_credito_especial_-_r_118.30800_semed.pdf",
+     "sha256": "84eedac2803297a2c83b376144d94e3cd64774cf22e21711efaaf1feb0722160"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05105",
+   "short": "Lei 5105/2022",
+   "title": "Lei nº 5.105, de 30 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2305",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 11,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2305/lei_5.105-pmc-22_altera_a_lei_n._3.861-17_e_institui_o_programa_iptu_social_-_isencao_de_iptu_para_portadores_de_cancer_alzheimer_parkinson_e_esclerose.pdf",
+     "sha256": "c191e7f22027c813ec83f90905efe4dc3fa8f61f7faaec7c1f684a2c9a2fde85"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05104",
+   "short": "Lei 5104/2022",
+   "title": "Lei nº 5.104, de 15 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2012",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2012/lei_5.104-pmc-22_revoga_o_artigo_3_da_lei_n._4.585_pmc_2020.pdf",
+     "sha256": "854c7907ad340c6dfca0a466fa092590bc6b886925b5795a4f25681bcdca1ef6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05103",
+   "short": "Lei 5103/2022",
+   "title": "Lei nº 5.103, de 14 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2003",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2003/lei_5.103-pmc-22_abertura_de_credito_adicional_suplementar_r_309.46280_fms.pdf",
+     "sha256": "ce7bf2312fb3355f7c443ec2946392056a9ad1034e86e49d10e34585a6e67f6c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05102",
+   "short": "Lei 5102/2022",
+   "title": "Lei nº 5.102, de 14 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2002",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2002/lei_5.102-pmc-22_abertura_de_credito_adicional_suplementar_r_450.00000_fms.pdf",
+     "sha256": "8f33c223edd905a1b4c420823dd77db74ffaa370294dc749f8d509abae5ef662"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05101",
+   "short": "Lei 5101/2022",
+   "title": "Lei nº 5.101, de 14 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2001",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2001/lei_5.101-pmc-22_abertura_de_credito_especial_r_2.000.00000_semosp.pdf",
+     "sha256": "acd6a28771a541c9aa47b06b2cf67ddf07d9876eae617b7307b38b8f2959819b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05098",
+   "short": "Lei 5098/2022",
+   "title": "Lei nº 5.098, de 6 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1975",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1975/lei_5.098-pmc-22_abertura_de_credito_adicional_suplementar_r_701.92101_saae.pdf",
+     "sha256": "88c9724514854431c61d3ee5ebdb1a9866c9e800d59fcefe9c7b7a8f71ddad7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05097",
+   "short": "Lei 5097/2022",
+   "title": "Lei nº 5.097, de 6 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1977",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1977/lei_5.097-pmc-22_desafetacao_e_afetacao_especifica_c.e.i_alpha_park.pdf",
+     "sha256": "77e44d8dee5e39e0f668ab09289aa5c5d28928b49e8d234409e32f7a9239d71a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05096",
+   "short": "Lei 5096/2022",
+   "title": "Lei nº 5.096, de 5 de setembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1972",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1972/lei_5.096-pmc-22_altera_o_artigo_22_da_lei_n._1.584-03.pdf",
+     "sha256": "ccdfd6bce496ea4a7091c899be81550373ee633ae150fa56c7e89ede2a29710b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05095",
+   "short": "Lei 5095/2022",
+   "title": "Lei nº 5.095, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1862",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1862/lei_5.095-pmc-22_reformulacao_-_transposicao_-_r_410.00000_semed.pdf",
+     "sha256": "614efe370d6d3de8317681b6e5a9be3c783bc68158ad536584aa1297a1d9ec86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05094",
+   "short": "Lei 5094/2022",
+   "title": "Lei nº 5.094, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1861",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1861/lei_5.094-pmc-22_abertura_de_credito_suplementar_-_r_7.850.00000_pgm-semagri-semc.pdf",
+     "sha256": "8f47340dfe9a1c2a9d38ee223914a7249fcb992dcd7d7e88ff552b94e4344d5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05093",
+   "short": "Lei 5093/2022",
+   "title": "Lei nº 5.093, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1860",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1860/lei_5.093-pmc-22_abertura_de_credito_suplementar_-_r_250.00000_semad.pdf",
+     "sha256": "0c8e456714fead83b3a409131ff50e5b635aa6eef8362fb49127f7e7ad95c783"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05092",
+   "short": "Lei 5092/2022",
+   "title": "Lei nº 5.092, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1859",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1859/lei_5.092-pmc-22_reformulacao_-_remanejamento_-_r_250.00000_cmc.pdf",
+     "sha256": "6c097cbba2c384592663a2579be0e2482ec06737fef940a9c1679287b9bd809a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05091",
+   "short": "Lei 5091/2022",
+   "title": "Lei nº 5.091, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1858",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1858/lei_5.091-pmc-22_altera_a_lei_n._2.543-09_dispoe_sobre_a_estrutura_politico-administrativa_e_orgnizacional_-_semusa.pdf",
+     "sha256": "be306418c2814a11ac983809f5bd3337d86c0b6f09a76be93f766545300a9ad6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05090",
+   "short": "Lei 5090/2022",
+   "title": "Lei nº 5.090, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1857",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1857/lei_5.090-pmc-22_abertura_de_credito_suplementar_-_r_800.00000__semed.pdf",
+     "sha256": "d19a3dc611074b282db913360d18148b0d46e3b6d46960705a9eebef50c582f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05089",
+   "short": "Lei 5089/2022",
+   "title": "Lei nº 5.089, de 23 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1864",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1864/lei_5.089-pmc-22_altera_a_ementa_da_a_lei_n._4.579-20_e_art._1o_e_2o_que_denomina_as_vias_publicas_localizadas_no_residencial_park_dos_buritis.pdf",
+     "sha256": "df23817f9737cecf3fc03b24b0cfd5af9a0aa6b3e629a2f5aba16664155ef5e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05088",
+   "short": "Lei 5088/2022",
+   "title": "Lei nº 5.088, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1822",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1822/lei_5.088-pmc-22_abertura_de_credito_adicional_suplementar_r_716.20158_semed.pdf",
+     "sha256": "2a41127c12f60e5819d9233b687ccb0575bd2132f7a725bf88577ff2ad3cb6ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05087",
+   "short": "Lei 5087/2022",
+   "title": "Lei nº 5.087, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1856",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1856/lei_5.087-pmc-22_reformulacao_-_transposicao_-_r_160.00000_fundeb.pdf",
+     "sha256": "bf00fdfe469f4f9fa2e2079c486dcbb015a38d2f6c24bea346c24911806b5ce9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05086",
+   "short": "Lei 5086/2022",
+   "title": "Lei nº 5.086, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1821",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1821/lei_5.086-pmc-22_abertura_de_credito_adicional_suplementar_r_2.711.40587_semed.pdf",
+     "sha256": "6e61dd9217d76b09e16a6221a02d9bfb967aa5bed92ffd31bb84233ff533f222"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05085",
+   "short": "Lei 5085/2022",
+   "title": "Lei nº 5.085, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1825",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1825/lei_5.085-pmc-22_abertura_de_credito_adicional_suplementar_r_2.200.00000_semed.pdf",
+     "sha256": "e70c1617982b2043428fa7b134720dd815ce77cb4240289c9caf2e13226cf9df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05084",
+   "short": "Lei 5084/2022",
+   "title": "Lei nº 5.084, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1826",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1826/lei_5.084-pmc-22_abertura_de_credito_adicional_suplementar_r_r_44.61497_semttran.pdf",
+     "sha256": "9915ef8e78471f33107fe344495b61871b0c90b068b7378ad2a4902bd4ff232b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05083",
+   "short": "Lei 5083/2022",
+   "title": "Lei nº 5.083, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1824",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1824/lei_5.083-pmc-22_abertura_de_credito_adicional_suplementar_r_397.00000_semttran.pdf",
+     "sha256": "537858311012e55d1eff75eb1b2ff4e1a2a3c573e9e9387ba549121ae9fd7420"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05082",
+   "short": "Lei 5082/2022",
+   "title": "Lei nº 5.082, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1820",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1820/lei_5.082-pmc-22_abertura_de_credito_adicional_suplementar_r_797.66765_semad.pdf",
+     "sha256": "b2db100ceb767f78fced135a989f6d7a8d96427a42a71498667b270f0c69f5d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05081",
+   "short": "Lei 5081/2022",
+   "title": "Lei nº 5.081, de 17 de agosto de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1823",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1823/lei_5.081-pmc-22_abertura_de_credito_adicional_r_215.17570_fms.pdf",
+     "sha256": "4735c2a24f8212bda4cf674a5ae84e4bda69369c05cba4f1c3fa853f49f30817"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05080",
+   "short": "Lei 5080/2022",
+   "title": "Lei nº 5.080, de 22 de julho de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1487",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1487/lei_5.080-pmc-22_abertura_de_credito_adicional_suplementar_r_400.00000_fms.pdf",
+     "sha256": "69998dad42362c68ba8955f018c5cb8dbbbbad92d77e3cdefe4def6ce4564244"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05079",
+   "short": "Lei 5079/2022",
+   "title": "Lei nº 5.079, de 22 de julho de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1488",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1488/lei_5.079-pmc-22_abertura_de_credito_adicional_suplementar_r_602.96311_fms.pdf",
+     "sha256": "edd6b8e05e2ae738c0857204060725b584e9f98a1b81fa63b2524931a55a4c59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05078",
+   "short": "Lei 5078/2022",
+   "title": "Lei nº 5.078, de 22 de julho de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1474",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1474/lei_5.078-pmc-22_abertura_de_credito_especial_r_565.08000_fms.pdf",
+     "sha256": "d68909e742e7df3f0bee1b3180fb00215656da296d6a0b2d8b7d531fe72b7dd8"
+    }
+   ]
   }
  ]
 }
