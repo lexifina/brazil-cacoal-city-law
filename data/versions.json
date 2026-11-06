@@ -6090,6 +6090,552 @@
      "sha256": "f750f123aa8b2866ddfc12d7f644e8804a8bd2a42ccc2bfe3be5fd1452975801"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-05177",
+   "short": "Lei 5177/2023",
+   "title": "Lei nº 5.177, de 17 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2935",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2935/lei_5.177-pmc-23_credito_adicional_suplementar_r_608.31202_fundeb.pdf",
+     "sha256": "08b24e6181035d7c4ade35b7c69bf8848cbb4ef02207a7a622a67be334334347"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05174",
+   "short": "Lei 5174/2023",
+   "title": "Lei nº 5.174, de 13 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2909",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2909/lei_5.174-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_4.278.48309_semagri.pdf",
+     "sha256": "de864fd3f96c7186d31690a001943d9404f16aeb7a8af9c745932ed3f649d54e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05172",
+   "short": "Lei 5172/2023",
+   "title": "Lei nº 5.172, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2907",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2907/lei_5.172-pmc-23_credito_especial_ao_orcamento_vigente_r148.86930_semed.pdf",
+     "sha256": "a6822086d089a8d5888dff1278a7216c1ac79ac9ca9f49002822777e327702fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05170",
+   "short": "Lei 5170/2023",
+   "title": "Lei nº 5.170, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2906",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2906/lei_5.170-pmc-23__altera_o_art._8_da_lei_n._4.708-pmc-2021_que_dispoe_sobre_a_regularizacao_fundiaria_desmembramento_de_lotes_em_condominio_em_carater_excepcional_regularizacao_de_construcao.pdf",
+     "sha256": "2df639445245287da1aae4a6d926e215bff106a1eecc71f5f5aae19b83eb2674"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05169",
+   "short": "Lei 5169/2023",
+   "title": "Lei nº 5.169, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2905",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2905/lei_5.169-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_30.00000_semast.pdf",
+     "sha256": "608d7e3f641e033470066db0b49c419e9b93b30ba3b654f37f1e61cfbabfa1ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05168",
+   "short": "Lei 5168/2023",
+   "title": "Lei nº 5.168, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2904",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2904/lei_5.168-pmc-23_reformulacao_administrativa_ao_orcamento_vigente_por_meio_de_transposicao_r92.26452_semed.pdf",
+     "sha256": "35c8f090b404957ce63b1797945e32e017d493050b1c026c07b13f4941ed28c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05167",
+   "short": "Lei 5167/2023",
+   "title": "Lei nº 5.167, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2903",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2903/lei_5.167-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r100.00000_semed.pdf",
+     "sha256": "72be850d2974ca0ebf9ece9499ba3112c8bdcab6fd08510553dea851fc483fed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05166",
+   "short": "Lei 5166/2023",
+   "title": "Lei nº 5.166, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2920",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2920/lei_5.166-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r3.056.62560_fms.pdf",
+     "sha256": "2cb05a0d11382c8f60555df0069c021cf23763d70cea4ada1e54d8ad7065179c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05165",
+   "short": "Lei 5165/2023",
+   "title": "Lei nº 5.165, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2902",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2902/lei_5.165-pmc-23_abertura_de_credito_especial_ao_orcamento_vigente_r358.27509_fms.pdf",
+     "sha256": "636ab8ac4f67dbdc8b0b40cbde56ec96c5ce5b2260322c468a6ccfa74f9195d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05164",
+   "short": "Lei 5164/2023",
+   "title": "Lei nº 5.164, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2901",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2901/lei_5.164-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r102.35370__semttran.pdf",
+     "sha256": "cbae7ff15ed742b941fbc33aea934866e71b1124a69bc98c421cf81c8a1e8db6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05163",
+   "short": "Lei 5163/2023",
+   "title": "Lei nº 5.163, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2900",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2900/lei_5.163-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_32.44333_semad.pdf",
+     "sha256": "d4d2482de98ddd274dc4dea88f351735d3c1ace25df11ee50364fc1bcecae586"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05162",
+   "short": "Lei 5162/2023",
+   "title": "Lei nº 5.162, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2899",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2899/lei_5.162-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_1.298.85070_fms.pdf",
+     "sha256": "c1b6a89e35b42b6eb204fd07e287430debc26c458364ebafc3818220e2da9868"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05161",
+   "short": "Lei 5161/2023",
+   "title": "Lei nº 5.161, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2891",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2891/lei_5.161-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r197.64876_semed.pdf",
+     "sha256": "920ffa23bd90527a902db930c899fd432113eda79ad8817b1a64dd07bfdcdb7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05160",
+   "short": "Lei 5160/2023",
+   "title": "Lei nº 5.160, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2898",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2898/lei_5.160-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_759.85468_semed.pdf",
+     "sha256": "589ec1e09d9abba4efe2b49223072c5df8604c9799b741285a727de312d43a8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05159",
+   "short": "Lei 5159/2023",
+   "title": "Lei nº 5.159, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2897",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2897/lei_5.159-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_825.56987_semed.pdf",
+     "sha256": "a04c7cd44db46ed7d00d356757b4044e104ace5b5664aad15bbefa70e1177922"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05158",
+   "short": "Lei 5158/2023",
+   "title": "Lei nº 5.158, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2896",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2896/lei_5.158-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_1.908.43156_saae.pdf",
+     "sha256": "cbfa43c31e3599488d81f6a32ca58eb0f46d023dcd93f387a2a56f078ce9b64f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05157",
+   "short": "Lei 5157/2023",
+   "title": "Lei nº 5.157, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2895",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2895/lei_5.157-pmc-23_abertura_de_credito_especial_ao_orcamento_vigente_r_161.94500_fmas.pdf",
+     "sha256": "acd8c3098c1ff69b6f8d4d6e53f1a351fa75845f97b3c75732e82d1a52e2b871"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05156",
+   "short": "Lei 5156/2023",
+   "title": "Lei nº 5.156, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2894",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2894/lei_5.156-pmc-23_abertura_de_credito_especial_ao_orcamento_vigente_r_88.86479_fms.pdf",
+     "sha256": "711fba951f0beb64f7623dce8468a482d3b9e9721f156fda77e2a6b0c9944d3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05155",
+   "short": "Lei 5155/2023",
+   "title": "Lei nº 5.155, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2893",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2893/lei_5.155-pmc-23_abertura_de_credito_especial_ao_orcamento_vigente_r_3.96958_fms.pdf",
+     "sha256": "1c5b1fa372ab37a3f1f3fd97b1292c51987d76ccf0b7cc11c2a48884390a6cd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05154",
+   "short": "Lei 5154/2023",
+   "title": "Lei nº 5.154, de 10 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2892",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2892/lei_5.154-pmc-23_abertura_de_credito_adicional_suplementar_ao_orcamento_vigente_r_194.27655_semed.pdf",
+     "sha256": "6a74d7d6890371c5a3b3d09d98adcab244b2d2ab23d0bfb6603b98e60faf9c33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05152",
+   "short": "Lei 5152/2023",
+   "title": "Lei nº 5.152, de 8 de março de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2696",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2696/lei_5.152-pmc-23_desafetacao_do_lote_291_quadra_45_setor_6.pdf",
+     "sha256": "e8d8da708f11ee5615999404f3318f212a6c773f98b2d9a6e8c9277104c38d2d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05151",
+   "short": "Lei 5151/2023",
+   "title": "Lei nº 5.151, de 8 de março de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2695",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2695/lei_5.151-pmc-23_desafetacao_do_lote_448_quadra_36_setor_8.pdf",
+     "sha256": "deac81a5535cbfa5e9419d938884ba44a26f3a9612c1f51a7547333ec29724ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05150",
+   "short": "Lei 5150/2023",
+   "title": "Lei nº 5.150, de 13 de fevereiro de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2698",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2698/lei_5.150-pmc-23_credito_especial_r_1.743.41408_fms.pdf",
+     "sha256": "1398fe9876402af5493d21b67f5a65294b64f9591c386308a8c8bea7bdce77c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05149",
+   "short": "Lei 5149/2023",
+   "title": "Lei nº 5.149, de 13 de fevereiro de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2694",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 8,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2694/lei_5.149-pmc-23_tarifa_zero_do_transporte_coletivo.pdf",
+     "sha256": "6a88593456b880dd5951008a555ce20d18d021a9449adea7763dc6a4f04be74f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05147",
+   "short": "Lei 5147/2022",
+   "title": "Lei nº 5.147, de 21 de dezembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2686",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2686/lei_5.147-pmc-22_abertura_de_credito_adicional_suplementar_r_127.90418_fms.pdf",
+     "sha256": "d67931862f109df99d99326fee77970beb493d240edac93a66103636677212d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05143",
+   "short": "Lei 5143/2022",
+   "title": "Lei nº 5.143, de 14 de dezembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2682",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 13,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2682/lei_5.143-pmc-22_dispoe_sobre_doacao_de_imovel_ao_hospital_regional_de_cacoal.pdf",
+     "sha256": "8eed9bfbaf00148462d2a5ee1ec04aa0ac85330c848351b7aa66a51c0fa0b690"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05145",
+   "short": "Lei 5145/2022",
+   "title": "Lei nº 5.145, de 13 de dezembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2685",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2685/lei_5.145-pmc-22_dispoes_sobre_abertura_de_credito_r__500.00000_fms.pdf",
+     "sha256": "f4f8ce7a3df2a73ef97e6a48033b017cb7ccb92ff444144374b0f882b1552c0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05144",
+   "short": "Lei 5144/2022",
+   "title": "Lei nº 5.144, de 13 de dezembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2688",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2688/lei_5.144-pmc-22_dispoe_sobre_abertura_de_credito__r_286.57922_semma.pdf",
+     "sha256": "642fc3ceaa9d03a8558923af54ee5c10275e254ab34adb6e8ecfe8e36c5c14ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05139",
+   "short": "Lei 5139/2022",
+   "title": "Lei nº 5.139, de 8 de dezembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2692",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2692/lei_5.139-pmc-22_dispoe_sobre_abertura_de_credito_adc_suplementar_r_161.94500_fmsa.pdf",
+     "sha256": "aff895d61cef1a0cfa324a85e9805c64da5d31e1e28623c26050a4ef9871a7a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05138",
+   "short": "Lei 5138/2022",
+   "title": "Lei nº 5.138, de 30 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2693",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2693/lei_n._5.138-pmc-2022.pdf",
+     "sha256": "9203b8dd10d17c9e952ed4435d7835643dd72abe73a78a4fccf02059de50271d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05142",
+   "short": "Lei 5142/2022",
+   "title": "Lei nº 5.142, de 28 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2689",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2689/lei_5.142-pmc-22_concede_abono_salarial_aos_servidores_da_camara.pdf",
+     "sha256": "c1b3a82e1c95b292dd5c0672a1ca12adef4ec84e4e3c9e746b6035e8c4620ddc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05137",
+   "short": "Lei 5137/2022",
+   "title": "Lei nº 5.137, de 23 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2503",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 11,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2503/lei_5.137-pmc-22_dispoe_sobre_a_criacao_do_plano_de_cultura_do_municipio_de_cacoal.pdf",
+     "sha256": "5eb862c98fb045ef0aa1e2c92514e3469f11a35851d1f49d57277917ffad73e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05136",
+   "short": "Lei 5136/2022",
+   "title": "Lei nº 5.136, de 23 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2502",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 16,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2502/lei_5.136-pmc-22_altera_a_lei_n._2.991-12.pdf",
+     "sha256": "1a421e0c9fc91caf2259fce8fc58895d9ad979d7398ad62dff1330215b278eaf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05135",
+   "short": "Lei 5135/2022",
+   "title": "Lei nº 5.135, de 17 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2434",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 37,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2434/lei_5.135-pmc-22_altera_a_lei_n._071-pmc-1985.pdf",
+     "sha256": "c3967cfb62b15bda6ce4808b3598c1e18cfaad81e3d19d88ae37dfe0f5d5fd24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05133",
+   "short": "Lei 5133/2022",
+   "title": "Lei nº 5.133, de 17 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2432",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2432/lei_5133-pmc-22_abertura_de_credito_suplementar_r_60.41970.pdf",
+     "sha256": "f2331a982a1b963aa418281f9fe26fd378d579b7fc8634d3334d73df38342528"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05132",
+   "short": "Lei 5132/2022",
+   "title": "Lei nº 5.132, de 17 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2431",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2431/lei_5132-pmc-22_abertura_de_credito_especial_r_252.53455_fms.pdf",
+     "sha256": "362d243c359958414e2b03e97a0d1106d7a1dc05215026297a71d8c19aef7d48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05131",
+   "short": "Lei 5131/2022",
+   "title": "Lei nº 5.131, de 17 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2430",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2430/lei_5131-pmc-22_abertura_de_credito_especial_r_13.51949_fms.pdf",
+     "sha256": "2d0002cb02c6273191eaff1e162f995c88b5a5cd77dc32463a0fcf6a594a4583"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05130",
+   "short": "Lei 5130/2022",
+   "title": "Lei nº 5.130, de 17 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2429",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2429/lei_5130-pmc-22_abertura_de_credito_suplementar_r_217.38444.pdf",
+     "sha256": "83311b089cee91e25e460eef8724caedd270379e859603b175d915d7afa33f9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05129",
+   "short": "Lei 5129/2022",
+   "title": "Lei nº 5.129, de 17 de novembro de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2428",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/2428/lei_5129-pmc-22_abertura_de_credito_suplementar_r_2.080.93259_fms.pdf",
+     "sha256": "659185a0e97256f93e9a56abfa344e304ddfafffd4faedfc719d6ca60d843394"
+    }
+   ]
   }
  ]
 }
