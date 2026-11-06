@@ -4564,6 +4564,244 @@
      "sha256": "313c19375e51a786369b5c8c70741082fe596e366152a7260371757dec327cf4"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-05346",
+   "short": "Lei 5346/2024",
+   "title": "Lei nº 5.346, de 28 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3124",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3124/lei_n._5.346_-.pdf",
+     "sha256": "6f70cb24d20be53ac1a9827d3e80c938ee56dd596656faf70a0a92520506541b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05341",
+   "short": "Lei 5341/2024",
+   "title": "Lei nº 5.341, de 26 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3122",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3122/lei_n._5.341-_plo_n._45_2024.pdf",
+     "sha256": "5420514eb8725684df08a0acb1989cfb49f3ed6ca56689afd600ca0fbae23c48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05339",
+   "short": "Lei 5339/2024",
+   "title": "Lei nº 5.339, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3090",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3090/lei_n._5.339_-_plo_n._41_2024.pdf",
+     "sha256": "1a84b9a22c74c81d7b11a92c8eb27ab0ba8629a86d75964ccfcdb37def3970de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05337",
+   "short": "Lei 5337/2024",
+   "title": "Lei nº 5.337, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3088",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3088/lei_n._5.337_-_plo_n._39_2024.pdf",
+     "sha256": "4236da2781457aa19228a9a7d7423e6733d28683fb6a109cabb506d6d27c7a5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05335",
+   "short": "Lei 5335/2024",
+   "title": "Lei nº 5.335, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3087",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3087/lei_n._5.335_-_plo_n._37_2024.pdf",
+     "sha256": "fd4d0b4122cf2276eea5aff08907d88b08fb5e96982b20599f3eb34ee4d19181"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05333",
+   "short": "Lei 5333/2024",
+   "title": "Lei nº 5.333, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3085",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3085/lei_n._5.333_-_plo_n.163_2023.pdf",
+     "sha256": "8c8db22dadf42e8e4286d944e88a6cfdc88cd508f292f3c327ed0e86a944cd7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05331",
+   "short": "Lei 5331/2024",
+   "title": "Lei nº 5.331, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3083",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3083/lei_n._5.331_-_plo_n._34_2024.pdf",
+     "sha256": "9d3cdeb851e6c5224012f8fc21c6cd35af494e1448bcda09fe62f7ab5da09808"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05329",
+   "short": "Lei 5329/2024",
+   "title": "Lei nº 5.329, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3081",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3081/lei_n._5.329_-_plo_n._32_2024.pdf",
+     "sha256": "906eb0f923408256b74f82756a775ea0de4ecb76bc527a7eab543aa3a6ebbf69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05328",
+   "short": "Lei 5328/2024",
+   "title": "Lei nº 5.328, de 20 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3080",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3080/lei_n._5.328_-_plo_n._30_2024.pdf",
+     "sha256": "acc0bc0416e8737cc17c86c5baa4f8a19b736f62302f8ffd9792c33d56000807"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05327",
+   "short": "Lei 5327/2024",
+   "title": "Lei nº 5.327, de 19 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3079",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3079/lei_n._5.327_-_plo_n._28_2024.pdf",
+     "sha256": "19c57eae476c58ae35a7e8089a71a20e7135974c9a2c5e01d9baa60b34b06a0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05326",
+   "short": "Lei 5326/2024",
+   "title": "Lei nº 5.326, de 19 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3107",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3107/lei_n._5.326_-_plo_n._27_2024.pdf",
+     "sha256": "a0d3589a7407d17494f477cf665a9116ef3b30958c0cfbb9e2477057fe191605"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05324",
+   "short": "Lei 5324/2024",
+   "title": "Lei nº 5.324, de 19 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3105",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3105/lei_n._5.324_-_plo_n._24_2024.pdf",
+     "sha256": "cb83e8fecea1e07ae1f71ff473ce5b7942b0ac045515203965c170fcdb51f22e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05323",
+   "short": "Lei 5323/2024",
+   "title": "Lei nº 5.323, de 19 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3106",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3106/lei_n_5.323_-_plo_n._23-2024.pdf",
+     "sha256": "3ecc9c66e80770df97cf4a49994a63ff75498461c18365eb087bac2743d6e6b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05322",
+   "short": "Lei 5322/2024",
+   "title": "Lei nº 5.322, de 19 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3104",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3104/lei_n._5.322_-_plo_n._22_2024.pdf",
+     "sha256": "9118ff1e3373e16128d3df921407da12e72e9ee5f18fb7f84cb7fa6cd9d6fa08"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05320",
+   "short": "Lei 5320/2024",
+   "title": "Lei nº 5.320, de 19 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3096",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3096/lei_n._5.320_-_plo_n._11_2024.pdf",
+     "sha256": "6eba290bb2bcb5a10cb88374f202e2bad8ce2f7ec31b9887f02bd11880b2b57f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05319",
+   "short": "Lei 5319/2024",
+   "title": "Lei nº 5.319, de 15 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3095",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3095/lei_n._5.319_-_plo_n._10_2024.pdf",
+     "sha256": "b567eab24ea9face657e2a02d9474ddf3f91f6cbc4186a578d00326b15efb108"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05318",
+   "short": "Lei 5318/2024",
+   "title": "Lei nº 5.318, de 15 de março de 2024",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/3071",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2024/3071/lei_n._5.318_-_plo_n._03_2024.pdf",
+     "sha256": "1c38c834610ae45b44b160661b4fb995b836e580f4d32b9b03f2de4a14181f11"
+    }
+   ]
   }
  ]
 }
