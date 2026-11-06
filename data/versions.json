@@ -11298,6 +11298,622 @@
      "sha256": "453b1a90b6d1c2f1026cdcfd69531ea2eb933d71eb04323dbda4cb1a7f868c66"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-04729",
+   "short": "Lei 4729/2021",
+   "title": "Lei nº 4.729, de 11 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/134",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/134/lei_4.729-pmc-21_dispoe_sobre_abertura_de_credito_adicional_suplementar_-_r_2.598.11134_semosp.pdf",
+     "sha256": "e86c30bf4676e46372e5cbd83281ac086ff86a2023ee54cd23f87df1a3e21fae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04728",
+   "short": "Lei 4728/2021",
+   "title": "Lei nº 4.728, de 11 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/133",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/133/lei_4.728-pmc-21_abertura_de_credito_adicional_especial_-_r_539.95644_semosp.pdf",
+     "sha256": "5d091fd851669248911945d34a509c04da3e08ada758e0f6199cbb90d4ac7827"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04727",
+   "short": "Lei 4727/2021",
+   "title": "Lei nº 4.727, de 11 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/132",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/132/lei_4.727-pmc-21_abertura_de_credito_adicional_suplementar_-_r_240.00000_fms.pdf",
+     "sha256": "f271e4a2f78599d141d63c4134e6d1b546b55e45b0f4a74267bfb50236dad283"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04726",
+   "short": "Lei 4726/2021",
+   "title": "Lei nº 4.726, de 11 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/131",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/131/lei_4.726-pmc-21_revisao-2020_e_atualizacao-2021_do_ppa.pdf",
+     "sha256": "9836a6b0a6d37c8de8f3d2cc70d1927826bfa46ff91655d08ec955f9ed54b3a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04724",
+   "short": "Lei 4724/2021",
+   "title": "Lei nº 4.724, de 5 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/129",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/129/lei_4.724-pmc-21_reformulacao_administrativa_por_meio_de_remanejamento_-_r_100.00000_amec.pdf",
+     "sha256": "6f16d8d3ca223bccbe3c0606797f9804bcc9bcfe2021c2de1d168b5f77fabed9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04723",
+   "short": "Lei 4723/2021",
+   "title": "Lei nº 4.723, de 5 de maio de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/128",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/128/lei_4.723-pmc-21_altera_a_lei_no_2.413-pm-2008_que_dispoe_sobre_a_carreira_de_procurador_e_a_estrutura_organizacional_e_competencia_da_procuradoria_geral.pdf",
+     "sha256": "4f828597ec9f4b9fc02e2862a4356d92e201d8a2f3151968a7ca342713fbf954"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04720",
+   "short": "Lei 4720/2021",
+   "title": "Lei nº 4.720, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/125",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/125/lei_4.720-pmc-21_reformulacao_administrativa_por_meio_de_remanejamento_-_r_477.00000_camara.pdf",
+     "sha256": "2e502c5f1e406db995d2ca598dd966f24306ec1bea8e6cb27392b7cc920d679b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04719",
+   "short": "Lei 4719/2021",
+   "title": "Lei nº 4.719, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/124",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/124/lei_4.719-pmc-21__abertura_de_credito_adicional_especial_-_r_500.00000_fms.pdf",
+     "sha256": "af0c6c863dc1e5cbb4e06160de9a79c2f86d926d069f99efaa543c3b1c5b7239"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04718",
+   "short": "Lei 4718/2021",
+   "title": "Lei nº 4.718, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/123",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/123/lei_4.718-pmc-21_reformulacao_administrativa_por_meio_de_remanejamento_-_r_500.00000_fms.pdf",
+     "sha256": "99993aa03b2ea477dbe46ef0f1d0cb4eb5785f5075f3f64ab6545b4488e09279"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04717",
+   "short": "Lei 4717/2021",
+   "title": "Lei nº 4.717, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/122",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/122/lei_4.717-pmc-21_abertura_de_credito_adicional_especial_-_r_150.00000_funccal.pdf",
+     "sha256": "88e34d450eb92514d660fbce109063cf6254836cc0bc8b7bb6fa516b7bbf6b62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04716",
+   "short": "Lei 4716/2021",
+   "title": "Lei nº 4.716, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/121",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/121/lei_4.716-pmc-21_abertura_de_credito_adicional_suplementar_-_r_4.277.00000__-_semad.pdf",
+     "sha256": "74a92736df606cbefeb342cfcadd6af351de2792bec9f61745ec87e7b92c5c4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04715",
+   "short": "Lei 4715/2021",
+   "title": "Lei nº 4.715, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/120",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/120/lei_4.715-pmc-21_abertura_de_credito_adicional_suplementar_-_r_350.00000_semed.pdf",
+     "sha256": "ec15256e00a804f0811ec52c574441f9f632a88d06f79677a16662df93016285"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04714",
+   "short": "Lei 4714/2021",
+   "title": "Lei nº 4.714, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/119",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/119/lei_4.714-pmc-21_reformulacao_administrativa_por_meio_de_transposicao_-_r_60.30000_amec.pdf",
+     "sha256": "9e19ea9f294721372b850b71108265130fd87450bad824b1f1008a72e4d33c69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04713",
+   "short": "Lei 4713/2021",
+   "title": "Lei nº 4.713, de 27 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/118",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 12,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/118/lei_4.713-pmc-21_institui_o_programa_emergencial_de_amparo_ao_segmento_de_profissionais_do_ramo_cultural_para_enfrentamento_do_estado_de_calamidade_publica_e_emergencia_de_saude_publica.pdf",
+     "sha256": "b3eef049de151dade91bb1c4595beaaf26d971c43b7b76fbbc60d2a73abb6afc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04712",
+   "short": "Lei 4712/2021",
+   "title": "Lei nº 4.712, de 20 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/117",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/117/lei_4.712-pmc-21_abertura_de_credito_adicional_suplementar_-_r_9.84800_fms.pdf",
+     "sha256": "c02914666941f5834815724209261138d0877c35171dcfa11e78a10a8c80ea70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04711",
+   "short": "Lei 4711/2021",
+   "title": "Lei nº 4.711, de 20 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/116",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/116/lei_4.711-pmc-21_abertura_de_credito_adicional_suplementar_-_r_216.55804_fms.pdf",
+     "sha256": "a954597fcc948dfa0ea2bd993731edde97d84941472e403badceb6ec4ffb261e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04710",
+   "short": "Lei 4710/2021",
+   "title": "Lei nº 4.710, de 20 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/115",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/115/lei_4.710-pmc-21_abertura_de_credito_adicional_suplementar_-_r_250.00000_fms.pdf",
+     "sha256": "1bd4c80e021442102455adfb426882598d46d464ee43b78484b0142acb50e142"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04708",
+   "short": "Lei 4708/2021",
+   "title": "Lei nº 4.708, de 20 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/113",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 10,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/113/lei_4.708-pmc-21_regularizacao_fundiaria_desmembramento_de_lotes_em_condominio_em_carater_excepcional_regularizacao_de_construcao.pdf",
+     "sha256": "40d5266573a6f5ff6a73c2eed118592dede41ab93244fd27f025825673c4a1d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04706",
+   "short": "Lei 4706/2021",
+   "title": "Lei nº 4.706, de 14 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/112",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/112/lei_4.706-pmc-21_abertura_de_credito_adicional_suplementar_-_r_661.68811_fms.pdf",
+     "sha256": "9c41466bd2e209f3c74be176ea66d7fa7085ee5eafcf4c95fa767af45ebe3ac7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04705",
+   "short": "Lei 4705/2021",
+   "title": "Lei nº 4.705, de 14 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/111",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/111/lei_4.705-pmc-21_abertura_de_credito_adicional_suplementar_-_r_4.74170_semed.pdf",
+     "sha256": "afab19724caac29939b676ede0a62b9777a613c640e2c02219ef342731ae2e9c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04704",
+   "short": "Lei 4704/2021",
+   "title": "Lei nº 4.704, de 14 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/110",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/110/lei_4.704-pmc-21_declara_de_utilidade_publica_a_associacao_dos_aposentados_pensionistas_idosos_e_portadores_de_deficiencia_de_cacoal.pdf",
+     "sha256": "a5e9507588f81602fa497bd99f055fcd52a03fa2bd15aa7d57e8d90f1415ead3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04703",
+   "short": "Lei 4703/2021",
+   "title": "Lei nº 4.703, de 14 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/109",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/109/lei_4.703-pmc-21_abertura_de_credito_adicional_especial_-_r_275.05797_semad.pdf",
+     "sha256": "dfbe1323c9d3a286cab76d74daed19d0043162f9efc982542305889077b8ffe9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04701",
+   "short": "Lei 4701/2021",
+   "title": "Lei nº 4.701, de 14 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/107",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/107/lei_4.701-pmc-21_altera_o_art._36_da_lei_no_2.964__valor_do_plantao.pdf",
+     "sha256": "b94ade254bfba474c5a9e1fef68d3c5385f65352bd474bfd6d8650576bb34b23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04700",
+   "short": "Lei 4700/2021",
+   "title": "Lei nº 4.700, de 6 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/106",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/106/lei_4.700-pmc-21_abertura_de_credito_adicional_suplementar_-_r_7.437.26156_saae.pdf",
+     "sha256": "d67225d3a809e9d8c3c45337371c30d678a487e4b805495800cee1e08c0b2b82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04699",
+   "short": "Lei 4699/2021",
+   "title": "Lei nº 4.699, de 6 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/105",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/105/lei_4.699-pmc-21_reformulacao_administrativa_por_meio_de_transposicao_-_r_2.111.00000_saae.pdf",
+     "sha256": "90000d6b4c178e7e9562389ef3a887441c125a7e1afd477a72f40d0553003ef1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04698",
+   "short": "Lei 4698/2021",
+   "title": "Lei nº 4.698, de 6 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/104",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/104/lei_4.698-pmc-21_altera_lei_no_4.562-pmc-2020_-_iptu_premiado.pdf",
+     "sha256": "297fab17c94539954d5cc6eec39d3293641bf3778e9d493a912c3c7668e1e64f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04697",
+   "short": "Lei 4697/2021",
+   "title": "Lei nº 4.697, de 6 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/103",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/103/lei_4.697-pmc-21_altera_a_lei_no_4.437-2020_extensao_do_prazo_de_2_anos_do_incio_das_atividades_da_apac.pdf",
+     "sha256": "b9a7a5a379c11e176945afac84bbc37b350bb3b587244c6f796fac302172321c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04696",
+   "short": "Lei 4696/2021",
+   "title": "Lei nº 4.696, de 6 de abril de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/102",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/102/lei_4.696-pmc-21_altera_o_artigo_22_da_lei_n._2.543-2009_-_semosp.pdf",
+     "sha256": "6fe4eb5a22b00d91420e114d879c308d020e6639f0797d5ed462a0d4c0c51a4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04694",
+   "short": "Lei 4694/2021",
+   "title": "Lei nº 4.694, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/100",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/100/lei_4.694-pmc-21_abertura_de_credito_adicional_suplementar_-_r_127.30970_fms.pdf",
+     "sha256": "763ee247dc22271e323ae63acbe5c40b717fc0ad3cf303153c532753dabdbf09"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04693",
+   "short": "Lei 4693/2021",
+   "title": "Lei nº 4.693, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/99",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/99/lei_4.693-pmc-21_abertura_de_credito_adicional_especial_-_r_777.07700_fms.pdf",
+     "sha256": "462f6294777d59e97b73dbd6c41c5b5279259a5fbca825238ede245a47d9c341"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04692",
+   "short": "Lei 4692/2021",
+   "title": "Lei nº 4.692, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/98",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/98/lei_4.692-pmc-21_abertura_de_credito_adicional_especial_-_r_72.08900_fms.pdf",
+     "sha256": "095e14e904335d500f613febd68dfa07ef32cc87ae6d62aad15d90d36d31c384"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04691",
+   "short": "Lei 4691/2021",
+   "title": "Lei nº 4.691, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/97",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/97/lei_4.691-pmc-21_abertura_de_credito_adicional_especial_-_r_115.00000_fms.pdf",
+     "sha256": "cff59f3e79172a95fa1846598dc2589794e7da242ef98f676af7ce717a1109f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04690",
+   "short": "Lei 4690/2021",
+   "title": "Lei nº 4.690, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/96",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/96/lei_4.690-pmc-21_abertura_de_credito_adicional_especial_-_r__9.26000_fms.pdf",
+     "sha256": "f39124340640bc644ecb18fee82ff91cf050e3065a520942b0695177068dbbe9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04689",
+   "short": "Lei 4689/2021",
+   "title": "Lei nº 4.689, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/95",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/95/lei_4.689-pmc-21_denomina_as_vias_publicas_localizadas_no_bairro_morada_do_bosque.pdf",
+     "sha256": "a0f4638335b84d8c33a2d5d1f28feecda5c057bad8eedffea36c10e8eab2a309"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04688",
+   "short": "Lei 4688/2021",
+   "title": "Lei nº 4.688, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/317",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/317/lei_4.688-pmc-21_altera_a_lei_no_4.665-21_-_cria_indenizacao_por_exposicao_ao_novo_coronavirus.pdf",
+     "sha256": "8bb58aea58da11a231f186576eaff0f5dae5628dc062adc629f2fd3198bd1251"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04687",
+   "short": "Lei 4687/2021",
+   "title": "Lei nº 4.687, de 30 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/86",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 11,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/86/lei_4.687-pmc-21_institui_a_semana_municipal_da_conscientizacao_do_autismo_no_calendario_oficial_de_datas_e_eventos_e_criacao_da_carteira_de_identificacaoda_pessoa_com_transtorno_autista_ciptea.pdf",
+     "sha256": "b81467883fc4b2e314d3e7dffced74c91f8fdeb9d5d4e55a84f5fdefe6465b8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04685",
+   "short": "Lei 4685/2021",
+   "title": "Lei nº 4.685, de 25 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/84",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/84/lei_4.685-pmc-21_abertura_de_credito_adicional_especial_-_r_900.00000_fundeb.pdf",
+     "sha256": "73b2fefd0d949a2cebe00b63c919db98ae35eb07e14607c8868ecf6c63fcbbe1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04684",
+   "short": "Lei 4684/2021",
+   "title": "Lei nº 4.684, de 16 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/83",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/83/lei_4.684-pmc-21_abertura_de_credito_adicional_suplementar_-_r_35.57005_amec.pdf",
+     "sha256": "5e9214d5b722bc21bf6d56084cdecace4b13c265e2cca1c8e1342839a15ac58d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04683",
+   "short": "Lei 4683/2021",
+   "title": "Lei nº 4.683, de 16 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/82",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/82/lei_4.683-pmc-21_reformulacao_administrativa_por_meio_de_remanejamento_-_r_32.60000_semma.pdf",
+     "sha256": "82237741f6c59deae8e92c1ad8ba36393e484ed19386890f014a444355936703"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04682",
+   "short": "Lei 4682/2021",
+   "title": "Lei nº 4.682, de 16 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/81",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/81/lei_4.682-pmc-21_reformulacao_administrativa_por_meio_de_transferencia_-_r_12.00000_gababinete_do_prefeito.pdf",
+     "sha256": "f88e29ed738c6466deb09871b0f542f70101f7ab57be6baf0689af5e3f6746e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04681",
+   "short": "Lei 4681/2021",
+   "title": "Lei nº 4.681, de 16 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/80",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/80/lei_4.681-pmc-21_abertura_de_credito_adicional_especial_-_r_142.50000_semad.pdf",
+     "sha256": "06270dd358573810115af184beee867f5d9bfb263e6c29209fad3fcff51baea5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04680",
+   "short": "Lei 4680/2021",
+   "title": "Lei nº 4.680, de 12 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/79",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/79/lei_4.680-pmc-21_abertura_de_credito_adicional_suplementar_-_r_4.082.40000_fms.pdf",
+     "sha256": "3da7d17b59b0d14cc00a2bb97b1cb14a31a7f14d239526ef1ab414bb7e008b0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04679",
+   "short": "Lei 4679/2021",
+   "title": "Lei nº 4.679, de 12 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/78",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/78/lei_4.679-pmc-21_abertura_de_credito_adicional_suplementar_-_r_720.00000_fms.pdf",
+     "sha256": "f9ce09643b1e66e5836783362931e43fa61495f61b7d6ebc6e9a793d04a3b724"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04678",
+   "short": "Lei 4678/2021",
+   "title": "Lei nº 4.678, de 9 de março de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/77",
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/77/lei_4.678-pmc-21_abertura_de_credito_adicional_especial_-_r_54.00000_gabinete_prefeito.pdf",
+     "sha256": "1a46ffc2799f9b0f71acb1d8aa8136b5aeb5c0883d95a63c6e096837e0d856a2"
+    }
+   ]
   }
  ]
 }
