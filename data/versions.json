@@ -8876,6 +8876,664 @@
      "sha256": "93bc67cb32efe71c61199a939ca04bfd4337ff134608a8a364c29bbe4d545011"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-04927",
+   "short": "Lei 4927/2021",
+   "title": "Lei nº 4.927, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/308",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/308/lei_4.927-pmc-21_reformulacao_-_transferencia_-_r_100.00000_semad.pdf",
+     "sha256": "5c97e179704bc7e2a1953d1af92f71f3949f21a9811dfdc7c0b00295ae4095d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04926",
+   "short": "Lei 4926/2021",
+   "title": "Lei nº 4.926, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/307",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/307/lei_4.926-pmc-21_reformulacao_-_transposicao_-_r_42.00000_semosp.pdf",
+     "sha256": "f278ed4057eb15753406249f9f50ffef4a5b08d46fc35de8591c09a76f900eb5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04925",
+   "short": "Lei 4925/2021",
+   "title": "Lei nº 4.925, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/306",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/306/lei_4.925-pmc-21_reformulacao_-_transferencia_-_r_230.00000_semosp.pdf",
+     "sha256": "3052d4fb7568fa3998755acfb8b3c5b7662d2bdc6d2bc45f2adb7c5ab19ba9bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04924",
+   "short": "Lei 4924/2021",
+   "title": "Lei nº 4.924, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/305",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/305/lei_4.924-pmc-21_abertura_de_credito_suplementar_-_r_605.00000_semosp.pdf",
+     "sha256": "e3326fe757158b639a5f74adf23117e320a0f2079e7ffcc67beda89335c46609"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04923",
+   "short": "Lei 4923/2021",
+   "title": "Lei nº 4.923, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/304",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/304/lei_4.923-pmc-21_reformulacao_-_transposicao_-_r_450.82244_semed.pdf",
+     "sha256": "d273bce510c372d577ffba8aee2690b5c74e0146479a71cb00166198c82d5374"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04922",
+   "short": "Lei 4922/2021",
+   "title": "Lei nº 4.922, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/303",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/303/lei_4.922-pmc-21_abertura_de_credito_suplementar_-_r_11.91077_fms.pdf",
+     "sha256": "3cf27faaffdca2a8c59f7ea5049a6d5de7cc7b7f0c43a9d7474b2ac6d8e15125"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04921",
+   "short": "Lei 4921/2021",
+   "title": "Lei nº 4.921, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/302",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/302/lei_4.921-pmc-21_reformulacao_-_transposicao_-_r_29.70000_fms.pdf",
+     "sha256": "555ba49dc92bf8a0ff1c23992f5b8572beabab7196d0e9cce60375b684437045"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04920",
+   "short": "Lei 4920/2021",
+   "title": "Lei nº 4.920, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/301",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/301/lei_4.920-pmc-21_reformulacao_-_transferencia_-_r_20.77260_fms.pdf",
+     "sha256": "4d3bbefc3f4a47ef432cb797106645c1a0111f1bcc5ebc251cdb6a778744dddb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04919",
+   "short": "Lei 4919/2021",
+   "title": "Lei nº 4.919, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/300",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/300/lei_4.919-pmc-21_reformulacao_-_transposicao_-_116.00000_fms.pdf",
+     "sha256": "7bf3baec94a66e071d161a8a84c0ab0e48907294f2a9092a8432abd3a801e888"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04918",
+   "short": "Lei 4918/2021",
+   "title": "Lei nº 4.918, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/299",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/299/lei_4.918-pmc-21_altera_a_lei_n._4.865-21_que_denomina_as_vias_publicas_localizadas_no_loteamento_residencial_machado.pdf",
+     "sha256": "bcccd9f7c9d4af2f65481e912a93e90aa8ff99fcf649806022c1d4c16d56f9f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04917",
+   "short": "Lei 4917/2021",
+   "title": "Lei nº 4.917, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/298",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/298/lei_4.917-pmc-21_revogacao_da_lei_n._2.912-11_que_autorizou_concessao_de_direito_real_de_uso_do_imovel_publico_ao_instituto_de_desenvolvimento_socioambiental_saude_e_bem_estar.pdf",
+     "sha256": "c8c0eca8244021889a5288c43b2d171f58c13d3203fdbeab5038206b82551abf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04916",
+   "short": "Lei 4916/2021",
+   "title": "Lei nº 4.916, de 30 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/297",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/297/lei_4.916-pmc-21_altera_a_lei_n._2.313-08_-_que_cria_o_conselho_da_juventude.doc.pdf",
+     "sha256": "45efbce489bd332f62ec5ac3faa0e757ddc6ea666028924bc2ed5392a94177dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04915",
+   "short": "Lei 4915/2021",
+   "title": "Lei nº 4.915, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/291",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/291/lei_4.915-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_18.13650_amec.pdf",
+     "sha256": "439c34b2d3874a8893e555ffe55e3b2c90514f88fa99fca521a51bed29644595"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04914",
+   "short": "Lei 4914/2021",
+   "title": "Lei nº 4.914, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/290",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/290/lei_4.914-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_345.00000_saae.pdf",
+     "sha256": "25cc41cfb7c64cbdf81c310791eebf58444b7599a5e891a50d8749ae793ff29b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04913",
+   "short": "Lei 4913/2021",
+   "title": "Lei nº 4.913, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/289",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/289/lei_4.913-pmc-21_reformulacao_adm_por_meio_de_transposicao_r1.230.00000_saae.pdf",
+     "sha256": "4707dc20e9da44e61c69f3177f2b13a6682d6b53e00dfe26324d559cd62b9195"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04912",
+   "short": "Lei 4912/2021",
+   "title": "Lei nº 4.912, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/292",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/292/lei_4.912-pmc-21_revogacao_da_lei_671_que_autorizou_a_doacaoda_area_do_pareque_industrial_fatima_domingues.pdf",
+     "sha256": "23314880ad02d1521d7b48bb0d024e17e59da0a2ad73d03b6842d28c79696f54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04910",
+   "short": "Lei 4910/2021",
+   "title": "Lei nº 4.910, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/295",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/295/lei_4.910-pmc-21_revogacao_da_lei_673_que_autorizou_a_doacao_do_terreno_do_parque_indutrial_a_empresa_ml_servicos_de_materiais_de_construcao.pdf",
+     "sha256": "192972a89b0749e1b5d99de3cc0029fffa206f5ca630bc8f6ddf6b4f0ba3296d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04909",
+   "short": "Lei 4909/2021",
+   "title": "Lei nº 4.909, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/296",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/296/lei_4.909-pmc-21_altera_a_lei_2554-2009_ctm_e_a_lei_4737-2021_refis.pdf",
+     "sha256": "26f632de6b67da6bc7565006b3a77d8b375896b57a41bb40a3812ce0d90ec4ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04908",
+   "short": "Lei 4908/2021",
+   "title": "Lei nº 4.908, de 23 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/294",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/294/lei_4.908-pmc-21_revogacao_da_laei_715_que_autorizou_doacao_da_area_do_clube_dos_servidores_da_educacao.pdf",
+     "sha256": "d8acce705b9b81a729f53c82c79c5896964b5ac157f6b04b2336e33d35d0eac7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04907",
+   "short": "Lei 4907/2021",
+   "title": "Lei nº 4.907, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/288",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/288/lei_4.907-pmc-21_abertura_de_credito_adicional_suplementar_r_r300.00000.pdf",
+     "sha256": "eede73a4f3ef13c1786a21e5f9dfb4b4d186d108834a80e42b26c8fb41a65319"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04906",
+   "short": "Lei 4906/2021",
+   "title": "Lei nº 4.906, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/287",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/287/lei_4.906-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_1000.00000__fms.pdf",
+     "sha256": "49338c374325172fac3f45ee8885bfff42dc5b1bf86fd709e6bf3526e69cd066"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04905",
+   "short": "Lei 4905/2021",
+   "title": "Lei nº 4.905, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/286",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/286/lei_4.905-pmc-21_reformulacao_adm_por_meio_de_transferencia_r_39.00000_semfaz.pdf",
+     "sha256": "b1662fbe9f3a46554d77dd86e4ec9a926afcbc29679af62dbebaf4c98fe9234e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04904",
+   "short": "Lei 4904/2021",
+   "title": "Lei nº 4.904, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/285",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/285/lei_4.904-pmc-21_professora_creuci_maria_caetano_o_titulo_de_cidada_benemerita_de_cacoal.pdf",
+     "sha256": "c9b31f7c96faa963272f0621a087bf50b21f8e1a1f6218cb8cb855b8410dac34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04903",
+   "short": "Lei 4903/2021",
+   "title": "Lei nº 4.903, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/284",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/284/lei_4.903-pmc-21_concede_a_professora_maria_de_lourdes_kemper_o_titulo_de_cidada_benemerita_de_cacoal.pdf",
+     "sha256": "c30bc982ee1be8dc37dd0018e7367efd5c235ced72684028c48d8348ff9f9149"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04902",
+   "short": "Lei 4902/2021",
+   "title": "Lei nº 4.902, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/283",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/283/lei_4.902-pmc-21_altera_o_anexo_v_descricao_de_cargos_lei_n._2.735_pmc_2010.pdf",
+     "sha256": "08e4442fb1ad09950b00e8cf25d4bf0860bea1d302281afedc5a5aa2d69e9032"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04900",
+   "short": "Lei 4900/2021",
+   "title": "Lei nº 4.900, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/281",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/281/lei_4.900-pmc-21_reformulacao_adm_por_meio_de_transferencia_r_270.00000__semfaz.pdf",
+     "sha256": "8ecac36b4c9b2279229e0ff16cbfc22cf66e62072b7426c89a99c1cc17718117"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04899",
+   "short": "Lei 4899/2021",
+   "title": "Lei nº 4.899, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/280",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/280/lei_4.899-pmc-21_reformulacao_remanejamento_r_39.00000_semtran.pdf",
+     "sha256": "aa18308c679311c6168f2c31d8e803baf0a7fb68f3543e34aad040b06bd7f241"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04898",
+   "short": "Lei 4898/2021",
+   "title": "Lei nº 4.898, de 17 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/279",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/279/lei_4.898-pmc-21_aberturade_credito_adicional_suplementar_r_1.904.14000__semttran.pdf",
+     "sha256": "a1b3c23f331b005fe05ced1c8c6541a175197f2d2a561f238f12079bf41516cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04897",
+   "short": "Lei 4897/2021",
+   "title": "Lei nº 4.897, de 9 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/276",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/276/lei_4.897-pmc-21_denomina_as_vias_publicas_projetadas_no_loteamento_pichek_complementando_a_lei_n._2.734-2010_dos_nomes_ruas_jose_do_patrocinio_antonio_de_paula_nunes_e_antonio_deodato_durce.pdf",
+     "sha256": "516e2ec2a186cd48b7ce0ff352628bdbb64ab50f7ae83e0bea135f33ba5f0aaa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04896",
+   "short": "Lei 4896/2021",
+   "title": "Lei nº 4.896, de 9 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/275",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/275/lei_4.896-pmc-21_denomina_a_estrada_vicinal_linha_8_para_avenida_porfirio_rodrigues_carneiro.pdf",
+     "sha256": "7367cfa1fe2a7d63a2955930f9d9937f88bbf4920b87bb3431044e62cf9fbe71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04894",
+   "short": "Lei 4894/2021",
+   "title": "Lei nº 4.894, de 9 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/264",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/264/lei_4.894-pmc-21_altera_a_lei_3.259-2013_doacao_de_imoveis_urbano_ao_estado_de_rondonia.pdf",
+     "sha256": "9e95409dfc419bc630f3bd38b65580d2da8b571936f3a14e976b6bbe5fed192c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04893",
+   "short": "Lei 4893/2021",
+   "title": "Lei nº 4.893, de 9 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/265",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 19,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/265/lei_4.893-pmc-21_revoga_os_art._16_iii_e_vii_34_a_56_da_lei_2.736-2010.pdf",
+     "sha256": "8e97dd27ee1b480b1f22c47f059368b5783631b2d30d4e4f9c36847e0e97382e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04892",
+   "short": "Lei 4892/2021",
+   "title": "Lei nº 4.892, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/255",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/255/lei_4.892-pmc-21_reformulacao_adm_por_meio_de_transferencia_r_320.94179_semed.pdf",
+     "sha256": "a6455e79f3fb0e2f834e57678bb812bac2498fdf70f49c473f4765fb1394120a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04891",
+   "short": "Lei 4891/2021",
+   "title": "Lei nº 4.891, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/254",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/254/lei_4.891-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_330.57316_semed.pdf",
+     "sha256": "d83c4a302ec6c100dea7fc525872b1faddfd5394c871ed66f4ff99a0a18e3d18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04890",
+   "short": "Lei 4890/2021",
+   "title": "Lei nº 4.890, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/257",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/257/lei_4.890-pmc-21_abertura_de_credito_adicional_sulpementar_r_312.95721_semosp.pdf",
+     "sha256": "5a24ede41609a907d94c04b5c811275057add4fd5f4abef10dc98aea16418d90"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04889",
+   "short": "Lei 4889/2021",
+   "title": "Lei nº 4.889, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/259",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/259/lei_4.889-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_2.00000_amec.pdf",
+     "sha256": "1926871c20fe24a7f7fa8f89a4641f288e64b098699eb0114094303008b7b9dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04888",
+   "short": "Lei 4888/2021",
+   "title": "Lei nº 4.888, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/260",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/260/lei_4.888-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_41.10000_amec.pdf",
+     "sha256": "04b6b5d4c57718b79340e4755fa249aa24a5f0ebc307b42e0dc3549f733f27f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04887",
+   "short": "Lei 4887/2021",
+   "title": "Lei nº 4.887, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/253",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/253/lei_4.887-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_63.91931_fundeb.pdf",
+     "sha256": "827f6735d92198648da782391c303acefaa1c1d56d834f512a0e04a32b4113cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04886",
+   "short": "Lei 4886/2021",
+   "title": "Lei nº 4.886, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/262",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/262/lei_4.886-pmc-21_reformulacao_adm_por_meio_de_transferencia_r_16.22500_semict.pdf",
+     "sha256": "08b0e63dce04eb5279b997c26ad4c68b77f84dfbf18cf5c2deeeddf8739d6d62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04885",
+   "short": "Lei 4885/2021",
+   "title": "Lei nº 4.885, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/261",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/261/lei_4.885-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_r_40.00000_semict.pdf",
+     "sha256": "1b284f066ec830528e8953fd23a4c169d847726cf0a947175c82483a89c54fca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04884",
+   "short": "Lei 4884/2021",
+   "title": "Lei nº 4.884, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/256",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/256/lei_4.884-pmc-21_abertura_de_credito_adicional_suplementar_r_223.00000_semict.pdf",
+     "sha256": "2e9e23e19b8918f3bd09345df206fdce14710e737e0c08519b6d47d24693d39a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04883",
+   "short": "Lei 4883/2021",
+   "title": "Lei nº 4.883, de 4 de novembro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/258",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/258/lei_4.883-pmc-_21_nomeia_a_semats_para_atendimento_de_pessoas_de_baixa_renda_a_fornecer_informacoes_sobre_o_dpvat.pdf",
+     "sha256": "64c9f68d4c515b7cd0b14f211cd18953f65adc00935104b3374c7b6c6872aaab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04882",
+   "short": "Lei 4882/2021",
+   "title": "Lei nº 4.882, de 26 de outubro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/246",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/246/lei_4.882-pmc-21_reformulacao_administrativa_por_meio_de_remanejamnto_r_20.46464_semad.pdf",
+     "sha256": "baadd15367b4eb5e9820db4d62cd700a141f4032bcfa4d35830ecd9c5377c9cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04881",
+   "short": "Lei 4881/2021",
+   "title": "Lei nº 4.881, de 26 de outubro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/245",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/245/lei_4.881-pmc-21_abertura_de_credito_adicional_suplementar_r_800.00000_fms.pdf",
+     "sha256": "3ba5c1a3793e15ad6555b70263309ff72f9647f77350a9a77437435b1e2ea409"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04880",
+   "short": "Lei 4880/2021",
+   "title": "Lei nº 4.880, de 26 de outubro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/244",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/244/lei_4.880-pmc-21_abertura_de_credito_adicional_suplementar_r_3.200.00000_fms.pdf",
+     "sha256": "972b5f776240e3610825878d184ba3ea0689acad50f67de101ef2ebdcce62486"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04879",
+   "short": "Lei 4879/2021",
+   "title": "Lei nº 4.879, de 26 de outubro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/243",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/243/lei_4.879-pmc-21_reformulacao_adm_por_meio_de_transposicao_r_331.99470_semosp.pdf",
+     "sha256": "3be373489ace10135f4306f6ff8410efaae85344469a3eb39cb6c2e036b3289d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04878",
+   "short": "Lei 4878/2021",
+   "title": "Lei nº 4.878, de 26 de outubro de 2021",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/242",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2021/242/lei_4.878-pmc-21_abertura_de_credito_adicional_suplementar_r_347.16960_fms.pdf",
+     "sha256": "9c74cecfc0c7b17eeaa14b632ef7e28d6360cf8554b499a6753cf26abe7b4059"
+    }
+   ]
   }
  ]
 }
