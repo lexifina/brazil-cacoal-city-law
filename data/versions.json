@@ -5474,6 +5474,622 @@
      "sha256": "7c18978c1527623a21c17b94c5492fef9a9d59f3c9461e2d5710be9f50269d4a"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-05227",
+   "short": "Lei 5227/2023",
+   "title": "Lei nº 5.227, de 6 de julho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2971",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2971/lei_5.227-pmc-23_abertura_de_credito_suplementar_-_r_3.950.11212_semosp.pdf",
+     "sha256": "e2b197988abb917f336eb88b71df98e4f136a6d1152dac74b35de65a46f2a226"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05226",
+   "short": "Lei 5226/2023",
+   "title": "Lei nº 5.226, de 6 de julho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2970",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 21,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2970/lei_5.226-pmc-23_institui_o_programa_municipal_de_aquisicao_de_alimentos_da_agricultura_familiar_no_municipio_de_cacoal_estado_ro_na_modalidade_compra_e_doacao.pdf",
+     "sha256": "2e8a8e3f8210ce9dac605a07eb78f93f4f9d6919c3077fbce33f7cf8f8abb221"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05225",
+   "short": "Lei 5225/2023",
+   "title": "Lei nº 5.225, de 28 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2968",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2968/lei_5.225_pmc-23_dispoe_sobre_a_prorrogacao_do_prazo_de_execucao_disposto_no_artigo_9o_da_lei_n._3.025-12.pdf",
+     "sha256": "e78f83dba341105395052cf4b10e32c6b108d6e35b8f7eb5eab958791492dbfb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05224",
+   "short": "Lei 5224/2023",
+   "title": "Lei nº 5.224, de 28 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2967",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2967/lei_5.224_pmc-23_abertura_de_credito_suplementar_-_r_350.00000_semagri.pdf",
+     "sha256": "8f7d7c5fbf85172943f5c908385ed5ebe7891d30206bc860adc676d7492943d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05223",
+   "short": "Lei 5223/2023",
+   "title": "Lei nº 5.223, de 28 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2966",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2966/lei_5.223_pmc-23_reformulacao_-_transferencia_-_r_40.00000_semed.pdf",
+     "sha256": "4f5a8dc8a2c4aeaaeea31db6203813099e121849f06f57ee53197127cdd15f7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05222",
+   "short": "Lei 5222/2023",
+   "title": "Lei nº 5.222, de 28 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2965",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2965/lei_5.222_pmc-23_reformulacao_-_transposicao_-_r_100.00000_semed.pdf",
+     "sha256": "272c30cff7b3ec61bc0a3ffb196ed96c4341a52b52f1f476edc4e16e07d74b6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05221",
+   "short": "Lei 5221/2023",
+   "title": "Lei nº 5.221, de 28 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2964",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2964/lei_5.221_pmc-23_altera_e_inclui_dispositivos_nas_leis_n.s_2.157-07_3.905-17_5.203-23_e_5.204-23_e_da_outras_providencias.pdf",
+     "sha256": "83e483412c028106fecf5ca36d06ac334d034c0e4ffbde112394dc46209f515c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05220",
+   "short": "Lei 5220/2023",
+   "title": "Lei nº 5.220, de 21 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2961",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2961/lei_5.220_pmc-23_altera_o_art._1o_da_lei_5.199-pmc-2023_que_autoriza_o_poder_executivo_a_contratar_operacao_de_credito_com_a_caixa_economica_federal.pdf",
+     "sha256": "717d256aad4300f88180dc8168f96c72388c2169c166bd2225d577b0f42d99b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05216",
+   "short": "Lei 5216/2023",
+   "title": "Lei nº 5.216, de 15 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2956",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2956/lei_5.216_pmc-23_altera_a_lei_n._2.554-09_que_institui_o_novo_codigo_tributario_do_municipio.pdf",
+     "sha256": "3274b859ebd8a4908f00cfe11ca890addae74aa8e9cfb840369a0630f60a01fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05219",
+   "short": "Lei 5219/2023",
+   "title": "Lei nº 5.219, de 14 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2959",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2959/lei_5.219_pmc-23_abertura_de_credito_suplementar_-_r_250.00000_semc.pdf",
+     "sha256": "842247a96577810a52a91f6628aab6902396f75a0a560c910514cb882c79c8e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05218",
+   "short": "Lei 5218/2023",
+   "title": "Lei nº 5.218, de 14 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2958",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2958/lei_5.218_pmc-23_abertura_de_credito_especial_-_r_4.00000_fmas.pdf",
+     "sha256": "997d100f63c61388c7498c44d70d9fac11a1a663a08f7c65b3b9632054bc6033"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05217",
+   "short": "Lei 5217/2023",
+   "title": "Lei nº 5.217, de 14 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2957",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2957/lei_5.217_pmc-23_abertura_de_credito_especial__-_r_20.27433_fmas.pdf",
+     "sha256": "a998d1f1855aa70113be143c4785d5e095fbc1a50c212bb0835afeb5c33af3ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05215",
+   "short": "Lei 5215/2023",
+   "title": "Lei nº 5.215, de 14 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2955",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2955/lei_5.215_pmc-23_autoriza_o_executivo_celebrar_termo_de_cooperacao_com_o_fundo_penitenciario_de_rondonia_com_interveniencia_da_secretaria_de_estado_e_justica.pdf",
+     "sha256": "8cbf85e390a53f1e9d4076e362db1f87ef80a7419d984f23db10d508e7eb08e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05214",
+   "short": "Lei 5214/2023",
+   "title": "Lei nº 5.214, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2953",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2953/lei_5.214-pmc-23_abertura_de_credito_suplementar_-_r_800.00000_semast.pdf",
+     "sha256": "f05d6ca487e2ec0e2c4b8bf99bd52dcd55c5d5132183bc318cef32f5065f15cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05212",
+   "short": "Lei 5212/2023",
+   "title": "Lei nº 5.212, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2951",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2951/lei_5.212-pmc-23_abertura_de_credito_especial_-_r_100.00000_semast.pdf",
+     "sha256": "edd31a8e1879102fb76b292ce7438dc8ba1072f86d616451eba23fb4d0294064"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05210",
+   "short": "Lei 5210/2023",
+   "title": "Lei nº 5.210, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2949",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2949/lei_5.210-pmc-23_abertura_de_credito_especial_-_r_1.519.06600__semosp.pdf",
+     "sha256": "b0340b5df22a4ffa2db438ad6b966009b762fc2340e52c93b4892564d6b77a80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05209",
+   "short": "Lei 5209/2023",
+   "title": "Lei nº 5.209, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2948",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2948/lei_5.209-pmc-23_reformulacao_administrativa__transposicao_r_1.186.58675__semed.pdf",
+     "sha256": "fc5679d3be0a03e13affeaf6fbfc9303806f1dba83a3a0a5efe135a3d59dc4cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05208",
+   "short": "Lei 5208/2023",
+   "title": "Lei nº 5.208, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2947",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2947/lei_5.208-pmc-23_declara_de_utilidade_publica_a_comunidade_terapeutica_amor_maior.pdf",
+     "sha256": "5fc1fc2db7864425178e5efdfd8e332064ccbf6755b45d5295f536c698d7ebb5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05207",
+   "short": "Lei 5207/2023",
+   "title": "Lei nº 5.207, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2946",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 6,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2946/lei_5.207-pmc-23_revisao_do_ppa_exercicio_2022-2023.pdf",
+     "sha256": "9b5f15a9542e2e6523ad8fb1c6d9184e11463e40625a6d1d3d5e04cdb2d1f4d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05206",
+   "short": "Lei 5206/2023",
+   "title": "Lei nº 5.206, de 7 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2945",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2945/lei_5.206-pmc-23_abertura_de_credito_especial_r_150.00000.pdf",
+     "sha256": "53a5afabe087dcc5d25a9c19b42b17a3044458501a13d441d37eaa918e7863f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05205",
+   "short": "Lei 5205/2023",
+   "title": "Lei nº 5.205, de 6 de junho de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2944",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2944/lei_5.205-pmc-23_institui_o_programa_previne_amor.pdf",
+     "sha256": "dcc1e9a04424d4f859346dfd3c870d0202623f329d9e6a8b631553508abb96ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05204",
+   "short": "Lei 5204/2023",
+   "title": "Lei nº 5.204, de 30 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2942",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2942/lei_5.204-pmc-23_altera_dispositivos_da_lei_n._2.157-pmc-2007_e_da_outras_providencias_diretoria_de_frotas.pdf",
+     "sha256": "f3e171bf635452db73639056805f0cca2fa3200cb2ce7066cf3d41941cf362d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05202",
+   "short": "Lei 5202/2023",
+   "title": "Lei nº 5.202, de 24 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2940",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2940/lei_5.202-pmc-23_denomina_a_praca_localizada_no_lote_194_quadra_102a_bairro_jardim_eldorado_cacoal-ro_como_praca_suami_fernanda_pereira_lima..pdf",
+     "sha256": "0bcab54ce3b3b793e340cdc85a0ca0de75b1f10cddf3e2789582a9ad5fb000a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05201",
+   "short": "Lei 5201/2023",
+   "title": "Lei nº 5.201, de 22 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2939",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2939/lei_5.201-pmc-23_doacao_de_terra_para_municipes_de_baixa_renda__para_a_edificacao_de_moradia.pdf",
+     "sha256": "6b43eaeff7d7cc837b154fc00b696fa37dbe4fabab83464706e68aa6ce60ebaa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05199",
+   "short": "Lei 5199/2023",
+   "title": "Lei nº 5.199, de 19 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2932",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2932/lei_5.199-pmc-23_autoriza_o_poder_executivo_a_contratar_operacao_de_credito_com_a_caixa_economica_federal__cef.pdf",
+     "sha256": "53b0cdc3eeb85ab2ef4c2c620cddddb8071a6e1119981891b47b615990765dd3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05198",
+   "short": "Lei 5198/2023",
+   "title": "Lei nº 5.198, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2931",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2931/lei_5.198-pmc-23_abertura_de_credito_suplementar_r_3.000.00000_fms.pdf",
+     "sha256": "d3ae8febf687976d7181fa3b9dda4921855cb8dd23d1f416658394fc7a9cd2b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05197",
+   "short": "Lei 5197/2023",
+   "title": "Lei nº 5.197, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2930",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2930/lei_5.197-pmc-23_concede_o_titulo_de_cidadao_benemerito_ao_sr._davys_sleman_de_negreiros.pdf",
+     "sha256": "4c35109c6dcf351472c446df3d1af728a6b2c75c42404cbc777ce0b34ee160c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05196",
+   "short": "Lei 5196/2023",
+   "title": "Lei nº 5.196, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2929",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2929/lei_5.196-pmc-23_abertura_de_credito_adicional_suplementar_r_3.000.00000_fms.pdf",
+     "sha256": "a80f82124975a6c2b9aaa79562461d56a9be5e72b02ac26b86061111382343d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05195",
+   "short": "Lei 5195/2023",
+   "title": "Lei nº 5.195, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2928",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2928/lei_5.195-pmc-23_abertura_de_credito_especial_r_88.86479_fms.pdf",
+     "sha256": "919bf4441aad41d2b1c8f01311e8d18e6c9fb9ed1d1313e6e33ec9e986274eed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05194",
+   "short": "Lei 5194/2023",
+   "title": "Lei nº 5.194, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2927",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2927/lei_5.194-pmc-23_reformulacao_-_transposicao_r_1.937.03905_semed.pdf",
+     "sha256": "2dd04dfaf3bfa15eb815ff637e08d3ac7d965fded9ae6bb0d422b669b875fc81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05193",
+   "short": "Lei 5193/2023",
+   "title": "Lei nº 5.193, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2926",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2926/lei_5.193-pmc-23_abertura_de_credito_especial_r_18.95140_fms.pdf",
+     "sha256": "893a5f552a54e3e199ca8f4c9874523c426279193e6bdfcb28f33dc48c8a1092"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05192",
+   "short": "Lei 5192/2023",
+   "title": "Lei nº 5.192, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2925",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2925/lei_5.192-pmc-23_abertura_de_credito_adicional_suplementar_r_964.96089_fms.pdf",
+     "sha256": "4dbe7c15f99947531645bb846e4756cf57555b26a7895e36cb1a477843f3de55"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05191",
+   "short": "Lei 5191/2023",
+   "title": "Lei nº 5.191, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2924",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2924/lei_5.191-pmc-23_declara_a_utilidade_publica_da_associacao_desportiva_e_ecologica_dos_pescadores_de_cacoal_-_asdec.pdf",
+     "sha256": "10dfe6938d0b1a02a6987972d7010bef52805031c108aa8dfc541dd582e99358"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05189",
+   "short": "Lei 5189/2023",
+   "title": "Lei nº 5.189, de 17 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2922",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2922/lei_5.189-pmc-23_altera_a_lei_no._2.554-pmc-2009_que_institui_o_novo_codigo_tributario_do_municipio_de_cacoal.pdf",
+     "sha256": "3b9eaa1fde180f8982b80271637e4863966d8a1465f93927ea37e2311511c0f3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05188",
+   "short": "Lei 5188/2023",
+   "title": "Lei nº 5.188, de 10 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2918",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2918/lei_5.188-pmc-23_prorrogacao_do_prazo_de_execucao_disposto_no_art._10_da_lei_4.094-pmc-2018.pdf",
+     "sha256": "7f4c977d6befa121d523daebbc8cbeab46da477799a323cd698adbea4f55d7a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05187",
+   "short": "Lei 5187/2023",
+   "title": "Lei nº 5.187, de 10 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2917",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2917/lei_5.187-pmc-23_abertura_de_credito_especial_ao_orcamento_vigente_r79.65846_semast.pdf",
+     "sha256": "8e99ea4e3df9a26b5644ffba5fb63c5f993eecd5724b74e41b8b1524f95d7ef4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05186",
+   "short": "Lei 5186/2023",
+   "title": "Lei nº 5.186, de 10 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2916",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2916/lei_5.186-pmc-23_abertura_de_credito_especial_ao_orcamento_vigente_r15.00000_fmia.pdf",
+     "sha256": "9aa51bc6fd06f47712f1451244c4671d683f1950f66952ff0e07af937aed9faa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05185",
+   "short": "Lei 5185/2023",
+   "title": "Lei nº 5.185, de 10 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2915",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2915/lei_5.185-pmc-23_reformulacao_administrativa_ao_orcamento_vigente_por_meio_de_transposicao_r_262.00000_semed.pdf",
+     "sha256": "e1208c063f16d66aa796a99cfadb0c353368d177f95579a63627655316c81155"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05184",
+   "short": "Lei 5184/2023",
+   "title": "Lei nº 5.184, de 10 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2914",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2914/lei_5.184-pmc-23_altera_a_lei_3.431-pmc-2015_que_dispoe_sobre_a_aprovacao_do_loteamento_denominado_residencial_machado_no_municipio_de_cacoal.pdf",
+     "sha256": "2f6354f0a0df3bb30335d4e2744938c84a95004935376667c31c083f50c3f276"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05183",
+   "short": "Lei 5183/2023",
+   "title": "Lei nº 5.183, de 5 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2913",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2913/lei_5.183-pmc-23_protecao_a_mulheres_que_se_sintam_em_situacao_de_riscos_em_casas_noturnas..pdf",
+     "sha256": "49ba5277c1587a757bcc07ee8ff69f03966d75e307353168fc7311c9acd99d03"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05182",
+   "short": "Lei 5182/2023",
+   "title": "Lei nº 5.182, de 5 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2912",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 7,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2912/lei_5.182-pmc-23_institui_politicas_publicas_voltadas_para_o_combate_a_alienacao_parental_no_municipio_25_de_abril_-_dia_internacional_do_combate_a_alienacao_parental.pdf",
+     "sha256": "3ae5d33411d990a3d5b56859f2376fb17abaacb1bd3720c1f33bd906b091ef62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05181",
+   "short": "Lei 5181/2023",
+   "title": "Lei nº 5.181, de 2 de maio de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2911",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2911/lei_5.181-pmc-23_reformulacao_administrativa_ao_orcamento_vigente_por_meio_de_transferencia_r_356.00000_semed.pdf",
+     "sha256": "593497a96da8297e1161018a40afe64e332b70b207bea378372d64a7b6c70225"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05180",
+   "short": "Lei 5180/2023",
+   "title": "Lei nº 5.180, de 24 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2937",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2937/lei_5.180-pmc-23__credito_adicional_suplementar_r_1.700.00000_semosp.pdf",
+     "sha256": "42b576210f79c9af5c6d528e9e1dc7b7794ac2fd45fafd428403d81ed927b570"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05179",
+   "short": "Lei 5179/2023",
+   "title": "Lei nº 5.179, de 24 de abril de 2023",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/2936",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 16,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2936/lei_5.179-pmc-23__doacao_de_imovel_a_associacao_protetora_da_causa_animal.pdf",
+     "sha256": "f750f123aa8b2866ddfc12d7f644e8804a8bd2a42ccc2bfe3be5fd1452975801"
+    }
+   ]
   }
  ]
 }
