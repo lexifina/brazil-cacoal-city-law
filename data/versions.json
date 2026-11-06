@@ -7700,6 +7700,580 @@
      "sha256": "993e4458b2a0f50b2db091b7f9f3bdf9160432108636b91e455530c672f97c41"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05025",
+   "short": "Lei 5025/2022",
+   "title": "Lei nº 5.025, de 25 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1127",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1127/lei_5.025-pmc-22_abertura_de_credito_adicional_suplementar_r_200.00000_semed.pdf",
+     "sha256": "ff57a77f58d93556a5e1efe4e8b878f1cdadd0774ecb66c0a707119820780d81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05024",
+   "short": "Lei 5024/2022",
+   "title": "Lei nº 5.024, de 25 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1130",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1130/lei_5.024-pmc-22_reformulacao_adm_por_meio_r_36.40854_semed.pdf",
+     "sha256": "36b4576358f3cedd7fdd45943595eacd941f932839deeca6265dabc7ca40856d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05023",
+   "short": "Lei 5023/2022",
+   "title": "Lei nº 5.023, de 25 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1131",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1131/lei_5.023-pmc-22_altera_a_lei_n._2.735-pmc-2010.pdf",
+     "sha256": "2fad509e0588449b5fb73a37747aa31970a4aac942345c9d938701b2d5326328"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05021",
+   "short": "Lei 5021/2022",
+   "title": "Lei nº 5.021, de 13 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1116",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 5,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1116/lei_5.021-pmc-22_programa_de_castracao_animal.pdf",
+     "sha256": "7421fd60c0ae3ad687a2c1042e71f518d12ec39cf2f3e96416cf6f394f4a1185"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05019",
+   "short": "Lei 5019/2022",
+   "title": "Lei nº 5.019, de 12 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1114",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1114/lei_5.019-pmc-22_abertura_de_credito_especial_r_607.51570_gabinete.pdf",
+     "sha256": "b82a08d15cf3552c10769b7abe24addaed5608d1112148507287e529cfb9ae8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05018",
+   "short": "Lei 5018/2022",
+   "title": "Lei nº 5.018, de 12 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1115",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1115/lei_5.018-pmc-22_reformulacao_adm_por_meio_de_remanejamento_r_70.00000_semad.pdf",
+     "sha256": "3b9509f1874578c021fa79e630fa6fa6c56a49961599df89e6c3514f0e2c994d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05017",
+   "short": "Lei 5017/2022",
+   "title": "Lei nº 5.017, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1006",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1006/lei_5.017-pmc-22_reformulacao_administrativa_por_meio_de_remanejamento_r_320.00000_semad.pdf",
+     "sha256": "565ff72aabd47d5d64312e907c96c3cf50995caa2aff51ed51bd45ba9109b231"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05016",
+   "short": "Lei 5016/2022",
+   "title": "Lei nº 5.016, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1005",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1005/lei_5.016-pmc-22_abertura_de_credito_adicional_suplementar_r__r_1.100.00000_semma.pdf",
+     "sha256": "dfda5219f3a7ef0dca42229a6228d1bd82c31633d133bd1c3f9765ce078245af"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05015",
+   "short": "Lei 5015/2022",
+   "title": "Lei nº 5.015, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1004",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1004/lei_5.015-pmc-22_reformulacao_admnistrativa_por_meio_de_remanejamento_r_710.00000_semma.pdf",
+     "sha256": "4b678b79e63a632ff558a41e89c65a2827f68fd53e56bbd5cf5b31182d40d251"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05014",
+   "short": "Lei 5014/2022",
+   "title": "Lei nº 5.014, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1003",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1003/lei_5.014-pmc-22_reformulacao_admnistrativa_por_meio_de_remanejamento_r_390.00000_cmc.pdf",
+     "sha256": "0e7a9ffb6f308367cd8631c92ca973c79161ce90ae7b7b6be9f64cf601f8e18e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05013",
+   "short": "Lei 5013/2022",
+   "title": "Lei nº 5.013, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1002",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1002/lei_5.013-pmc-22_dispoe_sobre_revogacao_da_lei_n._723_1996_que_doou_area_para_a_oab_ro.pdf",
+     "sha256": "b36011cd8d30476ce0aea982097aefaf141eeaae9d85af3fc4e3fb777b29f3ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05012",
+   "short": "Lei 5012/2022",
+   "title": "Lei nº 5.012, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1001",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1001/lei_5.012-pmc-22_revogacao_da_lei_n._716-pmc-1996.pdf",
+     "sha256": "17e20083c9904f8c40cd646a7b8426211f6d34a7e0709a54d5f5b7ad650830f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05011",
+   "short": "Lei 5011/2022",
+   "title": "Lei nº 5.011, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/1000",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/1000/lei_5.011-pmc-22_revogacao_da_lei_n.__598-1995__autoriza_o_executivo_municipal_a_fazer_doacao_para_a_igreja_adventista_da_promessa.pdf",
+     "sha256": "7286fa04077829835240764435ed365d5b8c7b815584c8519e761d6afe336b23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05010",
+   "short": "Lei 5010/2022",
+   "title": "Lei nº 5.010, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/999",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/999/lei_5.010-pmc-22_revoga_a_lei_n._2.232_07_concessao_de_imovel_para_a_arpacre.pdf",
+     "sha256": "8a58b903fdc0d15fc93a4b021e33e14c6eaeae591eb57061ff7cdf8d07ea2a04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05009",
+   "short": "Lei 5009/2022",
+   "title": "Lei nº 5.009, de 3 de maio de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/998",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/998/lei_5.009-pmc-22_altera_a_lei_n._3.972_denomima_vias_do_jardim_vitoria.pdf",
+     "sha256": "398ff373899b6b3aa54a928867640b0203da2ddb374a4876830ecfcec7be25e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05007",
+   "short": "Lei 5007/2022",
+   "title": "Lei nº 5.007, de 20 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/849",
+   "versions": [
+    {
+     "from": "2022-04-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/849/lei_5.007-pmc-22_abertura_de_credito_suplementar_r_100.00000_saae.pdf",
+     "sha256": "1e915b1215010bef8607a7ab47d633441bbfa3aaad908d508765abd77cf1233d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05006",
+   "short": "Lei 5006/2022",
+   "title": "Lei nº 5.006, de 20 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/848",
+   "versions": [
+    {
+     "from": "2022-04-25",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/848/lei_5.006-pmc-22_abertura_de_credito_suplementar_r_1.01794000_saae.pdf",
+     "sha256": "0bda07fb3ac8e9586b6296f719079236bf4173721a607e482bf8ae3956c6aec6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05005",
+   "short": "Lei 5005/2022",
+   "title": "Lei nº 5.005, de 20 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/847",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/847/lei_5.005-pmc-22_altera_o_art._153_da_lei_2735_licenca_falecimento.pdf",
+     "sha256": "e002d6ed01ca9573856a1ab682cb38a8f799583d17c44e2133c719a06263c164"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05004",
+   "short": "Lei 5004/2022",
+   "title": "Lei nº 5.004, de 20 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/846",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/846/lei_5.004-pmc-22_abertura_de_credito_adicional_suplementar_r_1.322.00000_fmas.pdf",
+     "sha256": "072fa70d1b57e7d566f95a13abb575d9d47431583a96675f2db854729dd320d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05002",
+   "short": "Lei 5002/2022",
+   "title": "Lei nº 5.002, de 20 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/844",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/844/lei_5.002-pmc-22_revoga_a_lei_n._3.388-2014_direito_real_de_uso_a_cocical.pdf",
+     "sha256": "b72bc43d3cb0ddb6b7ea76686b66db7e212fa5bb5317eeb6a80f32d5017936a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05000",
+   "short": "Lei 5000/2022",
+   "title": "Lei nº 5.000, de 12 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/807",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/807/lei_5.000-pmc-22_abertura_de_credito_especial_r_15.00000_semma.pdf",
+     "sha256": "3291a1aba5a3ae51fc597f9ceb7fabcb4f2faebca5c398df7b555dd7c9dc79e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04999",
+   "short": "Lei 4999/2022",
+   "title": "Lei nº 4.999, de 12 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/811",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/811/lei_4.999-pmc-22_abertura_de_credito_suplementar_223.00000_semict.pdf",
+     "sha256": "84dcab8abd00b663762eccbd153d193bd0a051e55d127b5922fc39ac1ab436ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04996",
+   "short": "Lei 4996/2022",
+   "title": "Lei nº 4.996, de 12 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/806",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/806/lei_4.996-pmc-22_abertura_de_credito_especial_r_100.00000_fmas.pdf",
+     "sha256": "873696b32317677cce4aeac69a7b10f48c9f2b7741029b57d3c858c67182ac12"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04995",
+   "short": "Lei 4995/2022",
+   "title": "Lei nº 4.995, de 12 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/808",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/808/lei_4.995-pmc-22_reformulacao_adm_por_meio_de_transferencia_r_30.00000_semagri.pdf",
+     "sha256": "ff00c4c1f8008fea522f522491f9721bace8b4f4dd72384f50e9f7c3aa112067"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04994",
+   "short": "Lei 4994/2022",
+   "title": "Lei nº 4.994, de 12 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/805",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/805/lei_4.994-pmc-22_reformulacao_adm_por_meio_de_transposicao_r_32.20649_semagri.pdf",
+     "sha256": "5df3d43dfb8b176c9279d2cad7b8b20bd6b3d95b744fc42c0f71ecc31eb8e86a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04993",
+   "short": "Lei 4993/2022",
+   "title": "Lei nº 4.993, de 12 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/809",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 11,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/809/lei_4.993-pmc-22_institui_o_programa_de_incentivo_a_contratacao_de_mulheres_em_situacao_de_violencia.pdf",
+     "sha256": "1ad7b620428d4cb61f2cd2bb23540f17a39285f6d9fbe770a29002c260d8d598"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04992",
+   "short": "Lei 4992/2022",
+   "title": "Lei nº 4.992, de 5 de abril de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/744",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/744/lei_4.992-pmc-22_altera_a_lei_2.735-10_altera_a_descricao_atribuicoes_de_cuidador.pdf",
+     "sha256": "57bc39860f2c23a3d65ac5fcc200ccb2e3ee320c4f2f185def0c407431575d45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04991",
+   "short": "Lei 4991/2022",
+   "title": "Lei nº 4.991, de 29 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/717",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/717/lei_4.991-pmc-22_reformulacao_adm_por_meio_de_transposicao_600.00000_semed.pdf",
+     "sha256": "bc1793c057e66142fb6acb575066a0b528e62e5ab9d78539694254bf2e9c3234"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04990",
+   "short": "Lei 4990/2022",
+   "title": "Lei nº 4.990, de 29 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/716",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/716/lei_4.990-pmc-22_abertura_de_credito_adicional_suplementar_r_1.958.69000_fms.pdf",
+     "sha256": "bf14a05bc79bab6f8dc466d53d6f2d0fa60820e2cb098e1dd1525e74ffcb53de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04989",
+   "short": "Lei 4989/2022",
+   "title": "Lei nº 4.989, de 29 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/715",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/715/lei_4.989-pmc-22_reformulacao_adm_por_meio_de_transposicao_r_207.00000_fundeb.pdf",
+     "sha256": "857665ee87e62484050abf6ffda491589f3d2fb896dc2eea9fefad9850139502"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04988",
+   "short": "Lei 4988/2022",
+   "title": "Lei nº 4.988, de 22 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/639",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/639/lei_4.988-pmc-22_revogacao_da_lei_n._569_a_associacao_dos_bairros_bandeirantes_e_vista_alegre.pdf",
+     "sha256": "53a02875817d3dae2d1ff5fe187910cee25ac92e757469c2f481addb728b850f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04987",
+   "short": "Lei 4987/2022",
+   "title": "Lei nº 4.987, de 22 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/623",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 12,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/623/lei_4.987-pmc-22__institui_o_dia_mundial_da_conscientizacao_e_enfrentamento_a_fibromialgia_no_calendario_oficial_cria_carteira_de_identificacao_e_estabelece_preferencias.pdf",
+     "sha256": "95e331e5d0a3aa49cd9ac3a8dd4969cedafd4ce6bc5b1459037140353b27efd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04986",
+   "short": "Lei 4986/2022",
+   "title": "Lei nº 4.986, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/555",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/555/lei_4.986-pmc-22_acrescenta_o_artigo_14_a_lei_n._4.721-2021.pdf",
+     "sha256": "b75ab203f218a63c4d857cd03027f91bc6d34c0b0ac48b7d389f56dab7910462"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04985",
+   "short": "Lei 4985/2022",
+   "title": "Lei nº 4.985, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/549",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 12,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/549/lei_4.985-pmc-22_homenagem_ao_imperador_dom_pedro_l.pdf",
+     "sha256": "9722105000294cb4cfa637ae58e8662112db11184e50f3f6b594f1b8b6d5f632"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04984",
+   "short": "Lei 4984/2022",
+   "title": "Lei nº 4.984, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/548",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/548/lei_4.984-pmc-22_abertura_de_credito_especial_r_559.70000_fms.pdf",
+     "sha256": "7ee9cc84d710bbe64e61f2d07191fc098e96ef79643c1521acdc0a0612e296fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04983",
+   "short": "Lei 4983/2022",
+   "title": "Lei nº 4.983, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/550",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/550/lei_4.983-pmc-22_abertura_de_credito_especial_r_70.00000_fms.pdf",
+     "sha256": "854d51c4c5f5dce199df92c7cb775b309bd2f80ce9a366d1b71f3543d690e833"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04982",
+   "short": "Lei 4982/2022",
+   "title": "Lei nº 4.982, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/552",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/552/lei_4.982-pmc-22_aberura_de_credito_especial_r_554.00000_semosp.pdf",
+     "sha256": "ce66a31d1d085df81f073e70217dcaf5b76b68104967ee0c5fcfebe2f3e6eb0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04981",
+   "short": "Lei 4981/2022",
+   "title": "Lei nº 4.981, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/554",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/554/lei_4.981-pmc-22_aberura_de_credito_suplementar_r_650.00000_fms.pdf",
+     "sha256": "9b9d0d20cf465e9eb6c815b9cda604e5b82e2105b27ae7e00ca6e40768fcf67d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04980",
+   "short": "Lei 4980/2022",
+   "title": "Lei nº 4.980, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/553",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/553/lei_4.980-pmc-22_abertura_de_credito_suplementar_r_72.00523_fms.pdf",
+     "sha256": "26ec6397b995d17d387427493b997dfac85a6c02cdcd7bc70816936d93bb5f1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04979",
+   "short": "Lei 4979/2022",
+   "title": "Lei nº 4.979, de 16 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/551",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/551/lei_4.979-pmc-_22_prorroga_o_refis.pdf",
+     "sha256": "c569e33bf4cf6e0d69d24259fb2caddeb016cb6a920afcd7f8cddde98a7aba8f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04978",
+   "short": "Lei 4978/2022",
+   "title": "Lei nº 4.978, de 4 de março de 2022",
+   "url": "https://sapl.cacoal.ro.leg.br/norma/450",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 3,
+     "source_url": "https://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2022/450/lei_4.978-pmc-22_altera_a_lei_2.554_ctm.pdf",
+     "sha256": "6b1f662ed8375c64e6461fd66f17c80b9843ccb1991a494d17bcc82309f5b854"
+    }
+   ]
   }
  ]
 }
